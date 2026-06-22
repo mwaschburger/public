@@ -743,5 +743,205 @@
       "o-que-e-fator-r",
       "como-abrir-empresa-passo-a-passo"
     ]
+  },
+  {
+    "id": 35,
+    "slug": "como-abrir-loja-online",
+    "title": "Como abrir uma loja online: CNAE, regime tributário e nota fiscal",
+    "subtitle": "Guia completo para formalizar um e-commerce no Brasil",
+    "excerpt": "Vender online também é vender com CNPJ — veja CNAE, regime e como emitir nota fiscal de produto.",
+    "category": "Abertura de Empresa",
+    "date": "2026-06-14",
+    "readTime": 9,
+    "image": "https://images.pexels.com/photos/8938932/pexels-photo-8938932.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "como abrir loja online",
+      "cnae e-commerce",
+      "nota fiscal venda online",
+      "mei ou slu para e-commerce"
+    ],
+    "metaDescription": "Como abrir uma loja online: CNAE de comércio eletrônico, MEI ou SLU, regime tributário ideal e como emitir nota fiscal de produto.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "mei-ou-slu-qual-escolher",
+      "quanto-custa-abrir-empresa",
+      "como-emitir-nota-fiscal-de-servico"
+    ]
+  },
+  {
+    "id": 36,
+    "slug": "o-que-e-iss",
+    "title": "O que é ISS: o que significa e como funciona na prática",
+    "subtitle": "O imposto municipal que incide sobre quem presta serviço",
+    "excerpt": "ISS é municipal, varia de cidade para cidade, e entender como ele funciona evita surpresa na nota fiscal.",
+    "category": "Glossário",
+    "date": "2026-06-13",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/35576571/pexels-photo-35576571.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "o que é iss",
+      "iss alíquota",
+      "imposto sobre serviços",
+      "iss nota fiscal"
+    ],
+    "metaDescription": "O que é ISS, como ele é calculado, quem paga e a diferença entre ISS fixo e ISS sobre faturamento. Exemplo prático.",
+    "ctaTheme": "tributario",
+    "relatedSlugs": [
+      "como-emitir-nota-fiscal-de-servico",
+      "como-calcular-o-das-simples-nacional",
+      "o-que-e-fator-r"
+    ]
+  },
+  {
+    "id": 37,
+    "slug": "lucro-presumido-ou-lucro-real",
+    "title": "Lucro Presumido ou Lucro Real: qual escolher",
+    "subtitle": "A decisão que aparece quando a empresa cresce além do limite do Simples",
+    "excerpt": "Os dois regimes para empresas que faturam mais — entenda a diferença antes de decidir.",
+    "category": "Tributário",
+    "date": "2026-06-12",
+    "readTime": 9,
+    "image": "https://images.pexels.com/photos/6779226/pexels-photo-6779226.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "lucro presumido ou lucro real",
+      "lucro presumido x lucro real",
+      "qual regime tributário escolher",
+      "lucro real quando vale a pena"
+    ],
+    "metaDescription": "Lucro Presumido ou Lucro Real: o que é cada um, quando cada regime vale mais a pena, e exemplo prático de comparação.",
+    "ctaTheme": "tributario",
+    "relatedSlugs": [
+      "simples-nacional-ou-lucro-presumido",
+      "irpj-pessoa-juridica-regimes",
+      "como-calcular-o-das-simples-nacional"
+    ]
+  },
+  {
+    "id": 38,
+    "slug": "como-fazer-folha-de-pagamento-clt",
+    "title": "Como fazer a folha de pagamento de um funcionário CLT",
+    "subtitle": "O passo a passo de quem vai contratar o primeiro funcionário formal",
+    "excerpt": "Salário é só uma parte da conta — veja tudo que entra na folha de um funcionário CLT.",
+    "category": "Gestão Empresarial",
+    "date": "2026-06-11",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/8117465/pexels-photo-8117465.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "como fazer folha de pagamento",
+      "folha de pagamento clt",
+      "esocial folha de pagamento",
+      "custo funcionário clt"
+    ],
+    "metaDescription": "Como fazer a folha de pagamento de um funcionário CLT: o que incluir, eSocial, encargos e os erros mais comuns.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "quando-contratar-funcionario-clt",
+      "clt-ou-pj-2025",
+      "o-que-e-pro-labore"
+    ]
+  },
+  {
+    "id": 39,
+    "slug": "o-que-e-distribuicao-de-lucros",
+    "title": "O que é distribuição de lucros: como funciona na prática",
+    "subtitle": "A forma mais eficiente de retirar dinheiro da empresa, quando bem planejada",
+    "excerpt": "Diferente do pró-labore, a distribuição de lucros pode ser isenta de Imposto de Renda — veja como funciona.",
+    "category": "Glossário",
+    "date": "2026-06-10",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/209224/pexels-photo-209224.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "o que é distribuição de lucros",
+      "distribuição de lucros isenção",
+      "lucro isento ir",
+      "retirar dinheiro da empresa"
+    ],
+    "metaDescription": "O que é distribuição de lucros, como ela difere do pró-labore, e por que pode ser isenta de Imposto de Renda. Exemplo prático.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "o-que-e-pro-labore",
+      "pro-labore-vs-lucros",
+      "como-fazer-fluxo-de-caixa-simples"
+    ]
+  },
+  {
+    "id": 40,
+    "slug": "como-abrir-clinica-de-estetica",
+    "title": "Como abrir uma clínica de estética: CNAE, regime e licenças",
+    "subtitle": "O que muda na formalização de um negócio que precisa de alvará sanitário",
+    "excerpt": "Clínica de estética tem uma camada extra de burocracia: vigilância sanitária. Veja o caminho completo.",
+    "category": "Abertura de Empresa",
+    "date": "2026-06-09",
+    "readTime": 9,
+    "image": "https://images.pexels.com/photos/12955896/pexels-photo-12955896.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "como abrir clínica de estética",
+      "cnae estética",
+      "alvará vigilância sanitária estética",
+      "mei estética"
+    ],
+    "metaDescription": "Como abrir clínica de estética: CNAE correto, MEI ou SLU, regime tributário e o alvará de vigilância sanitária necessário.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "como-abrir-empresa-passo-a-passo",
+      "mei-ou-slu-qual-escolher",
+      "o-que-e-cnae"
+    ]
+  },
+  {
+    "id": 41,
+    "slug": "o-que-e-capital-social",
+    "title": "O que é capital social: o que significa e como definir o valor",
+    "subtitle": "O valor que os sócios destinam para constituir e operar a empresa",
+    "excerpt": "Não existe valor mínimo legal na maioria dos casos — mas definir errado gera problema depois.",
+    "category": "Glossário",
+    "date": "2026-06-08",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/33600/pexels-photo-33600.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "o que é capital social",
+      "capital social valor mínimo",
+      "como definir capital social",
+      "integralização capital social"
+    ],
+    "metaDescription": "O que é capital social, se existe valor mínimo, como integralizar e os erros mais comuns ao definir esse valor na abertura da empresa.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "slu-ou-ltda-diferencas-que-importam",
+      "contrato-social-o-que-nao-pode-faltar",
+      "como-abrir-empresa-passo-a-passo"
+    ]
+  },
+  {
+    "id": 42,
+    "slug": "como-abrir-restaurante-ou-delivery",
+    "title": "Como abrir um restaurante ou delivery: CNAE, regime e vigilância sanitária",
+    "subtitle": "O caminho completo para formalizar um negócio de alimentação",
+    "excerpt": "Alimentação tem uma das maiores cargas de licenciamento entre os segmentos — veja o que não pode faltar.",
+    "category": "Abertura de Empresa",
+    "date": "2026-06-07",
+    "readTime": 9,
+    "image": "https://images.pexels.com/photos/7688439/pexels-photo-7688439.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "como abrir restaurante",
+      "como abrir delivery",
+      "cnae alimentação",
+      "mei cozinha alvará sanitário"
+    ],
+    "metaDescription": "Como abrir restaurante ou delivery: CNAE, MEI ou SLU, regime tributário, vigilância sanitária e os erros mais comuns no setor de alimentação.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "como-abrir-clinica-de-estetica",
+      "como-abrir-loja-online",
+      "quanto-custa-abrir-empresa"
+    ]
   }
 ]
