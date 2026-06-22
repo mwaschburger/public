@@ -1,0 +1,545 @@
+[
+  {
+    "id": 1,
+    "slug": "slu-ou-ltda-diferencas-que-importam",
+    "title": "SLU ou LTDA: as 3 diferenças que realmente importam na prática",
+    "subtitle": "Guia completo para escolher o tipo societário certo ao abrir empresa no Brasil",
+    "excerpt": "O que muda no dia a dia para você como único sócio — e quando a LTDA faz mais sentido.",
+    "summary": "Escolher entre SLU e LTDA é a primeira grande decisão de quem vai abrir empresa. Este guia explica, em linguagem direta, o que muda na prática: do contrato social aos impostos, do custo de abertura à facilidade de incluir sócios no futuro. Se você vai empreender sozinho, a resposta quase sempre é SLU — mas há exceções importantes.",
+    "category": "Abertura de Empresa",
+    "date": "2026-06-10",
+    "readTime": 12,
+    "image": "https://images.pexels.com/photos/8847133/pexels-photo-8847133.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "featured": true,
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "SLU",
+      "LTDA",
+      "abertura de empresa",
+      "tipo societário",
+      "sociedade limitada unipessoal",
+      "abrir CNPJ"
+    ],
+    "metaDescription": "Saiba a diferença entre SLU e LTDA na prática: sócios, contrato social, tributação e custo. Guia completo para quem vai abrir empresa no Brasil.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "das-darf-gps-guia-pratico",
+      "simples-nacional-ou-lucro-presumido",
+      "como-abrir-empresa-passo-a-passo",
+      "contrato-social-o-que-e-para-que-serve",
+      "cnae-errado-consequencias"
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "das-darf-gps-guia-pratico",
+    "title": "DAS, DARF, GPS: o guia prático das guias que todo empreendedor vai encontrar",
+    "excerpt": "Glossário visual de obrigações mensais para você nunca mais ficar em dúvida do que pagar.",
+    "category": "Tributário",
+    "date": "2026-06-08",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/6863250/pexels-photo-6863250.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r"
+  },
+  {
+    "id": 3,
+    "slug": "simples-nacional-ou-lucro-presumido",
+    "title": "Simples Nacional ou Lucro Presumido: a diferença que mais pesa no bolso",
+    "excerpt": "Entenda qual regime tributário vai fazer você pagar menos imposto — e quando trocar.",
+    "category": "Tributário",
+    "date": "2026-06-03",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/6927334/pexels-photo-6927334.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r"
+  },
+  {
+    "id": 4,
+    "slug": "limite-mei-2026-mudancas",
+    "title": "Limite do MEI em 2026: o que está mudando e como se preparar",
+    "excerpt": "O teto do MEI não é mais o mesmo de sempre — e ignorar isso pode custar caro.",
+    "category": "MEI",
+    "date": "2026-05-28",
+    "readTime": 5,
+    "image": "https://images.pexels.com/photos/8938932/pexels-photo-8938932.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r"
+  },
+  {
+    "id": 5,
+    "slug": "pro-labore-vs-lucros",
+    "title": "Pro-labore vs. lucros: como se pagar sem pagar mais imposto",
+    "excerpt": "A decisão de como os sócios retiram dinheiro da empresa tem impacto direto na carga tributária.",
+    "category": "Gestão Empresarial",
+    "date": "2026-05-22",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/7688439/pexels-photo-7688439.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w"
+  },
+  {
+    "id": 6,
+    "slug": "abrir-empresa-o-que-ninguem-conta",
+    "title": "O que ninguém te conta antes de abrir empresa no Brasil",
+    "excerpt": "Custos ocultos, obrigações mensais e armadilhas comuns que pegam todo mundo de surpresa.",
+    "category": "Gestão Empresarial",
+    "date": "2026-05-15",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/3756681/pexels-photo-3756681.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w"
+  },
+  {
+    "id": 7,
+    "slug": "contrato-social-o-que-nao-pode-faltar",
+    "title": "Contrato social: o que não pode faltar e o que você provavelmente esqueceu",
+    "excerpt": "O documento que funda sua empresa também protege você — se for bem feito.",
+    "category": "Jurídico",
+    "date": "2026-05-08",
+    "readTime": 4,
+    "image": "https://images.pexels.com/photos/48148/pexels-photo-48148.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h"
+  },
+  {
+    "id": 8,
+    "slug": "reforma-tributaria-2026-pmes",
+    "title": "Reforma Tributária 2026: o que muda de verdade para PMEs",
+    "excerpt": "Sem o juridiquês: o que a reforma significa na prática para quem tem uma pequena ou média empresa.",
+    "category": "Na Pauta",
+    "date": "2026-06-01",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/1181355/pexels-photo-1181355.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r"
+  },
+  {
+    "id": 9,
+    "slug": "quando-contratar-funcionario-clt",
+    "title": "Quando contratar um funcionário de verdade — e quando a CLT vai custar mais do que o negócio vale",
+    "excerpt": "O custo real de uma contratação CLT vai muito além do salário que você combina.",
+    "category": "Gestão Empresarial",
+    "date": "2026-04-28",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/4895430/pexels-photo-4895430.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w"
+  },
+  {
+    "id": 10,
+    "slug": "irpj-pessoa-juridica-regimes",
+    "title": "O imposto de renda da pessoa jurídica: o que varia conforme o regime e como planejar",
+    "excerpt": "IRPJ não é bicho de sete cabeças — mas ignorá-lo tem consequências sérias.",
+    "category": "Tributário",
+    "date": "2026-04-22",
+    "readTime": 9,
+    "image": "https://images.pexels.com/photos/6863330/pexels-photo-6863330.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r"
+  },
+  {
+    "id": 11,
+    "slug": "cnae-errado-simples-nacional",
+    "title": "CNAE errado: o erro silencioso que pode inviabilizar seu enquadramento no Simples Nacional",
+    "excerpt": "Um código de 7 dígitos que define sua tributação, suas licenças e até se você pode ser MEI.",
+    "category": "Jurídico",
+    "date": "2026-04-15",
+    "readTime": 5,
+    "image": "https://images.pexels.com/photos/6077447/pexels-photo-6077447.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r"
+  },
+  {
+    "id": 12,
+    "slug": "como-abrir-empresa-passo-a-passo",
+    "title": "Como abrir empresa: guia passo a passo completo em 2025",
+    "subtitle": "Do CNAE ao alvará — tudo que você precisa fazer na ordem certa",
+    "excerpt": "Oito etapas na ordem certa, com custos reais e prazos reais. Sem enrolação.",
+    "summary": "Abrir empresa no Brasil ficou mais simples nos últimos anos, mas ainda tem etapas que travam muita gente. Este guia mostra cada passo na ordem certa: do tipo societário ao alvará, passando por CNAE, Junta Comercial, CNPJ e conta PJ. Custo total estimado: R$ 800 a R$ 2.300. Prazo: 7 a 20 dias úteis.",
+    "category": "Abertura de Empresa",
+    "date": "2025-01-08",
+    "readTime": 10,
+    "image": "https://images.pexels.com/photos/5324967/pexels-photo-5324967.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "como abrir empresa",
+      "abrir empresa 2025",
+      "abertura de empresa passo a passo",
+      "como abrir CNPJ",
+      "abrir empresa sozinho"
+    ],
+    "metaDescription": "Guia completo para abrir empresa em 2025: 8 passos na ordem certa, custos reais e prazos. MEI, SLU ou LTDA — saiba o que escolher.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "slu-ou-ltda-diferencas-que-importam",
+      "quanto-custa-abrir-empresa",
+      "cnae-errado-simples-nacional",
+      "simples-nacional-2025-tabela-aliquotas"
+    ]
+  },
+  {
+    "id": 13,
+    "slug": "psicologo-pode-ser-mei",
+    "title": "Psicólogo pode ser MEI? A resposta direta (e o que fazer em vez disso)",
+    "subtitle": "Por que a atividade de psicologia é vedada no MEI e qual é a alternativa certa",
+    "excerpt": "A resposta é não — e entender o porquê evita que você abra um MEI que vai ser cancelado.",
+    "summary": "Psicólogo não pode ser MEI porque a psicologia é uma profissão regulamentada pelo CFP, e atividades que exigem formação superior e registro em conselho profissional estão fora da lista permitida para o MEI. A alternativa mais indicada é a SLU no Simples Nacional, que com o Fator R pode ter alíquota efetiva de 6% sobre o faturamento.",
+    "category": "MEI",
+    "date": "2025-01-15",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/7579309/pexels-photo-7579309.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "psicologo pode ser mei",
+      "mei para psicologo",
+      "cnpj psicologo",
+      "psicólogo mei",
+      "psicologo mei ou slu"
+    ],
+    "metaDescription": "Psicólogo pode ser MEI? Não — descubra por que a atividade é vedada e qual é a melhor alternativa para formalizar sua prática.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "cnpj-para-psicologo",
+      "slu-ou-ltda-diferencas-que-importam",
+      "simples-nacional-2025-tabela-aliquotas"
+    ]
+  },
+  {
+    "id": 14,
+    "slug": "cnpj-para-psicologo",
+    "title": "CNPJ para psicólogo: como abrir empresa e pagar menos imposto",
+    "subtitle": "Guia completo: CNAE, regime tributário, Fator R e documentos necessários",
+    "excerpt": "A estrutura certa reduz sua carga tributária de 27% para menos de 10%. Entenda como.",
+    "summary": "Psicólogos não podem ser MEI — mas podem (e devem) ter CNPJ via SLU no Simples Nacional. Com a configuração correta e o Fator R ativo, a alíquota efetiva começa em 6% sobre o faturamento. O CNAE correto é 8690-9/14 e o regime recomendado é Simples Nacional Anexo III com Fator R.",
+    "category": "Abertura de Empresa",
+    "date": "2025-01-22",
+    "readTime": 9,
+    "image": "https://images.pexels.com/photos/5336963/pexels-photo-5336963.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "cnpj para psicologo",
+      "abrir empresa psicologo",
+      "psicologo pj",
+      "cnae psicologo",
+      "simples nacional psicologo"
+    ],
+    "metaDescription": "Como abrir CNPJ sendo psicólogo em 2025: CNAE correto, SLU ou LTDA, Fator R e quanto paga de imposto. Guia completo.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "psicologo-pode-ser-mei",
+      "slu-ou-ltda-diferencas-que-importam",
+      "simples-nacional-2025-tabela-aliquotas",
+      "pro-labore-vs-lucros"
+    ]
+  },
+  {
+    "id": 15,
+    "slug": "medico-pode-ser-mei",
+    "title": "Médico pode ser MEI? Por que a resposta é não (e o que fazer)",
+    "subtitle": "A alternativa certa para médicos que querem se formalizar como PJ",
+    "excerpt": "Médico não pode ser MEI. Entenda o motivo e descubra como pagar menos imposto sendo médico PJ.",
+    "summary": "Médico não pode ser MEI porque medicina é profissão regulamentada pelo CFM — e profissões que exigem formação superior e registro em conselho federal estão fora da lista de atividades permitidas para o MEI. A alternativa correta é SLU ou LTDA no Simples Nacional, com Fator R que pode trazer a alíquota efetiva para 6%.",
+    "category": "MEI",
+    "date": "2025-02-05",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/4173248/pexels-photo-4173248.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "medico pode ser mei",
+      "mei para medico",
+      "cnpj medico",
+      "médico mei",
+      "medico pj simples nacional"
+    ],
+    "metaDescription": "Médico pode ser MEI? Não — e entenda por que. Veja a alternativa certa para médicos que querem pagar menos imposto sendo PJ.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "cnpj-para-medico",
+      "slu-ou-ltda-diferencas-que-importam",
+      "psicologo-pode-ser-mei"
+    ]
+  },
+  {
+    "id": 16,
+    "slug": "cnpj-para-medico",
+    "title": "CNPJ para médico: guia completo para abrir empresa médica em 2025",
+    "subtitle": "CNAE, Fator R, SLU vs LTDA e quanto o médico PJ realmente paga de imposto",
+    "excerpt": "Como estruturar sua empresa médica para pagar o mínimo legal de imposto — com exemplos práticos.",
+    "summary": "Médicos não podem ser MEI, mas devem ter CNPJ via SLU ou LTDA no Simples Nacional. Com Fator R ativo, a alíquota efetiva começa em 6% — contra até 27,5% como autônomo pessoa física. O CNAE principal é 8630-5/01 para clínica geral. A configuração correta do pró-labore é o passo mais importante para ativar o Fator R.",
+    "category": "Abertura de Empresa",
+    "date": "2025-02-12",
+    "readTime": 10,
+    "image": "https://images.pexels.com/photos/7579831/pexels-photo-7579831.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "cnpj para medico",
+      "abrir empresa medico",
+      "medico pj",
+      "cnae medico",
+      "simples nacional medico fator r"
+    ],
+    "metaDescription": "Como abrir CNPJ sendo médico em 2025: CNAE correto, SLU vs LTDA, Fator R e quanto paga de imposto. Guia completo.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "medico-pode-ser-mei",
+      "slu-ou-ltda-diferencas-que-importam",
+      "pro-labore-vs-lucros",
+      "simples-nacional-2025-tabela-aliquotas"
+    ]
+  },
+  {
+    "id": 17,
+    "slug": "clt-ou-pj-2025",
+    "title": "CLT ou PJ em 2025: qual vale mais a pena? A conta completa",
+    "subtitle": "Comparação real considerando todos os benefícios, riscos e imposto de cada regime",
+    "excerpt": "A matemática que ninguém faz direito — com exemplos para salários de R$ 5k, R$ 10k e R$ 20k.",
+    "summary": "Ser PJ vale a pena quando o valor bruto recebido é pelo menos 30-40% maior que o salário CLT equivalente — o suficiente para cobrir o que você perde em benefícios (FGTS, férias, 13°) e o que você ganha em tributação menor. Para salários acima de R$ 8.000, o PJ bem estruturado quase sempre sai na frente na matemática pura.",
+    "category": "Gestão Empresarial",
+    "date": "2025-01-29",
+    "readTime": 11,
+    "image": "https://images.pexels.com/photos/5668863/pexels-photo-5668863.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "clt ou pj",
+      "clt ou pj 2025",
+      "vale a pena ser pj",
+      "diferença clt pj",
+      "clt vs pj calculo"
+    ],
+    "metaDescription": "CLT ou PJ em 2025: qual vale mais a pena? A conta completa com exemplos para R$ 5k, R$ 10k e R$ 20k. Benefícios, impostos e riscos.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "como-abrir-empresa-passo-a-passo",
+      "pro-labore-vs-lucros",
+      "slu-ou-ltda-diferencas-que-importam"
+    ]
+  },
+  {
+    "id": 18,
+    "slug": "quanto-custa-abrir-empresa",
+    "title": "Quanto custa abrir empresa no Brasil em 2025",
+    "subtitle": "MEI, SLU e LTDA: custos de abertura, manutenção mensal e o que varia por estado",
+    "excerpt": "Do registro na Junta ao alvará: todos os custos reais para você não ter surpresa na hora de abrir.",
+    "summary": "Abrir MEI é praticamente gratuito (custo de abertura zero, taxa mensal de R$ 75). Abrir SLU custa entre R$ 800 e R$ 2.300 entre honorários de contador, registro na Junta e certificado digital. LTDA com sócios pode custar de R$ 1.200 a R$ 3.500. A manutenção mensal (contador + impostos) é onde está o custo contínuo.",
+    "category": "Abertura de Empresa",
+    "date": "2025-01-10",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/7821546/pexels-photo-7821546.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "quanto custa abrir empresa",
+      "custo abertura empresa",
+      "valor abrir empresa 2025",
+      "taxa abertura empresa",
+      "custo mei slu ltda"
+    ],
+    "metaDescription": "Quanto custa abrir empresa em 2025? Custos reais de MEI, SLU e LTDA: registro, contador, alvará e manutenção mensal por estado.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "como-abrir-empresa-passo-a-passo",
+      "slu-ou-ltda-diferencas-que-importam"
+    ]
+  },
+  {
+    "id": 19,
+    "slug": "simples-nacional-2025-tabela-aliquotas",
+    "title": "Simples Nacional 2025: tabela completa de alíquotas e como calcular a sua",
+    "subtitle": "Os 6 Anexos, as faixas de faturamento e a fórmula para saber exatamente quanto você vai pagar",
+    "excerpt": "Tabela atualizada 2025 com alíquotas nominais, parcelas a deduzir e fórmula da alíquota efetiva.",
+    "summary": "O Simples Nacional tem 6 Anexos com alíquotas que variam de 4% a 33% conforme o faturamento acumulado nos últimos 12 meses. A alíquota efetiva é sempre menor que a nominal — calculada pela fórmula: (RBT12 × Alíq − PD) / RBT12. Para prestadores de serviço, o Fator R pode migrar do Anexo V (15,5%+) para o Anexo III (6%+).",
+    "category": "Tributário",
+    "date": "2025-01-05",
+    "readTime": 9,
+    "image": "https://images.pexels.com/photos/259257/pexels-photo-259257.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "simples nacional 2025",
+      "tabela simples nacional 2025",
+      "aliquota simples nacional",
+      "simples nacional anexos",
+      "calcular simples nacional"
+    ],
+    "metaDescription": "Tabela do Simples Nacional 2025 atualizada: 6 Anexos, alíquotas efetivas e fórmula de cálculo. Como saber exatamente quanto sua empresa vai pagar.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "simples-nacional-ou-lucro-presumido",
+      "das-darf-gps-guia-pratico",
+      "pro-labore-vs-lucros"
+    ]
+  },
+  {
+    "id": 20,
+    "slug": "fisioterapeuta-pode-ser-mei",
+    "title": "Fisioterapeuta pode ser MEI? A resposta e as alternativas",
+    "excerpt": "Fisioterapeutas não podem ser MEI. Veja qual é a estrutura certa e como pagar menos imposto.",
+    "summary": "Fisioterapeuta não pode ser MEI porque a fisioterapia é profissão regulamentada pelo COFFITO. A alternativa correta é SLU no Simples Nacional — com Fator R ativo, a alíquota efetiva começa em 6%. O CNAE principal é 8650-0/04.",
+    "category": "MEI",
+    "date": "2025-02-19",
+    "readTime": 5,
+    "image": "https://images.pexels.com/photos/6111585/pexels-photo-6111585.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "fisioterapeuta pode ser mei",
+      "mei fisioterapeuta",
+      "cnpj fisioterapeuta",
+      "fisioterapeuta pj"
+    ],
+    "metaDescription": "Fisioterapeuta pode ser MEI? Não — entenda por que e qual é a alternativa para pagar menos imposto como fisioterapeuta PJ.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "psicologo-pode-ser-mei",
+      "medico-pode-ser-mei",
+      "slu-ou-ltda-diferencas-que-importam"
+    ]
+  },
+  {
+    "id": 21,
+    "slug": "advogado-pode-ser-mei",
+    "title": "Advogado pode ser MEI? Por que a OAB veda e o que fazer",
+    "excerpt": "Advogado não pode ser MEI — e a vedação vem tanto da lei do MEI quanto do Estatuto da OAB.",
+    "summary": "Advogado não pode ser MEI por dupla vedação: a atividade de advocacia não está na lista do MEI e o Estatuto da OAB proíbe expressamente o exercício da advocacia sob regime MEI. A alternativa é SLU ou sociedade de advogados — com Simples Nacional e Fator R, a alíquota começa em 6%.",
+    "category": "MEI",
+    "date": "2025-03-05",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/8112159/pexels-photo-8112159.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "advogado pode ser mei",
+      "mei advogado",
+      "cnpj advogado",
+      "oab mei",
+      "advogado pj"
+    ],
+    "metaDescription": "Advogado pode ser MEI? Não — a OAB proíbe expressamente. Veja a alternativa correta para advogados que querem ser PJ.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "como-abrir-empresa-para-advogados",
+      "slu-ou-ltda-diferencas-que-importam",
+      "simples-nacional-2025-tabela-aliquotas"
+    ]
+  },
+  {
+    "id": 22,
+    "slug": "como-abrir-empresa-para-advogados",
+    "title": "Como abrir empresa para advogados: Sociedade Individual de Advocacia passo a passo",
+    "subtitle": "Da OAB ao CNPJ: o guia completo para advogados que querem ser PJ",
+    "excerpt": "Advogados têm estrutura societária própria — e abrir errado pode gerar problemas éticos sérios.",
+    "summary": "Advogados devem abrir Sociedade Individual de Advocacia (SIA) — registrada na OAB, não na Junta Comercial. Com Simples Nacional e Fator R, a alíquota efetiva começa em 6%. O CNAE é 6911-7/01. O processo leva 15 a 30 dias e custa entre R$ 600 e R$ 1.500.",
+    "category": "Abertura de Empresa",
+    "date": "2025-03-12",
+    "readTime": 9,
+    "image": "https://images.pexels.com/photos/7876191/pexels-photo-7876191.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "como abrir empresa advogado",
+      "sociedade individual de advocacia",
+      "SIA advocacia",
+      "cnpj advogado OAB",
+      "advogado pj simples nacional"
+    ],
+    "metaDescription": "Como abrir empresa para advogados em 2025: Sociedade Individual de Advocacia, registro na OAB, Simples Nacional e Fator R. Guia completo.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "advogado-pode-ser-mei",
+      "slu-ou-ltda-diferencas-que-importam",
+      "simples-nacional-2025-tabela-aliquotas",
+      "pro-labore-vs-lucros"
+    ]
+  },
+  {
+    "id": 23,
+    "slug": "engenheiro-pode-ser-mei",
+    "title": "Engenheiro pode ser MEI? A verdade sobre a vedação e as alternativas",
+    "excerpt": "Engenheiro não pode ser MEI — e o CREA não permite. Veja como formalizar corretamente.",
+    "summary": "Engenheiro não pode ser MEI porque engenharia é profissão regulamentada pelo CREA, com registro obrigatório. A alternativa é SLU ou LTDA no Simples Nacional — para engenharia, o enquadramento pode ser Anexo III com Fator R (alíquota a partir de 6%) ou Lucro Presumido para faturamentos maiores.",
+    "category": "MEI",
+    "date": "2025-04-02",
+    "readTime": 5,
+    "image": "https://images.pexels.com/photos/3862135/pexels-photo-3862135.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "engenheiro pode ser mei",
+      "mei engenheiro",
+      "cnpj engenheiro",
+      "engenheiro pj",
+      "crea mei"
+    ],
+    "metaDescription": "Engenheiro pode ser MEI? Não — o CREA veda. Saiba qual é a estrutura certa para engenheiros que querem ser PJ e pagar menos imposto.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "slu-ou-ltda-diferencas-que-importam",
+      "simples-nacional-2025-tabela-aliquotas",
+      "clt-ou-pj-2025"
+    ]
+  },
+  {
+    "id": 24,
+    "slug": "dentista-pode-ser-mei",
+    "title": "Dentista pode ser MEI? Por que não e qual é a alternativa",
+    "excerpt": "Dentistas não podem ser MEI — o CFO veda. Veja como abrir empresa e reduzir a carga tributária.",
+    "summary": "Dentista não pode ser MEI porque odontologia é profissão regulamentada pelo CFO. A alternativa correta é SLU ou LTDA no Simples Nacional. Com Fator R ativo, a alíquota efetiva começa em 6%. O CNAE principal é 8630-5/09.",
+    "category": "MEI",
+    "date": "2025-10-01",
+    "readTime": 5,
+    "image": "https://images.pexels.com/photos/3779706/pexels-photo-3779706.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "dentista pode ser mei",
+      "mei dentista",
+      "cnpj dentista",
+      "cirurgiao dentista pj",
+      "dentista simples nacional"
+    ],
+    "metaDescription": "Dentista pode ser MEI? Não — entenda por que e qual é a melhor estrutura para dentistas que querem ser PJ.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "medico-pode-ser-mei",
+      "psicologo-pode-ser-mei",
+      "slu-ou-ltda-diferencas-que-importam"
+    ]
+  },
+  {
+    "id": 25,
+    "slug": "nutricionista-pode-ser-mei",
+    "title": "Nutricionista pode ser MEI? Não — e esta é a alternativa certa",
+    "excerpt": "Nutricionistas não podem ser MEI por serem profissão regulamentada pelo CFN.",
+    "summary": "Nutricionista não pode ser MEI porque nutrição é regulamentada pelo CFN e exige registro no CRN. A alternativa é SLU no Simples Nacional com Fator R — alíquota efetiva de 6% para quem fatura até R$ 180.000/ano. O CNAE é 8690-9/99.",
+    "category": "MEI",
+    "date": "2025-05-07",
+    "readTime": 4,
+    "image": "https://images.pexels.com/photos/7659873/pexels-photo-7659873.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "nutricionista pode ser mei",
+      "mei nutricionista",
+      "cnpj nutricionista",
+      "nutricionista pj"
+    ],
+    "metaDescription": "Nutricionista pode ser MEI? Não — saiba por que e qual é a melhor forma de formalizar como nutricionista PJ.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "psicologo-pode-ser-mei",
+      "medico-pode-ser-mei",
+      "slu-ou-ltda-diferencas-que-importam"
+    ]
+  },
+  {
+    "id": 26,
+    "slug": "cnpj-para-desenvolvedor",
+    "title": "CNPJ para desenvolvedor: como abrir empresa de TI e pagar menos imposto",
+    "subtitle": "Dev PJ: estrutura certa, CNAE correto e quanto você vai pagar de imposto",
+    "excerpt": "Dev PJ paga entre 6% e 10% de imposto no Simples — contra até 27,5% como autônomo. Veja como estruturar.",
+    "summary": "Desenvolvedores de software podem ser MEI (faturamento até R$ 81k/ano) ou abrir SLU no Simples Nacional para faturamentos maiores. O CNAE principal é 6201-5/01 para desenvolvimento de software. No Simples com Fator R, a alíquota efetiva começa em 6%. Dev PJ é uma das estruturas mais vantajosas disponíveis no Brasil.",
+    "category": "Abertura de Empresa",
+    "date": "2025-06-04",
+    "readTime": 10,
+    "image": "https://images.pexels.com/photos/1181359/pexels-photo-1181359.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "cnpj para desenvolvedor",
+      "dev pj",
+      "empresa desenvolvedor software",
+      "cnae desenvolvedor",
+      "desenvolvedor simples nacional"
+    ],
+    "metaDescription": "Como abrir empresa para desenvolvedor de software em 2025: MEI ou SLU, CNAE correto, Fator R e quanto paga de imposto. Guia completo.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "clt-ou-pj-2025",
+      "slu-ou-ltda-diferencas-que-importam",
+      "simples-nacional-2025-tabela-aliquotas",
+      "como-abrir-empresa-passo-a-passo"
+    ]
+  }
+]
