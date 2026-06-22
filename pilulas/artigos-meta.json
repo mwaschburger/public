@@ -541,5 +541,207 @@
       "simples-nacional-2025-tabela-aliquotas",
       "como-abrir-empresa-passo-a-passo"
     ]
+  },
+  {
+    "id": 27,
+    "slug": "mei-ou-slu-qual-escolher",
+    "title": "MEI ou SLU: qual é a empresa certa para você",
+    "subtitle": "Comparação prática entre os dois regimes mais comuns para quem está formalizando um negócio",
+    "excerpt": "Não existe resposta universal — depende do seu faturamento, da sua atividade e de para onde você quer levar o negócio.",
+    "summary": "MEI e SLU atendem perfis diferentes de empreendedor. O MEI é mais simples e barato, mas tem limite de faturamento, de funcionários e uma lista fechada de atividades permitidas. A SLU não tem esses limites e oferece proteção patrimonial mais robusta, em troca de mais burocracia. Este guia compara os dois lado a lado, com exemplo numérico.",
+    "category": "Abertura de Empresa",
+    "date": "2026-06-22",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/8938932/pexels-photo-8938932.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "mei ou slu",
+      "mei vs slu",
+      "qual empresa abrir",
+      "migrar mei para slu",
+      "tipo de empresa"
+    ],
+    "metaDescription": "MEI ou SLU: qual escolher? Comparação completa de limites, custos, proteção patrimonial e tributação para decidir com base na sua atividade e faturamento.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "limite-mei-2026-mudancas",
+      "slu-ou-ltda-diferencas-que-importam",
+      "quanto-custa-abrir-empresa"
+    ]
+  },
+  {
+    "id": 28,
+    "slug": "como-emitir-nota-fiscal-de-servico",
+    "title": "Como emitir nota fiscal de serviço: guia passo a passo",
+    "subtitle": "O documento que comprova, para a Receita e a prefeitura, que sua empresa prestou um serviço",
+    "excerpt": "Sem nota fiscal, o faturamento não existe oficialmente — veja como emitir certo, sem juridiquês.",
+    "category": "Gestão Empresarial",
+    "date": "2026-06-21",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/5324967/pexels-photo-5324967.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "como emitir nota fiscal",
+      "nota fiscal de serviço",
+      "nfs-e",
+      "emitir nota de serviço"
+    ],
+    "metaDescription": "Como emitir nota fiscal de serviço passo a passo: cadastro, dados do cliente, código de serviço, valor e envio. Erros comuns e quando buscar ajuda.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "das-darf-gps-guia-pratico",
+      "pro-labore-vs-lucros",
+      "como-fazer-fluxo-de-caixa-simples"
+    ]
+  },
+  {
+    "id": 29,
+    "slug": "o-que-e-pro-labore",
+    "title": "O que é pró-labore: o que significa e como funciona na prática",
+    "subtitle": "A remuneração do sócio pelo trabalho exercido dentro da própria empresa",
+    "excerpt": "Pró-labore é, na prática, o salário do dono — e calculá-lo errado custa caro em imposto e em INSS.",
+    "category": "Glossário",
+    "date": "2026-06-20",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/259257/pexels-photo-259257.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "o que é pró-labore",
+      "pro labore",
+      "como calcular pró-labore",
+      "pró-labore mei simples ltda"
+    ],
+    "metaDescription": "O que é pró-labore, como calcular, e a diferença entre pró-labore e distribuição de lucros. Exemplo numérico e erros comuns.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "pro-labore-vs-lucros",
+      "o-que-e-fator-r",
+      "irpj-pessoa-juridica-regimes"
+    ]
+  },
+  {
+    "id": 30,
+    "slug": "o-que-e-fator-r",
+    "title": "O que é Fator R: o que significa e como funciona na prática",
+    "subtitle": "A fórmula que pode reduzir o imposto de empresas de serviço no Simples Nacional",
+    "excerpt": "Entender o Fator R pode significar uma redução real no imposto pago todo mês.",
+    "category": "Glossário",
+    "date": "2026-06-19",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/6927334/pexels-photo-6927334.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "o que é fator r",
+      "fator r simples nacional",
+      "como calcular fator r",
+      "fator r anexo iii v"
+    ],
+    "metaDescription": "O que é Fator R, a fórmula completa, exemplo numérico e os erros mais comuns que fazem empresas pagarem imposto a mais.",
+    "ctaTheme": "tributario",
+    "relatedSlugs": [
+      "o-que-e-pro-labore",
+      "simples-nacional-ou-lucro-presumido",
+      "simples-nacional-2025-tabela-aliquotas"
+    ]
+  },
+  {
+    "id": 31,
+    "slug": "como-calcular-o-das-simples-nacional",
+    "title": "Como calcular o DAS do Simples Nacional",
+    "subtitle": "Entenda a lógica por trás do boleto único mensal de quem está no Simples",
+    "excerpt": "Entender como o DAS é calculado evita surpresas e ajuda no planejamento financeiro do negócio.",
+    "category": "Tributário",
+    "date": "2026-06-18",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/6863330/pexels-photo-6863330.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "como calcular das",
+      "das simples nacional",
+      "alíquota efetiva simples nacional",
+      "pgdas-d"
+    ],
+    "metaDescription": "Como calcular o DAS do Simples Nacional: RBT12, alíquota efetiva, como declarar e pagar, e os erros que geram multa.",
+    "ctaTheme": "tributario",
+    "relatedSlugs": [
+      "das-darf-gps-guia-pratico",
+      "simples-nacional-2025-tabela-aliquotas",
+      "o-que-e-fator-r"
+    ]
+  },
+  {
+    "id": 32,
+    "slug": "preciso-de-socio-para-abrir-empresa",
+    "title": "Preciso de sócio para abrir empresa?",
+    "subtitle": "Como saber se a decisão certa para você é abrir sozinho ou com sócio",
+    "excerpt": "A resposta direta é: hoje, no Brasil, não é obrigatório. Mas a decisão vai muito além da obrigatoriedade legal.",
+    "category": "Abertura de Empresa",
+    "date": "2026-06-17",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/7821546/pexels-photo-7821546.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "preciso de sócio",
+      "abrir empresa sozinho",
+      "slu sem sócio",
+      "sociedade limitada unipessoal"
+    ],
+    "metaDescription": "Preciso de sócio para abrir empresa? Critérios objetivos, cenários práticos e um checklist para decidir com segurança.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "slu-ou-ltda-diferencas-que-importam",
+      "como-abrir-empresa-passo-a-passo",
+      "mei-ou-slu-qual-escolher"
+    ]
+  },
+  {
+    "id": 33,
+    "slug": "como-fazer-fluxo-de-caixa-simples",
+    "title": "Como fazer fluxo de caixa simples: guia passo a passo",
+    "subtitle": "A ferramenta de gestão financeira mais importante para qualquer pequena empresa",
+    "excerpt": "Empresas lucrativas no papel quebram por falta de fluxo de caixa — veja como montar o seu, mesmo sem sistema sofisticado.",
+    "category": "Gestão Empresarial",
+    "date": "2026-06-16",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/1181355/pexels-photo-1181355.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "como fazer fluxo de caixa",
+      "fluxo de caixa simples",
+      "controle financeiro pequena empresa",
+      "planilha fluxo de caixa"
+    ],
+    "metaDescription": "Como fazer fluxo de caixa passo a passo: o que listar, como organizar por período, ferramentas e erros mais comuns.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "pro-labore-vs-lucros",
+      "como-emitir-nota-fiscal-de-servico",
+      "abrir-empresa-o-que-ninguem-conta"
+    ]
+  },
+  {
+    "id": 34,
+    "slug": "o-que-e-cnae",
+    "title": "O que é CNAE: o que significa e como escolher o certo",
+    "subtitle": "O código que identifica oficialmente a atividade da sua empresa",
+    "excerpt": "Escolher o código errado pode gerar dor de cabeça — e imposto a mais — lá na frente.",
+    "category": "Glossário",
+    "date": "2026-06-15",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/8847133/pexels-photo-8847133.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "o que é cnae",
+      "cnae principal e secundário",
+      "como escolher cnae",
+      "cnae simples nacional"
+    ],
+    "metaDescription": "O que é CNAE, como ele afeta a tributação no Simples Nacional, exemplo real e erros comuns na escolha do código.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "cnae-errado-simples-nacional",
+      "o-que-e-fator-r",
+      "como-abrir-empresa-passo-a-passo"
+    ]
   }
 ]
