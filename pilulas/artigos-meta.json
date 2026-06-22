@@ -943,5 +943,205 @@
       "como-abrir-loja-online",
       "quanto-custa-abrir-empresa"
     ]
+  },
+  {
+    "id": 43,
+    "slug": "como-alterar-contrato-social",
+    "title": "Como alterar o contrato social: o que muda e como fazer",
+    "subtitle": "O processo para atualizar dados, sócios ou atividades da empresa",
+    "excerpt": "Mudou de endereço, incluiu sócio ou trocou de atividade? O contrato social precisa acompanhar.",
+    "category": "Jurídico",
+    "date": "2026-06-06",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/7504780/pexels-photo-7504780.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "como alterar contrato social",
+      "alteração contratual junta comercial",
+      "incluir sócio contrato social",
+      "mudar cnae contrato social"
+    ],
+    "metaDescription": "Como alterar o contrato social: quando é necessário, o que diz a legislação, documentos exigidos e os erros mais comuns no processo.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "contrato-social-o-que-nao-pode-faltar",
+      "o-que-e-capital-social",
+      "preciso-de-socio-para-abrir-empresa"
+    ]
+  },
+  {
+    "id": 44,
+    "slug": "o-que-e-certidao-negativa",
+    "title": "O que é certidão negativa de débitos: para que serve e como emitir",
+    "subtitle": "O documento que comprova que a empresa está em dia com o fisco",
+    "excerpt": "Pedida em financiamentos, licitações e até para alguns contratos — saiba como tirar a sua.",
+    "category": "Glossário",
+    "date": "2026-06-05",
+    "readTime": 5,
+    "image": "https://images.pexels.com/photos/6863279/pexels-photo-6863279.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "o que é certidão negativa",
+      "certidão negativa de débitos",
+      "como emitir certidão negativa",
+      "cnd receita federal"
+    ],
+    "metaDescription": "O que é certidão negativa de débitos, para que serve, como emitir gratuitamente e o que fazer se a empresa tiver pendências.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "como-calcular-o-das-simples-nacional",
+      "das-darf-gps-guia-pratico",
+      "o-que-e-cnae"
+    ]
+  },
+  {
+    "id": 45,
+    "slug": "cnpj-para-startup",
+    "title": "CNPJ para startup: como abrir e estruturar uma empresa de tecnologia",
+    "subtitle": "O que muda na formalização de um negócio de tecnologia em crescimento",
+    "excerpt": "Startup tem particularidades que vão além do CNAE — veja estrutura societária, regime e captação.",
+    "category": "Abertura de Empresa",
+    "date": "2026-06-04",
+    "readTime": 9,
+    "image": "https://images.pexels.com/photos/270632/pexels-photo-270632.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "cnpj para startup",
+      "como abrir startup",
+      "cnae startup tecnologia",
+      "estrutura societária startup"
+    ],
+    "metaDescription": "CNPJ para startup: CNAE de tecnologia, estrutura societária para receber investimento, regime tributário e o que considerar antes de captar.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "cnpj-para-desenvolvedor",
+      "preciso-de-socio-para-abrir-empresa",
+      "como-abrir-loja-online"
+    ]
+  },
+  {
+    "id": 46,
+    "slug": "como-registrar-marca-no-inpi",
+    "title": "Como registrar uma marca no INPI: passo a passo",
+    "subtitle": "Proteja o nome do seu negócio antes que outra empresa registre primeiro",
+    "excerpt": "Ter CNPJ não protege o nome da sua marca — só o registro no INPI faz isso.",
+    "category": "Jurídico",
+    "date": "2026-06-03",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/33778/pexels-photo-33778.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "como registrar marca no inpi",
+      "registro de marca",
+      "proteger nome da empresa",
+      "inpi passo a passo"
+    ],
+    "metaDescription": "Como registrar uma marca no INPI: passo a passo, prazos, custos e por que ter CNPJ não é suficiente para proteger o nome do negócio.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "como-alterar-contrato-social",
+      "contrato-social-o-que-nao-pode-faltar",
+      "slu-ou-ltda-diferencas-que-importam"
+    ]
+  },
+  {
+    "id": 47,
+    "slug": "regime-de-caixa-ou-competencia",
+    "title": "Regime de caixa ou regime de competência: qual usar",
+    "subtitle": "Duas formas diferentes de registrar quando uma receita ou despesa 'aconteceu'",
+    "excerpt": "A escolha afeta como você lê o resultado financeiro do seu negócio — e em alguns casos, até o imposto.",
+    "category": "Tributário",
+    "date": "2026-06-02",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/259139/pexels-photo-259139.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "regime de caixa ou competência",
+      "regime de caixa simples nacional",
+      "diferença caixa e competência",
+      "regime de competência o que é"
+    ],
+    "metaDescription": "Regime de caixa ou competência: o que é cada um, como afetam a leitura do resultado financeiro, e qual o Simples Nacional permite usar.",
+    "ctaTheme": "tributario",
+    "relatedSlugs": [
+      "como-fazer-fluxo-de-caixa-simples",
+      "como-calcular-o-das-simples-nacional",
+      "o-que-e-distribuicao-de-lucros"
+    ]
+  },
+  {
+    "id": 48,
+    "slug": "o-que-e-sped",
+    "title": "O que é SPED: o que significa e como funciona",
+    "subtitle": "O sistema que unificou as obrigações fiscais digitais das empresas brasileiras",
+    "excerpt": "SPED aparece em conversa de contador o tempo todo — entenda o que é, sem precisar ser contador.",
+    "category": "Glossário",
+    "date": "2026-06-01",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/7580852/pexels-photo-7580852.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "o que é sped",
+      "sped fiscal",
+      "sped contábil ecd ecf",
+      "obrigações acessórias sped"
+    ],
+    "metaDescription": "O que é SPED, os principais módulos (ECD, ECF, Fiscal), quem precisa entregar e o que acontece em caso de atraso.",
+    "ctaTheme": "tributario",
+    "relatedSlugs": [
+      "regime-de-caixa-ou-competencia",
+      "lucro-presumido-ou-lucro-real",
+      "o-que-e-certidao-negativa"
+    ]
+  },
+  {
+    "id": 49,
+    "slug": "quanto-custa-funcionario-clt-na-pratica",
+    "title": "Quanto custa um funcionário CLT na prática: a conta completa",
+    "subtitle": "O salário é só a ponta do iceberg do custo real de contratar",
+    "excerpt": "Encargos, provisões e benefícios somam entre 60% e 80% além do salário bruto — veja a conta detalhada.",
+    "category": "Gestão Empresarial",
+    "date": "2026-05-31",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/7644004/pexels-photo-7644004.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "quanto custa funcionário clt",
+      "custo real funcionário clt",
+      "encargos trabalhistas clt",
+      "custo de empresa clt"
+    ],
+    "metaDescription": "Quanto custa um funcionário CLT na prática: salário, encargos, FGTS, férias, 13º e o cálculo completo do custo de empresa.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "como-fazer-folha-de-pagamento-clt",
+      "quando-contratar-funcionario-clt",
+      "clt-ou-pj-2025"
+    ]
+  },
+  {
+    "id": 50,
+    "slug": "como-abrir-empresa-de-construcao",
+    "title": "Como abrir uma empresa de construção ou reforma: CNAE e regime tributário",
+    "subtitle": "O que muda na formalização de quem presta serviço de obra",
+    "excerpt": "Construção tem uma lógica tributária própria — e o CNAE certo faz diferença real no imposto.",
+    "category": "Abertura de Empresa",
+    "date": "2026-05-30",
+    "readTime": 9,
+    "image": "https://images.pexels.com/photos/3862628/pexels-photo-3862628.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "como abrir empresa de construção",
+      "cnae construção civil",
+      "mei pedreiro",
+      "regime tributário construção"
+    ],
+    "metaDescription": "Como abrir empresa de construção ou reforma: CNAE correto, MEI ou SLU, regime tributário e os documentos técnicos exigidos.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "engenheiro-pode-ser-mei",
+      "como-abrir-empresa-passo-a-passo",
+      "o-que-e-cnae"
+    ]
   }
 ]
