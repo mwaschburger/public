@@ -1143,5 +1143,1171 @@
       "como-abrir-empresa-passo-a-passo",
       "o-que-e-cnae"
     ]
+  },
+  {
+    "id": 51,
+    "slug": "o-que-e-mei",
+    "title": "O que é MEI: o que significa e como funciona na prática",
+    "excerpt": "O regime de formalização mais simples do Brasil — entenda como funciona antes de abrir o seu.",
+    "category": "Glossário",
+    "date": "2025-11-05",
+    "readTime": 5,
+    "image": "https://images.pexels.com/photos/259257/pexels-photo-259257.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "o que é mei",
+      "microempreendedor individual",
+      "como funciona o mei",
+      "mei definição"
+    ],
+    "metaDescription": "O que é MEI, como funciona o DAS-MEI, quem pode optar e os limites do regime. Explicação direta, sem juridiquês.",
+    "ctaTheme": "mei",
+    "relatedSlugs": [
+      "mei-ou-slu-qual-escolher",
+      "limite-mei-2026-mudancas",
+      "o-que-e-simples-nacional"
+    ]
+  },
+  {
+    "id": 52,
+    "slug": "o-que-e-simples-nacional",
+    "title": "O que é Simples Nacional: o que significa e como funciona na prática",
+    "excerpt": "O regime tributário mais usado por pequenas empresas no Brasil — entenda a lógica por trás do nome.",
+    "category": "Glossário",
+    "date": "2025-11-18",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/33600/pexels-photo-33600.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "o que é simples nacional",
+      "simples nacional definição",
+      "como funciona o simples nacional"
+    ],
+    "metaDescription": "O que é Simples Nacional, os Anexos, como funciona o DAS, e quem pode optar por esse regime tributário.",
+    "ctaTheme": "tributario",
+    "relatedSlugs": [
+      "como-calcular-o-das-simples-nacional",
+      "simples-nacional-2025-tabela-aliquotas",
+      "o-que-e-fator-r"
+    ]
+  },
+  {
+    "id": 53,
+    "slug": "o-que-e-icms",
+    "title": "O que é ICMS: o que significa e como funciona na prática",
+    "excerpt": "O imposto estadual que incide sobre a circulação de mercadorias — e que varia de estado para estado.",
+    "category": "Glossário",
+    "date": "2025-12-02",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/259139/pexels-photo-259139.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "o que é icms",
+      "icms definição",
+      "icms alíquota estado",
+      "icms substituição tributária"
+    ],
+    "metaDescription": "O que é ICMS, como ele incide sobre venda de produtos, e por que a alíquota varia entre estados.",
+    "ctaTheme": "tributario",
+    "relatedSlugs": [
+      "como-abrir-loja-online",
+      "o-que-e-substituicao-tributaria",
+      "como-calcular-o-das-simples-nacional"
+    ]
+  },
+  {
+    "id": 54,
+    "slug": "o-que-e-pis-cofins",
+    "title": "O que é PIS/COFINS: o que significa e como funciona na prática",
+    "excerpt": "Duas contribuições federais que aparecem juntas — e que têm lógica de cálculo diferente conforme o regime.",
+    "category": "Glossário",
+    "date": "2025-12-15",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/209224/pexels-photo-209224.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "o que é pis cofins",
+      "pis cofins cumulativo não cumulativo",
+      "pis cofins definição"
+    ],
+    "metaDescription": "O que é PIS e COFINS, a diferença entre regime cumulativo e não-cumulativo, e como incidem no Simples e no Lucro Presumido/Real.",
+    "ctaTheme": "tributario",
+    "relatedSlugs": [
+      "lucro-presumido-ou-lucro-real",
+      "o-que-e-icms",
+      "como-calcular-o-das-simples-nacional"
+    ]
+  },
+  {
+    "id": 55,
+    "slug": "o-que-e-esocial",
+    "title": "O que é eSocial: o que significa e como funciona na prática",
+    "excerpt": "O sistema que centraliza as obrigações trabalhistas de qualquer empresa com empregado.",
+    "category": "Glossário",
+    "date": "2026-01-08",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/7580852/pexels-photo-7580852.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "o que é esocial",
+      "esocial definição",
+      "esocial obrigações trabalhistas"
+    ],
+    "metaDescription": "O que é eSocial, quem precisa declarar, o que ele substitui e os prazos mais importantes para o empregador.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "como-fazer-folha-de-pagamento-clt",
+      "quanto-custa-funcionario-clt-na-pratica",
+      "o-que-e-sped"
+    ]
+  },
+  {
+    "id": 56,
+    "slug": "o-que-e-inss-patronal",
+    "title": "O que é INSS patronal: o que significa e como funciona na prática",
+    "excerpt": "A parte da contribuição previdenciária que é custo da empresa, não do funcionário.",
+    "category": "Glossário",
+    "date": "2026-01-22",
+    "readTime": 5,
+    "image": "https://images.pexels.com/photos/6863279/pexels-photo-6863279.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "o que é inss patronal",
+      "inss patronal alíquota",
+      "inss patronal simples nacional"
+    ],
+    "metaDescription": "O que é INSS patronal, quando incide separadamente e quando já está embutido no DAS do Simples Nacional.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "quanto-custa-funcionario-clt-na-pratica",
+      "como-abrir-empresa-de-construcao",
+      "o-que-e-pro-labore"
+    ]
+  },
+  {
+    "id": 57,
+    "slug": "o-que-e-alvara-de-funcionamento",
+    "title": "O que é alvará de funcionamento: o que significa e como obter",
+    "excerpt": "A autorização municipal que toda empresa com endereço físico precisa ter.",
+    "category": "Glossário",
+    "date": "2026-02-04",
+    "readTime": 5,
+    "image": "https://images.pexels.com/photos/6927334/pexels-photo-6927334.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "o que é alvará de funcionamento",
+      "como tirar alvará",
+      "alvará de funcionamento prefeitura"
+    ],
+    "metaDescription": "O que é alvará de funcionamento, quando é exigido, como obter e o que acontece operando sem ele.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "como-abrir-empresa-passo-a-passo",
+      "como-abrir-clinica-de-estetica",
+      "o-que-e-cnae"
+    ]
+  },
+  {
+    "id": 58,
+    "slug": "o-que-e-inscricao-estadual",
+    "title": "O que é inscrição estadual: o que significa e quando é necessária",
+    "excerpt": "Obrigatória para quem vende produto — e frequentemente esquecida por quem abre empresa de serviço puro.",
+    "category": "Glossário",
+    "date": "2026-02-17",
+    "readTime": 5,
+    "image": "https://images.pexels.com/photos/6863330/pexels-photo-6863330.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "o que é inscrição estadual",
+      "inscrição estadual como tirar",
+      "inscrição estadual obrigatória"
+    ],
+    "metaDescription": "O que é inscrição estadual, quando é obrigatória, e como obter para empresas que vendem produtos ou circulam mercadorias.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "como-abrir-loja-online",
+      "o-que-e-icms",
+      "como-abrir-empresa-passo-a-passo"
+    ]
+  },
+  {
+    "id": 59,
+    "slug": "o-que-e-nota-fiscal-eletronica",
+    "title": "O que é nota fiscal eletrônica: o que significa e como funciona na prática",
+    "excerpt": "NF-e, NFS-e, NFC-e — entenda as diferenças entre as siglas mais comuns de nota fiscal.",
+    "category": "Glossário",
+    "date": "2026-03-03",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/6863250/pexels-photo-6863250.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "o que é nota fiscal eletrônica",
+      "nf-e nfs-e diferença",
+      "nota fiscal eletrônica como funciona"
+    ],
+    "metaDescription": "O que é nota fiscal eletrônica, a diferença entre NF-e, NFS-e e NFC-e, e por que o XML importa mais que o PDF.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "como-emitir-nota-fiscal-de-servico",
+      "como-abrir-loja-online",
+      "o-que-e-icms"
+    ]
+  },
+  {
+    "id": 60,
+    "slug": "o-que-e-dre",
+    "title": "O que é DRE: o que significa e como funciona na prática",
+    "excerpt": "O relatório que mostra se a empresa deu lucro ou prejuízo no período — e como lê-lo sem ser contador.",
+    "category": "Glossário",
+    "date": "2026-03-16",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/6779226/pexels-photo-6779226.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "o que é dre",
+      "demonstração de resultado",
+      "dre como ler",
+      "dre simplificado"
+    ],
+    "metaDescription": "O que é DRE, como ela é estruturada, e como usar esse relatório para entender o resultado real da empresa.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "como-fazer-fluxo-de-caixa-simples",
+      "regime-de-caixa-ou-competencia",
+      "o-que-e-balanco-patrimonial"
+    ]
+  },
+  {
+    "id": 61,
+    "slug": "o-que-e-balanco-patrimonial",
+    "title": "O que é balanço patrimonial: o que significa e como funciona na prática",
+    "excerpt": "A fotografia financeira da empresa em um determinado momento — ativo, passivo e patrimônio líquido.",
+    "category": "Glossário",
+    "date": "2026-04-01",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/7821546/pexels-photo-7821546.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "o que é balanço patrimonial",
+      "balanço patrimonial ativo passivo",
+      "balanço patrimonial simples"
+    ],
+    "metaDescription": "O que é balanço patrimonial, a estrutura de ativo, passivo e patrimônio líquido, e quando ele é exigido da empresa.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "o-que-e-dre",
+      "o-que-e-capital-social",
+      "o-que-e-distribuicao-de-lucros"
+    ]
+  },
+  {
+    "id": 62,
+    "slug": "o-que-e-junta-comercial",
+    "title": "O que é Junta Comercial: o que significa e como funciona na prática",
+    "excerpt": "O órgão estadual onde toda empresa precisa se registrar para existir oficialmente.",
+    "category": "Glossário",
+    "date": "2026-04-14",
+    "readTime": 5,
+    "image": "https://images.pexels.com/photos/8847133/pexels-photo-8847133.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "o que é junta comercial",
+      "registro junta comercial",
+      "nire junta comercial"
+    ],
+    "metaDescription": "O que é Junta Comercial, o que ela registra (NIRE, contrato social, alterações) e como funciona o processo.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "como-abrir-empresa-passo-a-passo",
+      "como-alterar-contrato-social",
+      "o-que-e-capital-social"
+    ]
+  },
+  {
+    "id": 63,
+    "slug": "o-que-e-razao-social",
+    "title": "O que é razão social: o que significa e a diferença com nome fantasia",
+    "excerpt": "Razão social, nome fantasia e marca são três coisas diferentes — e a confusão entre elas é comum.",
+    "category": "Glossário",
+    "date": "2025-11-25",
+    "readTime": 5,
+    "image": "https://images.pexels.com/photos/48148/pexels-photo-48148.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "o que é razão social",
+      "razão social e nome fantasia",
+      "diferença razão social marca"
+    ],
+    "metaDescription": "O que é razão social, em que difere do nome fantasia e da marca registrada, e onde cada um aparece.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "como-registrar-marca-no-inpi",
+      "como-alterar-contrato-social",
+      "o-que-e-junta-comercial"
+    ]
+  },
+  {
+    "id": 64,
+    "slug": "o-que-e-regime-tributario",
+    "title": "O que é regime tributário: o que significa e quais existem no Brasil",
+    "excerpt": "A decisão que define quanto e como a empresa paga imposto — entenda as opções disponíveis.",
+    "category": "Glossário",
+    "date": "2025-12-09",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/259257/pexels-photo-259257.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "o que é regime tributário",
+      "tipos de regime tributário",
+      "quantos regimes tributários existem"
+    ],
+    "metaDescription": "O que é regime tributário, quais são os quatro principais (MEI, Simples, Presumido, Real) e como cada um se aplica.",
+    "ctaTheme": "tributario",
+    "relatedSlugs": [
+      "o-que-e-simples-nacional",
+      "lucro-presumido-ou-lucro-real",
+      "mei-ou-slu-qual-escolher"
+    ]
+  },
+  {
+    "id": 65,
+    "slug": "o-que-e-substituicao-tributaria",
+    "title": "O que é substituição tributária: o que significa e como funciona na prática",
+    "excerpt": "Quando outra empresa da cadeia já paga o imposto por você — entenda essa lógica do ICMS.",
+    "category": "Glossário",
+    "date": "2026-01-15",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/33778/pexels-photo-33778.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "o que é substituição tributária",
+      "substituição tributária icms",
+      "produtos com substituição tributária"
+    ],
+    "metaDescription": "O que é substituição tributária, como ela muda a forma de recolher ICMS, e como verificar se o seu produto está na lista.",
+    "ctaTheme": "tributario",
+    "relatedSlugs": [
+      "o-que-e-icms",
+      "como-abrir-loja-online",
+      "o-que-e-simples-nacional"
+    ]
+  },
+  {
+    "id": 66,
+    "slug": "o-que-e-darf",
+    "title": "O que é DARF: o que significa e para que serve",
+    "excerpt": "O documento usado para pagar tributos federais fora do DAS unificado.",
+    "category": "Glossário",
+    "date": "2026-02-26",
+    "readTime": 5,
+    "image": "https://images.pexels.com/photos/7580852/pexels-photo-7580852.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "o que é darf",
+      "darf para que serve",
+      "como emitir darf"
+    ],
+    "metaDescription": "O que é DARF, quando é usado em vez do DAS, e como emitir para pagamento de tributos federais.",
+    "ctaTheme": "tributario",
+    "relatedSlugs": [
+      "das-darf-gps-guia-pratico",
+      "o-que-e-simples-nacional",
+      "lucro-presumido-ou-lucro-real"
+    ]
+  },
+  {
+    "id": 67,
+    "slug": "o-que-e-livro-caixa",
+    "title": "O que é livro caixa: o que significa e quem precisa ter",
+    "excerpt": "Um controle simples, mas exigido em situações específicas de fiscalização e comprovação de renda.",
+    "category": "Glossário",
+    "date": "2026-03-22",
+    "readTime": 5,
+    "image": "https://images.pexels.com/photos/209224/pexels-photo-209224.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "o que é livro caixa",
+      "livro caixa mei",
+      "livro caixa obrigatório"
+    ],
+    "metaDescription": "O que é livro caixa, quando é exigido para MEI e autônomos, e como manter esse controle de forma simples.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "como-fazer-fluxo-de-caixa-simples",
+      "o-que-e-mei",
+      "como-emitir-nota-fiscal-de-servico"
+    ]
+  },
+  {
+    "id": 68,
+    "slug": "o-que-e-eireli",
+    "title": "O que é EIRELI: o que significa e por que não existe mais",
+    "excerpt": "Se você já ouviu esse termo, é porque a empresa foi aberta antes de 2021 — entenda o que mudou.",
+    "category": "Glossário",
+    "date": "2026-04-20",
+    "readTime": 5,
+    "image": "https://images.pexels.com/photos/48148/pexels-photo-48148.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "o que é eireli",
+      "eireli ou slu",
+      "eireli foi extinta",
+      "eireli para slu transformação"
+    ],
+    "metaDescription": "O que era EIRELI, por que esse tipo societário foi extinto em 2021, e o que fazer se sua empresa ainda está registrada assim.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "slu-ou-ltda-diferencas-que-importam",
+      "como-alterar-contrato-social",
+      "preciso-de-socio-para-abrir-empresa"
+    ]
+  },
+  {
+    "id": 69,
+    "slug": "reforma-tributaria-cbs-o-que-muda",
+    "title": "Reforma Tributária: o que é a CBS e o que muda para sua empresa",
+    "excerpt": "A Contribuição sobre Bens e Serviços substitui PIS e COFINS — entenda o que muda na prática.",
+    "category": "Na Pauta",
+    "date": "2026-05-02",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/1181355/pexels-photo-1181355.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "o que é cbs",
+      "cbs reforma tributária",
+      "cbs substitui pis cofins"
+    ],
+    "metaDescription": "O que é a CBS na Reforma Tributária, o que ela substitui, e como afeta empresas no Simples e fora do Simples.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "o-que-e-pis-cofins",
+      "reforma-tributaria-2026-pmes",
+      "cronograma-reforma-tributaria-2026-2033"
+    ]
+  },
+  {
+    "id": 70,
+    "slug": "reforma-tributaria-ibs-o-que-muda",
+    "title": "Reforma Tributária: o que é o IBS e o que muda para sua empresa",
+    "excerpt": "O Imposto sobre Bens e Serviços substitui ICMS e ISS — entenda o impacto dessa unificação.",
+    "category": "Na Pauta",
+    "date": "2026-05-05",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/1181355/pexels-photo-1181355.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "o que é ibs",
+      "ibs reforma tributária",
+      "ibs substitui icms iss"
+    ],
+    "metaDescription": "O que é o IBS na Reforma Tributária, o que ele substitui (ICMS e ISS), e como muda a tributação de estados e municípios.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "o-que-e-icms",
+      "o-que-e-iss",
+      "reforma-tributaria-cbs-o-que-muda"
+    ]
+  },
+  {
+    "id": 71,
+    "slug": "reforma-tributaria-imposto-seletivo",
+    "title": "Reforma Tributária: o que é o Imposto Seletivo",
+    "excerpt": "O novo imposto sobre produtos considerados nocivos à saúde ou ao meio ambiente.",
+    "category": "Na Pauta",
+    "date": "2026-05-08",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/1181355/pexels-photo-1181355.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "o que é imposto seletivo",
+      "imposto seletivo reforma tributária",
+      "is reforma tributária produtos"
+    ],
+    "metaDescription": "O que é o Imposto Seletivo da Reforma Tributária, quais produtos afeta, e se a sua empresa precisa se preocupar.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "reforma-tributaria-cbs-o-que-muda",
+      "reforma-tributaria-ibs-o-que-muda",
+      "cronograma-reforma-tributaria-2026-2033"
+    ]
+  },
+  {
+    "id": 72,
+    "slug": "cronograma-reforma-tributaria-2026-2033",
+    "title": "Cronograma da Reforma Tributária: o que acontece a cada ano",
+    "excerpt": "A transição é longa e gradual — veja o que muda ano a ano, sem precisar acompanhar cada notícia.",
+    "category": "Na Pauta",
+    "date": "2026-05-11",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/1181355/pexels-photo-1181355.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "cronograma reforma tributária",
+      "reforma tributária quando começa",
+      "transição reforma tributária anos"
+    ],
+    "metaDescription": "O cronograma da Reforma Tributária: período de teste, transição gradual e quando o sistema antigo deixa de existir.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "reforma-tributaria-cbs-o-que-muda",
+      "reforma-tributaria-ibs-o-que-muda",
+      "como-a-reforma-tributaria-afeta-pmes"
+    ]
+  },
+  {
+    "id": 73,
+    "slug": "como-a-reforma-tributaria-afeta-pmes",
+    "title": "Como a Reforma Tributária afeta pequenas e médias empresas",
+    "excerpt": "Nem tudo muda igual para quem está no Simples Nacional — veja o que de fato importa para o seu porte.",
+    "category": "Na Pauta",
+    "date": "2026-05-14",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/1181355/pexels-photo-1181355.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "reforma tributária pme",
+      "reforma tributária simples nacional",
+      "reforma tributária pequena empresa"
+    ],
+    "metaDescription": "Como a Reforma Tributária afeta PMEs, o que muda para quem está no Simples Nacional, e o que vale acompanhar de perto.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "reforma-tributaria-2026-pmes",
+      "cronograma-reforma-tributaria-2026-2033",
+      "o-que-e-simples-nacional"
+    ]
+  },
+  {
+    "id": 74,
+    "slug": "agenda-fiscal-anual-o-que-nao-esquecer",
+    "title": "Agenda fiscal anual: o que toda empresa não pode esquecer",
+    "excerpt": "Um calendário simples das obrigações que se repetem todo ano — e que geram multa quando esquecidas.",
+    "category": "Na Pauta",
+    "date": "2026-01-05",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/259257/pexels-photo-259257.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "agenda fiscal anual",
+      "calendário obrigações fiscais empresa",
+      "prazos fiscais empresa"
+    ],
+    "metaDescription": "Agenda fiscal anual: as principais obrigações recorrentes de empresas no Simples, Presumido e Real ao longo do ano.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "o-que-e-sped",
+      "o-que-e-darf",
+      "planejamento-tributario-anual-o-que-revisar"
+    ]
+  },
+  {
+    "id": 75,
+    "slug": "tributacao-de-dividendos-o-que-esta-em-discussao",
+    "title": "Tributação de dividendos: o que está em discussão e o que muda se aprovada",
+    "excerpt": "A isenção de Imposto de Renda sobre distribuição de lucros está sob debate — entenda o que está em jogo.",
+    "category": "Na Pauta",
+    "date": "2026-05-19",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/1181355/pexels-photo-1181355.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "tributação de dividendos",
+      "imposto sobre dividendos brasil",
+      "fim da isenção de dividendos"
+    ],
+    "metaDescription": "Tributação de dividendos no Brasil: o que está em discussão, por que a isenção atual existe, e o que mudaria se aprovada uma nova tributação.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "o-que-e-distribuicao-de-lucros",
+      "o-que-e-pro-labore",
+      "pro-labore-vs-lucros"
+    ]
+  },
+  {
+    "id": 76,
+    "slug": "simples-nacional-mudancas-recentes",
+    "title": "Simples Nacional: mudanças recentes que todo empreendedor deveria conhecer",
+    "excerpt": "O regime passa por ajustes frequentes — veja o que mudou e o que ainda está em discussão.",
+    "category": "Na Pauta",
+    "date": "2026-04-28",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/259257/pexels-photo-259257.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "simples nacional mudanças",
+      "novidades simples nacional",
+      "simples nacional atualização"
+    ],
+    "metaDescription": "Simples Nacional: as mudanças recentes mais relevantes para pequenas empresas, e como acompanhar atualizações do regime.",
+    "ctaTheme": "tributario",
+    "relatedSlugs": [
+      "o-que-e-simples-nacional",
+      "simples-nacional-2025-tabela-aliquotas",
+      "limite-mei-2026-mudancas"
+    ]
+  },
+  {
+    "id": 77,
+    "slug": "como-abrir-escola-ou-curso-livre",
+    "title": "Como abrir uma escola ou curso livre: CNAE, regime e licenças",
+    "excerpt": "Da escola de idiomas ao curso técnico livre — veja o que muda na formalização do setor educacional.",
+    "category": "Abertura de Empresa",
+    "date": "2025-11-10",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/5324967/pexels-photo-5324967.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "como abrir escola de idiomas",
+      "cnae curso livre",
+      "mei professor cursos",
+      "regime tributário escola"
+    ],
+    "metaDescription": "Como abrir escola ou curso livre: CNAE de educação, MEI ou SLU, regime tributário e os alvarás necessários.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "como-abrir-empresa-passo-a-passo",
+      "mei-ou-slu-qual-escolher",
+      "o-que-e-cnae"
+    ]
+  },
+  {
+    "id": 78,
+    "slug": "como-abrir-clinica-medica",
+    "title": "Como abrir uma clínica médica: CNAE, regime e licenças sanitárias",
+    "excerpt": "Diferente do médico autônomo PJ, a clínica tem exigências próprias de estrutura e responsabilidade técnica.",
+    "category": "Abertura de Empresa",
+    "date": "2025-12-20",
+    "readTime": 9,
+    "image": "https://images.pexels.com/photos/12955896/pexels-photo-12955896.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "como abrir clínica médica",
+      "cnae clínica médica",
+      "alvará sanitário clínica",
+      "regime tributário clínica"
+    ],
+    "metaDescription": "Como abrir uma clínica médica: CNAE, SLU ou LTDA, regime tributário, alvará sanitário e responsabilidade técnica exigida.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "cnpj-para-medico",
+      "medico-pode-ser-mei",
+      "como-abrir-clinica-de-estetica"
+    ]
+  },
+  {
+    "id": 79,
+    "slug": "como-abrir-empresa-rural",
+    "title": "Como abrir uma empresa rural: CNAE, regime e particularidades do agronegócio",
+    "excerpt": "Produtor rural tem regras tributárias próprias, diferentes do restante das empresas brasileiras.",
+    "category": "Abertura de Empresa",
+    "date": "2026-01-28",
+    "readTime": 9,
+    "image": "https://images.pexels.com/photos/8938932/pexels-photo-8938932.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "como abrir empresa rural",
+      "cnae produtor rural",
+      "pessoa física ou jurídica produtor rural",
+      "funrural"
+    ],
+    "metaDescription": "Como abrir empresa rural: pessoa física ou jurídica, CNAE, regime tributário e as particularidades fiscais do agronegócio.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "como-abrir-empresa-passo-a-passo",
+      "o-que-e-icms",
+      "quanto-custa-abrir-empresa"
+    ]
+  },
+  {
+    "id": 80,
+    "slug": "como-abrir-estudio-fotografico",
+    "title": "Como abrir um estúdio fotográfico: CNAE e regime tributário",
+    "excerpt": "Da foto de casamento ao still para e-commerce — veja como formalizar a atividade fotográfica.",
+    "category": "Abertura de Empresa",
+    "date": "2026-02-10",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/270632/pexels-photo-270632.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "como abrir estúdio fotográfico",
+      "cnae fotografia",
+      "mei fotógrafo",
+      "regime tributário fotógrafo"
+    ],
+    "metaDescription": "Como abrir estúdio fotográfico: CNAE, MEI ou SLU, regime tributário e contratos para fotógrafos profissionais.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "como-abrir-loja-online",
+      "mei-ou-slu-qual-escolher",
+      "o-que-e-cnae"
+    ]
+  },
+  {
+    "id": 81,
+    "slug": "como-abrir-academia-ou-estudio-fitness",
+    "title": "Como abrir uma academia ou estúdio fitness: CNAE e regime tributário",
+    "excerpt": "Do personal trainer autônomo ao estúdio com equipe — veja a estrutura certa para cada porte.",
+    "category": "Abertura de Empresa",
+    "date": "2026-02-22",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/6111585/pexels-photo-6111585.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "como abrir academia",
+      "cnae estúdio fitness",
+      "mei personal trainer",
+      "regime tributário academia"
+    ],
+    "metaDescription": "Como abrir academia ou estúdio fitness: CNAE, MEI ou SLU, regime tributário e alvarás necessários para o setor fitness.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "como-abrir-clinica-de-estetica",
+      "mei-ou-slu-qual-escolher",
+      "como-abrir-empresa-passo-a-passo"
+    ]
+  },
+  {
+    "id": 82,
+    "slug": "como-abrir-petshop",
+    "title": "Como abrir um petshop: CNAE, regime tributário e licenças",
+    "excerpt": "Venda de produtos e prestação de serviço (banho, tosa) no mesmo negócio — veja como formalizar os dois.",
+    "category": "Abertura de Empresa",
+    "date": "2026-03-08",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/8938932/pexels-photo-8938932.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "como abrir petshop",
+      "cnae petshop",
+      "mei petshop",
+      "regime tributário petshop"
+    ],
+    "metaDescription": "Como abrir petshop: CNAE de comércio e serviço, MEI ou SLU, regime tributário e licenças sanitárias para o setor pet.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "como-abrir-loja-online",
+      "o-que-e-icms",
+      "como-abrir-clinica-de-estetica"
+    ]
+  },
+  {
+    "id": 83,
+    "slug": "como-abrir-agencia-de-marketing",
+    "title": "Como abrir uma agência de marketing: CNAE e regime tributário",
+    "excerpt": "Do freelancer solo à agência com equipe — veja a estrutura certa para cada fase do negócio.",
+    "category": "Abertura de Empresa",
+    "date": "2026-03-28",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/7688439/pexels-photo-7688439.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "como abrir agência de marketing",
+      "cnae marketing digital",
+      "mei marketing digital",
+      "regime tributário agência"
+    ],
+    "metaDescription": "Como abrir agência de marketing: CNAE, MEI ou SLU, regime tributário e contratos para prestação de serviço de marketing.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "cnpj-para-desenvolvedor",
+      "mei-ou-slu-qual-escolher",
+      "o-que-e-fator-r"
+    ]
+  },
+  {
+    "id": 84,
+    "slug": "como-abrir-papelaria-ou-livraria",
+    "title": "Como abrir uma papelaria ou livraria: CNAE e regime tributário",
+    "excerpt": "Comércio tradicional com particularidades próprias de tributação — veja o que considerar.",
+    "category": "Abertura de Empresa",
+    "date": "2026-04-07",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/5324967/pexels-photo-5324967.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "como abrir papelaria",
+      "como abrir livraria",
+      "cnae papelaria",
+      "mei papelaria"
+    ],
+    "metaDescription": "Como abrir papelaria ou livraria: CNAE, MEI ou SLU, regime tributário e a particularidade fiscal dos livros.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "como-abrir-loja-online",
+      "o-que-e-icms",
+      "quanto-custa-abrir-empresa"
+    ]
+  },
+  {
+    "id": 85,
+    "slug": "como-abrir-barbearia",
+    "title": "Como abrir uma barbearia: CNAE, regime tributário e licenças",
+    "excerpt": "Um dos setores que mais cresce no MEI — veja quando vale a pena formalizar como empresa maior.",
+    "category": "Abertura de Empresa",
+    "date": "2026-04-25",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/12955896/pexels-photo-12955896.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "como abrir barbearia",
+      "cnae barbearia",
+      "mei barbeiro",
+      "regime tributário barbearia"
+    ],
+    "metaDescription": "Como abrir barbearia: CNAE, MEI ou SLU, regime tributário e alvarás necessários para o setor de barbearia.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "como-abrir-clinica-de-estetica",
+      "mei-ou-slu-qual-escolher",
+      "como-fazer-folha-de-pagamento-clt"
+    ]
+  },
+  {
+    "id": 86,
+    "slug": "como-abrir-imobiliaria",
+    "title": "Como abrir uma imobiliária: CNAE, regime tributário e o registro no CRECI",
+    "excerpt": "Intermediar imóveis exige registro profissional específico, além da formalização padrão de empresa.",
+    "category": "Abertura de Empresa",
+    "date": "2026-05-20",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/8847133/pexels-photo-8847133.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "como abrir imobiliária",
+      "cnae imobiliária",
+      "creci pessoa jurídica",
+      "regime tributário imobiliária"
+    ],
+    "metaDescription": "Como abrir imobiliária: CNAE, registro no CRECI pessoa jurídica, regime tributário e estrutura societária recomendada.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "como-abrir-empresa-passo-a-passo",
+      "como-abrir-agencia-de-marketing",
+      "o-que-e-fator-r"
+    ]
+  },
+  {
+    "id": 87,
+    "slug": "clt-ou-pj-para-designer",
+    "title": "CLT ou PJ para designer: qual vale mais a pena",
+    "excerpt": "Designer é uma das profissões com maior diferença de tributação entre os dois regimes — veja a conta.",
+    "category": "Gestão Empresarial",
+    "date": "2025-11-14",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/1181359/pexels-photo-1181359.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "clt ou pj para designer",
+      "designer pj vale a pena",
+      "designer freelancer cnpj"
+    ],
+    "metaDescription": "CLT ou PJ para designer: comparação de tributação, benefícios e quando cada formato vale mais a pena.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "clt-ou-pj-2025",
+      "cnpj-para-desenvolvedor",
+      "quanto-custa-funcionario-clt-na-pratica"
+    ]
+  },
+  {
+    "id": 88,
+    "slug": "mei-ou-slu-para-comercio",
+    "title": "MEI ou SLU para comércio: qual escolher",
+    "excerpt": "No varejo, a decisão entre os dois regimes tem particularidades próprias — veja o que considerar.",
+    "category": "Abertura de Empresa",
+    "date": "2025-12-06",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/8938932/pexels-photo-8938932.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "mei ou slu comércio",
+      "mei comerciante limite",
+      "abrir loja mei ou empresa"
+    ],
+    "metaDescription": "MEI ou SLU para comércio: limites de faturamento, estoque, ICMS e quando migrar de um regime para o outro.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "mei-ou-slu-qual-escolher",
+      "como-abrir-loja-online",
+      "o-que-e-icms"
+    ]
+  },
+  {
+    "id": 89,
+    "slug": "simples-ou-lucro-presumido-para-clinica",
+    "title": "Simples ou Lucro Presumido para clínica: qual escolher",
+    "excerpt": "Clínicas com faturamento mais alto frequentemente encontram essa decisão — veja os critérios.",
+    "category": "Tributário",
+    "date": "2026-01-12",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/12955896/pexels-photo-12955896.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "simples ou lucro presumido clínica",
+      "regime tributário clínica médica",
+      "clínica lucro presumido vale a pena"
+    ],
+    "metaDescription": "Simples ou Lucro Presumido para clínica: quando cada regime é mais vantajoso, considerando Fator R e margem de lucro real.",
+    "ctaTheme": "tributario",
+    "relatedSlugs": [
+      "lucro-presumido-ou-lucro-real",
+      "como-abrir-clinica-medica",
+      "o-que-e-fator-r"
+    ]
+  },
+  {
+    "id": 90,
+    "slug": "autonomo-ou-mei-qual-a-diferenca",
+    "title": "Autônomo ou MEI: qual a diferença e quando formalizar",
+    "excerpt": "Trabalhar como autônomo sem CNPJ é diferente de ser MEI — entenda as implicações de cada formato.",
+    "category": "MEI",
+    "date": "2026-02-14",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/259257/pexels-photo-259257.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "autônomo ou mei",
+      "diferença autônomo e mei",
+      "quando formalizar como mei"
+    ],
+    "metaDescription": "Autônomo ou MEI: a diferença na tributação, no INSS e na emissão de nota fiscal entre os dois formatos de trabalho.",
+    "ctaTheme": "mei",
+    "relatedSlugs": [
+      "o-que-e-mei",
+      "mei-ou-slu-qual-escolher",
+      "o-que-e-livro-caixa"
+    ]
+  },
+  {
+    "id": 91,
+    "slug": "contador-tradicional-ou-online-qual-escolher",
+    "title": "Contador tradicional ou online: qual escolher para sua empresa",
+    "excerpt": "O modelo de contabilidade mudou nos últimos anos — veja o que considerar além do preço.",
+    "category": "Gestão Empresarial",
+    "date": "2026-03-12",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/35576571/pexels-photo-35576571.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "contador tradicional ou online",
+      "contabilidade online vale a pena",
+      "como escolher contador"
+    ],
+    "metaDescription": "Contador tradicional ou online: vantagens, limitações e o que considerar além do preço na hora de escolher.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "abrir-empresa-o-que-ninguem-conta",
+      "como-fazer-fluxo-de-caixa-simples",
+      "o-que-e-regime-tributario"
+    ]
+  },
+  {
+    "id": 92,
+    "slug": "pessoa-fisica-ou-juridica-para-prestar-servico",
+    "title": "Pessoa física ou jurídica para prestar serviço: qual a diferença real",
+    "excerpt": "A decisão mais básica de quem está começando a prestar serviço de forma recorrente.",
+    "category": "Abertura de Empresa",
+    "date": "2026-04-10",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/7821546/pexels-photo-7821546.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "pessoa física ou jurídica prestar serviço",
+      "pf ou pj diferença",
+      "quando virar pessoa jurídica"
+    ],
+    "metaDescription": "Pessoa física ou jurídica para prestar serviço: diferença de tributação, responsabilidade e quando vale formalizar.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "autonomo-ou-mei-qual-a-diferenca",
+      "o-que-e-mei",
+      "preciso-de-socio-para-abrir-empresa"
+    ]
+  },
+  {
+    "id": 93,
+    "slug": "como-calcular-ponto-de-equilibrio",
+    "title": "Como calcular o ponto de equilíbrio do seu negócio",
+    "excerpt": "O número que mostra exatamente quanto você precisa vender para não ter prejuízo nem lucro.",
+    "category": "Gestão Empresarial",
+    "date": "2025-11-21",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/209224/pexels-photo-209224.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "como calcular ponto de equilíbrio",
+      "ponto de equilíbrio fórmula",
+      "ponto de equilíbrio empresa"
+    ],
+    "metaDescription": "Como calcular o ponto de equilíbrio: fórmula, exemplo prático e por que esse número deveria orientar decisões de preço.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "como-precificar-produtos-ou-servicos",
+      "como-fazer-fluxo-de-caixa-simples",
+      "o-que-e-dre"
+    ]
+  },
+  {
+    "id": 94,
+    "slug": "como-precificar-produtos-ou-servicos",
+    "title": "Como precificar produtos ou serviços: guia passo a passo",
+    "excerpt": "Preço baseado só na concorrência é um dos erros mais caros de pequenas empresas — veja a abordagem certa.",
+    "category": "Gestão Empresarial",
+    "date": "2025-12-28",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/7688439/pexels-photo-7688439.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "como precificar produtos",
+      "como precificar serviços",
+      "fórmula de precificação",
+      "markup precificação"
+    ],
+    "metaDescription": "Como precificar produtos ou serviços: o que incluir no cálculo, a fórmula de markup e os erros mais comuns.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "como-calcular-ponto-de-equilibrio",
+      "o-que-e-pro-labore",
+      "quanto-custa-funcionario-clt-na-pratica"
+    ]
+  },
+  {
+    "id": 95,
+    "slug": "indicadores-financeiros-essenciais-para-pme",
+    "title": "Indicadores financeiros essenciais para PME acompanhar",
+    "excerpt": "Você não precisa de dezenas de métricas — só das certas, acompanhadas com regularidade.",
+    "category": "Gestão Empresarial",
+    "date": "2026-02-08",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/6779226/pexels-photo-6779226.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "indicadores financeiros pme",
+      "métricas financeiras pequena empresa",
+      "kpi financeiro pme"
+    ],
+    "metaDescription": "Indicadores financeiros essenciais para PME: margem de lucro, ponto de equilíbrio, ciclo de caixa e inadimplência.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "como-calcular-ponto-de-equilibrio",
+      "o-que-e-dre",
+      "como-fazer-fluxo-de-caixa-simples"
+    ]
+  },
+  {
+    "id": 96,
+    "slug": "como-reduzir-custos-fixos-da-empresa",
+    "title": "Como reduzir custos fixos da empresa sem comprometer a operação",
+    "excerpt": "Cortar custo errado prejudica o negócio — veja onde geralmente existe gordura para reduzir com segurança.",
+    "category": "Gestão Empresarial",
+    "date": "2026-03-19",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/8117465/pexels-photo-8117465.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "como reduzir custos fixos",
+      "reduzir custos empresa",
+      "corte de custos pequena empresa"
+    ],
+    "metaDescription": "Como reduzir custos fixos da empresa: onde olhar primeiro, o que evitar cortar, e como negociar com fornecedores.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "como-calcular-ponto-de-equilibrio",
+      "como-fazer-fluxo-de-caixa-simples",
+      "quanto-custa-funcionario-clt-na-pratica"
+    ]
+  },
+  {
+    "id": 97,
+    "slug": "como-parcelar-dividas-tributarias",
+    "title": "Como parcelar dívidas tributárias da empresa",
+    "excerpt": "Débito em aberto com o fisco não precisa ser pago de uma vez — veja como funciona o parcelamento.",
+    "category": "Tributário",
+    "date": "2025-12-12",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/6863330/pexels-photo-6863330.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "como parcelar dívida tributária",
+      "parcelamento simples nacional",
+      "parcelamento receita federal pme"
+    ],
+    "metaDescription": "Como parcelar dívidas tributárias: opções disponíveis, impacto na certidão negativa e cuidados para não perder o parcelamento.",
+    "ctaTheme": "regularizacao",
+    "relatedSlugs": [
+      "o-que-e-certidao-negativa",
+      "como-calcular-o-das-simples-nacional",
+      "o-que-e-darf"
+    ]
+  },
+  {
+    "id": 98,
+    "slug": "planejamento-tributario-anual-o-que-revisar",
+    "title": "Planejamento tributário anual: o que revisar todo início de ano",
+    "excerpt": "Um checklist simples para começar o ano pagando o imposto certo, não o imposto de inércia.",
+    "category": "Tributário",
+    "date": "2026-01-30",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/259139/pexels-photo-259139.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "planejamento tributário anual",
+      "revisão tributária início de ano",
+      "checklist planejamento tributário"
+    ],
+    "metaDescription": "Planejamento tributário anual: o checklist do que revisar com seu contador no início do ano para pagar menos imposto.",
+    "ctaTheme": "tributario",
+    "relatedSlugs": [
+      "o-que-e-regime-tributario",
+      "lucro-presumido-ou-lucro-real",
+      "agenda-fiscal-anual-o-que-nao-esquecer"
+    ]
+  },
+  {
+    "id": 99,
+    "slug": "lgpd-para-pequenas-empresas",
+    "title": "LGPD para pequenas empresas: o que realmente se aplica ao seu negócio",
+    "excerpt": "Não é só para big techs — qualquer empresa que coleta dado de cliente precisa se atentar à lei.",
+    "category": "Jurídico",
+    "date": "2026-02-19",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/33778/pexels-photo-33778.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "lgpd pequena empresa",
+      "lgpd o que fazer",
+      "lgpd para mei",
+      "lgpd na prática"
+    ],
+    "metaDescription": "LGPD para pequenas empresas: o que realmente se aplica, medidas básicas de adequação e os riscos de ignorar a lei.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "como-registrar-marca-no-inpi",
+      "contrato-social-o-que-nao-pode-faltar",
+      "como-alterar-contrato-social"
+    ]
+  },
+  {
+    "id": 100,
+    "slug": "como-dissolver-uma-empresa",
+    "title": "Como dissolver uma empresa: o processo de encerramento correto",
+    "excerpt": "Fechar empresa errado deixa pendências que voltam para o sócio anos depois — veja o caminho certo.",
+    "category": "Jurídico",
+    "date": "2026-04-18",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/7504780/pexels-photo-7504780.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "como dissolver empresa",
+      "como fechar empresa corretamente",
+      "baixar cnpj processo"
+    ],
+    "metaDescription": "Como dissolver uma empresa corretamente: etapas, documentos, certidões negativas exigidas e o que evitar.",
+    "ctaTheme": "regularizacao",
+    "relatedSlugs": [
+      "o-que-e-certidao-negativa",
+      "como-alterar-contrato-social",
+      "como-parcelar-dividas-tributarias"
+    ]
   }
 ]
