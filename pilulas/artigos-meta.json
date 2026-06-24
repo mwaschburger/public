@@ -2883,5 +2883,504 @@
     "relatedSlugs": [
       "contrato-de-prestacao-de-servico-clausulas"
     ]
+  },
+  {
+    "id": 127,
+    "slug": "indicadores-financeiros-essenciais-pequena-empresa",
+    "title": "Indicadores financeiros essenciais que toda pequena empresa deveria acompanhar",
+    "excerpt": "Não precisa de dezenas de métricas — cinco números bem acompanhados já mudam a qualidade da gestão.",
+    "category": "Gestão Empresarial",
+    "date": "2025-05-07",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/6779226/pexels-photo-6779226.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "indicadores financeiros",
+      "KPIs financeiros",
+      "gestão de pequena empresa"
+    ],
+    "metaDescription": "Conheça os indicadores financeiros essenciais que toda pequena empresa deveria acompanhar mensalmente para uma gestão mais segura.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "margem-de-contribuicao-numero-essencial",
+      "como-montar-dre-simples"
+    ]
+  },
+  {
+    "id": 128,
+    "slug": "franquia-ou-negocio-proprio",
+    "title": "Franquia ou negócio próprio: como decidir com base em mais do que intuição",
+    "excerpt": "A franquia reduz risco de modelo de negócio, mas troca flexibilidade por um conjunto de regras a seguir.",
+    "category": "Gestão Empresarial",
+    "date": "2025-05-14",
+    "readTime": 9,
+    "image": "https://images.pexels.com/photos/6863250/pexels-photo-6863250.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "franquia",
+      "negócio próprio",
+      "modelo de negócio",
+      "empreendedorismo"
+    ],
+    "metaDescription": "Compare as vantagens e desvantagens entre abrir uma franquia e montar um negócio próprio do zero.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "sucessao-familiar-pequenas-empresas"
+    ]
+  },
+  {
+    "id": 129,
+    "slug": "sucessao-familiar-pequenas-empresas",
+    "title": "Sucessão familiar em pequenas empresas: como planejar antes que seja tarde",
+    "excerpt": "A maioria das empresas familiares brasileiras não sobrevive à segunda geração — e o motivo raramente é falta de competência.",
+    "category": "Gestão Empresarial",
+    "date": "2025-05-21",
+    "readTime": 9,
+    "image": "https://images.pexels.com/photos/6863279/pexels-photo-6863279.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "sucessão familiar",
+      "empresa familiar",
+      "planejamento sucessório"
+    ],
+    "metaDescription": "Entenda os passos essenciais para planejar a sucessão familiar em pequenas empresas e evitar conflitos entre herdeiros.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "acordo-de-socios-clausulas-que-evitam-briga"
+    ]
+  },
+  {
+    "id": 130,
+    "slug": "como-demitir-corretamente",
+    "title": "Como demitir corretamente: o que toda empresa precisa fazer certo",
+    "excerpt": "Uma demissão malconduzida custa mais caro do que o aviso prévio — em processo trabalhista e em clima organizacional.",
+    "category": "Gestão Empresarial",
+    "date": "2025-05-28",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/6863330/pexels-photo-6863330.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "demissão",
+      "rescisão de contrato de trabalho",
+      "gestão de pessoas"
+    ],
+    "metaDescription": "Veja os passos corretos para demitir um funcionário, incluindo cálculo de verbas e cuidados para evitar processos trabalhistas.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "primeiro-funcionario-o-que-muda"
+    ]
+  },
+  {
+    "id": 131,
+    "slug": "plano-de-cargos-simples-pequena-empresa",
+    "title": "Plano de cargos simples para pequena empresa: como estruturar sem burocracia",
+    "excerpt": "Não precisa de um RH robusto para ter clareza sobre funções, responsabilidades e critérios de crescimento na equipe.",
+    "category": "Gestão Empresarial",
+    "date": "2025-06-04",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/6927334/pexels-photo-6927334.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "plano de cargos",
+      "estrutura organizacional",
+      "gestão de pessoas"
+    ],
+    "metaDescription": "Veja como montar um plano de cargos simples para sua pequena empresa, sem precisar de uma estrutura de RH complexa.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "gestao-de-socios-divisao-de-lucros"
+    ]
+  },
+  {
+    "id": 132,
+    "slug": "gestao-de-socios-divisao-de-lucros",
+    "title": "Gestão de sócios e divisão de lucros: como evitar a fonte mais comum de conflito",
+    "excerpt": "Dividir lucro de forma proporcional ao capital nem sempre é justo quando a dedicação dos sócios é desigual.",
+    "category": "Gestão Empresarial",
+    "date": "2025-06-11",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/7504780/pexels-photo-7504780.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "divisão de lucros entre sócios",
+      "gestão societária",
+      "distribuição de lucros"
+    ],
+    "metaDescription": "Entenda as diferentes formas de dividir lucro entre sócios e como evitar os conflitos mais comuns nessa decisão.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "acordo-de-socios-clausulas-que-evitam-briga",
+      "o-que-e-distribuicao-de-lucros"
+    ]
+  },
+  {
+    "id": 133,
+    "slug": "ferramentas-de-gestao-financeira-pequena-empresa",
+    "title": "Ferramentas de gestão financeira para pequena empresa: planilha, app ou sistema completo?",
+    "excerpt": "A ferramenta certa depende do estágio do negócio — usar um ERP complexo demais cedo pode ser tão ruim quanto usar planilha demais tarde.",
+    "category": "Gestão Empresarial",
+    "date": "2025-06-18",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/7579309/pexels-photo-7579309.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "ferramentas de gestão financeira",
+      "ERP para pequena empresa",
+      "controle financeiro"
+    ],
+    "metaDescription": "Compare as opções de ferramentas de gestão financeira disponíveis para pequenas empresas e descubra qual se encaixa no seu estágio.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "fluxo-de-caixa-controle-simples-que-funciona"
+    ]
+  },
+  {
+    "id": 134,
+    "slug": "como-calcular-o-pro-labore-ideal",
+    "title": "Como calcular o pró-labore ideal: nem tão baixo, nem tão alto",
+    "excerpt": "Pró-labore baixo demais reduz benefícios previdenciários; alto demais aumenta encargo sem necessidade.",
+    "category": "Gestão Empresarial",
+    "date": "2025-06-25",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/7579831/pexels-photo-7579831.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "pró-labore ideal",
+      "remuneração de sócio",
+      "INSS sobre pró-labore"
+    ],
+    "metaDescription": "Aprenda a calcular o valor ideal de pró-labore considerando encargos, benefícios previdenciários e o Fator R.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "fator-r-como-calcular-e-por-que-importa",
+      "o-que-e-pro-labore"
+    ]
+  },
+  {
+    "id": 135,
+    "slug": "credito-empresarial-linhas-de-financiamento",
+    "title": "Crédito empresarial: as linhas de financiamento que toda pequena empresa deveria conhecer",
+    "excerpt": "Nem todo crédito é igual — linhas específicas para pequena empresa costumam ter taxas bem melhores que crédito genérico.",
+    "category": "Gestão Empresarial",
+    "date": "2025-07-02",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/7580852/pexels-photo-7580852.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "crédito empresarial",
+      "linhas de financiamento",
+      "capital de giro",
+      "BNDES"
+    ],
+    "metaDescription": "Conheça as principais linhas de crédito empresarial disponíveis para pequenas empresas e como escolher a mais adequada.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "capital-de-giro-o-que-e"
+    ]
+  },
+  {
+    "id": 136,
+    "slug": "gestao-de-inadimplencia-de-clientes",
+    "title": "Gestão de inadimplência de clientes: como reduzir sem perder a venda",
+    "excerpt": "Vender bem e não receber é o mesmo que não ter vendido — só que com o custo do produto ou serviço já gasto.",
+    "category": "Gestão Empresarial",
+    "date": "2025-07-09",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/7644004/pexels-photo-7644004.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "inadimplência de clientes",
+      "gestão de cobrança",
+      "crédito a clientes"
+    ],
+    "metaDescription": "Veja estratégias práticas para reduzir a inadimplência de clientes sem comprometer suas vendas.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "negociacao-com-fornecedores-taticas"
+    ]
+  },
+  {
+    "id": 137,
+    "slug": "difal-diferencial-de-aliquota-explicado",
+    "title": "DIFAL: o que é o diferencial de alíquota e quando ele se aplica à sua empresa",
+    "excerpt": "Vender para outro estado pode gerar uma cobrança adicional de ICMS que muita empresa esquece de calcular.",
+    "category": "Tributário",
+    "date": "2025-07-16",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/7659873/pexels-photo-7659873.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "DIFAL",
+      "diferencial de alíquota",
+      "ICMS interestadual",
+      "venda interestadual"
+    ],
+    "metaDescription": "Entenda o que é o DIFAL, quando ele se aplica e como calcular corretamente em vendas interestaduais.",
+    "ctaTheme": "tributario",
+    "relatedSlugs": [
+      "substituicao-tributaria-por-segmento"
+    ]
+  },
+  {
+    "id": 138,
+    "slug": "retencoes-na-fonte-o-que-sua-empresa-pode-ter-que-reter",
+    "title": "Retenções na fonte: o que sua empresa pode ter que reter ao pagar terceiros",
+    "excerpt": "Pagar um prestador de serviço sem reter o imposto devido pode transformar a sua empresa na responsável pelo débito.",
+    "category": "Tributário",
+    "date": "2025-07-23",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/7688439/pexels-photo-7688439.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "retenção na fonte",
+      "INSS retido",
+      "ISS retido",
+      "obrigações de retenção"
+    ],
+    "metaDescription": "Entenda quando sua empresa é obrigada a reter impostos ao pagar fornecedores ou prestadores de serviço.",
+    "ctaTheme": "tributario",
+    "relatedSlugs": [
+      "obrigacoes-acessorias-calendario-fiscal"
+    ]
+  },
+  {
+    "id": 139,
+    "slug": "reforma-tributaria-o-que-muda-para-pequenas-empresas",
+    "title": "Reforma tributária: o que muda na prática para pequenas e médias empresas",
+    "excerpt": "A transição para o novo sistema será gradual, mas entender a lógica geral desde já evita surpresa mais adiante.",
+    "category": "Tributário",
+    "date": "2025-07-30",
+    "readTime": 9,
+    "image": "https://images.pexels.com/photos/7821546/pexels-photo-7821546.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "reforma tributária",
+      "IBS",
+      "CBS",
+      "transição tributária"
+    ],
+    "metaDescription": "Entenda os principais pontos da reforma tributária brasileira e como eles devem impactar pequenas e médias empresas.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "ibs-e-cbs-explicados-na-pratica"
+    ]
+  },
+  {
+    "id": 140,
+    "slug": "ibs-e-cbs-explicados-na-pratica",
+    "title": "IBS e CBS explicados na prática: o que esses dois novos tributos significam",
+    "excerpt": "Os dois tributos centrais da reforma tributária substituem cinco impostos diferentes — entenda a lógica por trás dessa unificação.",
+    "category": "Tributário",
+    "date": "2025-08-06",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/7876191/pexels-photo-7876191.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "IBS",
+      "CBS",
+      "reforma tributária",
+      "imposto sobre valor agregado"
+    ],
+    "metaDescription": "Entenda na prática o que são o IBS e a CBS, os dois novos tributos centrais da reforma tributária brasileira.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "reforma-tributaria-o-que-muda-para-pequenas-empresas"
+    ]
+  },
+  {
+    "id": 141,
+    "slug": "creditos-tributarios-que-a-empresa-pode-recuperar",
+    "title": "Créditos tributários que a empresa pode recuperar e provavelmente não sabe",
+    "excerpt": "Muitas empresas pagam mais imposto do que deveriam por desconhecer créditos a que têm direito.",
+    "category": "Tributário",
+    "date": "2025-08-13",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/8112159/pexels-photo-8112159.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "créditos tributários",
+      "recuperação de tributos",
+      "restituição de impostos"
+    ],
+    "metaDescription": "Conheça os principais créditos tributários que pequenas e médias empresas podem recuperar, mas frequentemente desconhecem.",
+    "ctaTheme": "tributario",
+    "relatedSlugs": [
+      "mudanca-de-regime-tributario-quando-vale-a-pena"
+    ]
+  },
+  {
+    "id": 142,
+    "slug": "malha-fina-como-evitar-cair-nela",
+    "title": "Malha fina: como evitar cair nela e o que fazer se isso já aconteceu",
+    "excerpt": "Cair na malha fina não significa necessariamente que você fez algo errado — mas resolver rápido evita complicação maior.",
+    "category": "Tributário",
+    "date": "2025-08-20",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/8117465/pexels-photo-8117465.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "malha fina",
+      "Receita Federal",
+      "declaração de imposto de renda"
+    ],
+    "metaDescription": "Entenda o que é a malha fina, as causas mais comuns que levam uma declaração a cair nela e como regularizar a situação.",
+    "ctaTheme": "regularizacao",
+    "relatedSlugs": [
+      "o-que-e-certidao-negativa-de-debitos"
+    ]
+  },
+  {
+    "id": 143,
+    "slug": "o-que-e-cnpj",
+    "title": "O que é CNPJ: o que significa e como funciona na prática",
+    "subtitle": "O documento que dá identidade jurídica à sua empresa",
+    "excerpt": "Todo empreendedor sabe que precisa de um — mas poucos sabem exatamente o que esse número representa.",
+    "category": "Glossário",
+    "date": "2025-05-10",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/8847133/pexels-photo-8847133.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "o que é CNPJ",
+      "cadastro nacional de pessoa jurídica",
+      "glossário contábil"
+    ],
+    "metaDescription": "Entenda o que é o CNPJ, como ele é estruturado e por que toda empresa precisa ter o seu.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "o-que-e-razao-social",
+      "o-que-e-cnae"
+    ]
+  },
+  {
+    "id": 144,
+    "slug": "o-que-e-lucro-presumido",
+    "title": "O que é Lucro Presumido: o que significa e como funciona na prática",
+    "excerpt": "Esse regime tributa com base numa margem de lucro presumida por lei — não no lucro real que a empresa teve.",
+    "category": "Glossário",
+    "date": "2025-06-14",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/8938932/pexels-photo-8938932.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "o que é lucro presumido",
+      "regime tributário",
+      "glossário contábil"
+    ],
+    "metaDescription": "Entenda o que é o regime de Lucro Presumido, como ele calcula impostos e quando costuma ser vantajoso.",
+    "ctaTheme": "tributario",
+    "relatedSlugs": [
+      "o-que-e-regime-tributario",
+      "o-que-e-lucro-real"
+    ]
+  },
+  {
+    "id": 145,
+    "slug": "o-que-e-lucro-real",
+    "title": "O que é Lucro Real: o que significa e como funciona na prática",
+    "excerpt": "Esse regime tributa exatamente o lucro contábil apurado pela empresa — exigindo controle mais detalhado em troca.",
+    "category": "Glossário",
+    "date": "2025-07-18",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/12955896/pexels-photo-12955896.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "o que é lucro real",
+      "regime tributário",
+      "glossário contábil"
+    ],
+    "metaDescription": "Entenda o que é o regime de Lucro Real, quando ele é obrigatório e como ele difere do Lucro Presumido.",
+    "ctaTheme": "tributario",
+    "relatedSlugs": [
+      "o-que-e-lucro-presumido",
+      "o-que-e-regime-tributario"
+    ]
+  },
+  {
+    "id": 146,
+    "slug": "o-que-e-csll",
+    "title": "O que é CSLL: o que significa e como funciona na prática",
+    "excerpt": "Esse tributo costuma andar junto do Imposto de Renda da empresa, mas tem regras e alíquota próprias.",
+    "category": "Glossário",
+    "date": "2025-08-22",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/35576571/pexels-photo-35576571.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "o que é CSLL",
+      "contribuição social sobre lucro líquido",
+      "glossário contábil"
+    ],
+    "metaDescription": "Entenda o que é a CSLL, como ela é calculada e a diferença em relação ao Imposto de Renda da Pessoa Jurídica.",
+    "ctaTheme": "tributario",
+    "relatedSlugs": [
+      "o-que-e-irpj",
+      "o-que-e-lucro-presumido"
+    ]
+  },
+  {
+    "id": 147,
+    "slug": "o-que-e-irpj",
+    "title": "O que é IRPJ: o que significa e como funciona na prática",
+    "excerpt": "É o imposto de renda da empresa — calculado de forma bem diferente do imposto de renda da pessoa física.",
+    "category": "Glossário",
+    "date": "2025-05-24",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/259257/pexels-photo-259257.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "o que é IRPJ",
+      "imposto de renda pessoa jurídica",
+      "glossário contábil"
+    ],
+    "metaDescription": "Entenda o que é o IRPJ, como ele é calculado e qual a diferença em relação ao Imposto de Renda da pessoa física.",
+    "ctaTheme": "tributario",
+    "relatedSlugs": [
+      "o-que-e-csll",
+      "o-que-e-lucro-presumido"
+    ]
+  },
+  {
+    "id": 148,
+    "slug": "o-que-e-microempresa-e-epp",
+    "title": "O que é Microempresa (ME) e EPP: o que significa e qual a diferença entre elas",
+    "excerpt": "Essas classificações definem benefícios fiscais e regulatórios importantes — e dependem só do faturamento anual.",
+    "category": "Glossário",
+    "date": "2025-06-28",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/270632/pexels-photo-270632.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "o que é microempresa",
+      "o que é EPP",
+      "empresa de pequeno porte",
+      "glossário contábil"
+    ],
+    "metaDescription": "Entenda o que define uma Microempresa e uma Empresa de Pequeno Porte (EPP) e os benefícios dessas classificações.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "o-que-e-simples-nacional"
+    ]
+  },
+  {
+    "id": 149,
+    "slug": "o-que-e-ncm",
+    "title": "O que é NCM: o que significa e por que esse código aparece em toda nota fiscal",
+    "excerpt": "Esse código define, na prática, qual tributação se aplica ao produto — errar ele pode significar pagar o imposto errado.",
+    "category": "Glossário",
+    "date": "2025-07-12",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/1181359/pexels-photo-1181359.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "o que é NCM",
+      "nomenclatura comum do mercosul",
+      "glossário contábil"
+    ],
+    "metaDescription": "Entenda o que é o código NCM, para que ele serve e por que sua correta identificação evita erro tributário.",
+    "ctaTheme": "tributario",
+    "relatedSlugs": [
+      "nota-fiscal-eletronica-passo-a-passo"
+    ]
   }
 ]
