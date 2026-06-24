@@ -4357,5 +4357,488 @@
     "relatedSlugs": [
       "como-abrir-uma-loja-online"
     ]
+  },
+  {
+    "id": 196,
+    "slug": "mei-como-emitir-nota-fiscal-corretamente",
+    "title": "MEI: como emitir nota fiscal corretamente",
+    "excerpt": "Mesmo no regime mais simples do país, emitir nota errada gera dor de cabeça depois.",
+    "category": "MEI",
+    "date": "2026-03-04",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/5324967/pexels-photo-5324967.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "MEI nota fiscal",
+      "emissão de nota MEI",
+      "NFS-e MEI"
+    ],
+    "metaDescription": "Veja como o MEI deve emitir nota fiscal corretamente, incluindo quando é obrigatório e como evitar erros comuns.",
+    "ctaTheme": "mei",
+    "relatedSlugs": [
+      "nota-fiscal-eletronica-passo-a-passo"
+    ]
+  },
+  {
+    "id": 197,
+    "slug": "mei-pode-ter-funcionario-regras-e-limites",
+    "title": "MEI pode ter funcionário? Regras e limites dessa contratação",
+    "excerpt": "O MEI pode contratar, mas só um funcionário — e com regras específicas que diferem da CLT comum.",
+    "category": "MEI",
+    "date": "2026-03-11",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/5336963/pexels-photo-5336963.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "MEI funcionário",
+      "contratação MEI",
+      "limite de empregados MEI"
+    ],
+    "metaDescription": "Entenda as regras para o MEI contratar funcionário, incluindo limites, salário e obrigações específicas.",
+    "ctaTheme": "mei",
+    "relatedSlugs": [
+      "primeiro-funcionario-o-que-muda"
+    ]
+  },
+  {
+    "id": 198,
+    "slug": "mei-faturamento-passou-do-limite-o-que-acontece",
+    "title": "MEI: o que acontece quando o faturamento passa do limite anual",
+    "excerpt": "Passar do limite não é necessariamente um problema — desde que a empresa saiba o que fazer a seguir.",
+    "category": "MEI",
+    "date": "2026-03-18",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/5668863/pexels-photo-5668863.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "MEI limite de faturamento",
+      "desenquadramento MEI",
+      "excesso de faturamento MEI"
+    ],
+    "metaDescription": "Entenda o que acontece quando o MEI ultrapassa o limite de faturamento anual e quais são os próximos passos.",
+    "ctaTheme": "regularizacao",
+    "relatedSlugs": [
+      "desenquadramento-de-mei-como-migrar"
+    ]
+  },
+  {
+    "id": 199,
+    "slug": "desenquadramento-de-mei-como-migrar",
+    "title": "Desenquadramento de MEI: como migrar para outro tipo de empresa",
+    "excerpt": "Migrar do MEI para uma estrutura maior é um processo formal — não basta simplesmente faturar mais.",
+    "category": "MEI",
+    "date": "2026-03-25",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/6077447/pexels-photo-6077447.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "desenquadramento MEI",
+      "migrar de MEI para microempresa",
+      "transição MEI"
+    ],
+    "metaDescription": "Veja como funciona o processo de desenquadramento do MEI e migração para Microempresa ou outro tipo societário.",
+    "ctaTheme": "regularizacao",
+    "relatedSlugs": [
+      "mei-faturamento-passou-do-limite-o-que-acontece"
+    ]
+  },
+  {
+    "id": 200,
+    "slug": "mei-declaracao-anual-dasn-simei-passo-a-passo",
+    "title": "MEI: declaração anual (DASN-SIMEI) passo a passo",
+    "excerpt": "É a única declaração anual obrigatória do MEI — simples, mas que não pode ser esquecida.",
+    "category": "MEI",
+    "date": "2026-04-01",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/6111585/pexels-photo-6111585.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "DASN-SIMEI",
+      "declaração anual MEI",
+      "obrigação MEI"
+    ],
+    "metaDescription": "Veja o passo a passo para preencher e enviar a declaração anual do MEI (DASN-SIMEI) corretamente e no prazo.",
+    "ctaTheme": "mei",
+    "relatedSlugs": [
+      "obrigacoes-acessorias-calendario-fiscal"
+    ]
+  },
+  {
+    "id": 201,
+    "slug": "mei-como-emitir-das-e-o-que-fazer-em-atraso",
+    "title": "MEI: como emitir o DAS e o que fazer em caso de atraso",
+    "excerpt": "O DAS-MEI é o boleto mensal que mantém a empresa regularizada — pagar em atraso tem solução simples, mas não deveria ser hábito.",
+    "category": "MEI",
+    "date": "2026-04-08",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/6779226/pexels-photo-6779226.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "DAS-MEI",
+      "boleto MEI",
+      "atraso pagamento MEI"
+    ],
+    "metaDescription": "Veja como emitir o DAS do MEI corretamente e o que fazer caso o pagamento mensal atrase.",
+    "ctaTheme": "mei",
+    "relatedSlugs": [
+      "o-que-e-das"
+    ]
+  },
+  {
+    "id": 202,
+    "slug": "mei-pode-ter-socio",
+    "title": "MEI pode ter sócio? Entenda por que a resposta é não",
+    "excerpt": "Quem quer empreender com outra pessoa precisa de outro tipo de empresa desde o início.",
+    "category": "MEI",
+    "date": "2026-04-15",
+    "readTime": 5,
+    "image": "https://images.pexels.com/photos/6863250/pexels-photo-6863250.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "MEI sócio",
+      "MEI sociedade",
+      "empresário individual MEI"
+    ],
+    "metaDescription": "Entenda por que o MEI não pode ter sócio e qual a alternativa para quem quer empreender em sociedade.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "preciso-de-socio-para-abrir-empresa"
+    ]
+  },
+  {
+    "id": 203,
+    "slug": "mei-aposentadoria-e-beneficios-inss",
+    "title": "MEI: aposentadoria e benefícios do INSS — o que você precisa saber",
+    "excerpt": "O valor fixo pago pelo MEI já garante alguns direitos previdenciários, mas não todos — entenda os limites.",
+    "category": "MEI",
+    "date": "2026-04-22",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/6863279/pexels-photo-6863279.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "MEI aposentadoria",
+      "MEI INSS",
+      "benefícios previdenciários MEI"
+    ],
+    "metaDescription": "Entenda quais benefícios previdenciários o MEI tem direito e as limitações desse regime simplificado de contribuição.",
+    "ctaTheme": "mei",
+    "relatedSlugs": [
+      "como-calcular-o-pro-labore-ideal"
+    ]
+  },
+  {
+    "id": 204,
+    "slug": "mei-de-comercio-o-que-pode-e-nao-pode-vender",
+    "title": "MEI de comércio: o que pode e não pode vender",
+    "excerpt": "Nem todo produto pode ser comercializado por um MEI — alguns exigem estrutura tributária diferente.",
+    "category": "MEI",
+    "date": "2026-04-29",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/6863330/pexels-photo-6863330.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "MEI comércio",
+      "atividades permitidas MEI",
+      "vedação MEI"
+    ],
+    "metaDescription": "Veja quais produtos e atividades de comércio são permitidos para o MEI e quais são vedadas pela legislação.",
+    "ctaTheme": "mei",
+    "relatedSlugs": [
+      "mei-quais-atividades-sao-permitidas-e-vedadas"
+    ]
+  },
+  {
+    "id": 205,
+    "slug": "mei-como-abrir-conta-bancaria-empresarial",
+    "title": "MEI: como abrir conta bancária empresarial e por que isso importa",
+    "excerpt": "Usar a conta pessoal para o MEI parece prático no início, mas cria confusão financeira que cresce com o tempo.",
+    "category": "MEI",
+    "date": "2026-05-06",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/6927334/pexels-photo-6927334.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "conta bancária MEI",
+      "conta PJ para MEI",
+      "separação financeira MEI"
+    ],
+    "metaDescription": "Veja como abrir uma conta bancária empresarial como MEI e por que isso é importante mesmo num regime tão simplificado.",
+    "ctaTheme": "mei",
+    "relatedSlugs": [
+      "separar-financas-pj-e-pf"
+    ]
+  },
+  {
+    "id": 206,
+    "slug": "mei-livro-caixa-vale-a-pena-manter",
+    "title": "MEI: livro caixa, vale a pena manter mesmo não sendo obrigatório?",
+    "excerpt": "Não é exigido por lei na maioria dos casos, mas a ausência dele complica decisões simples do dia a dia.",
+    "category": "MEI",
+    "date": "2026-05-13",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/7504780/pexels-photo-7504780.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "livro caixa MEI",
+      "controle financeiro MEI"
+    ],
+    "metaDescription": "Entenda por que vale a pena manter um livro caixa como MEI mesmo quando essa obrigação não é exigida formalmente.",
+    "ctaTheme": "mei",
+    "relatedSlugs": [
+      "o-que-e-livro-caixa",
+      "fluxo-de-caixa-controle-simples-que-funciona"
+    ]
+  },
+  {
+    "id": 207,
+    "slug": "transicao-de-mei-para-microempresa",
+    "title": "Transição de MEI para Microempresa (ME): quando e como fazer",
+    "excerpt": "Crescer além dos limites do MEI é um bom problema — desde que a transição seja feita no momento certo.",
+    "category": "MEI",
+    "date": "2026-05-20",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/7579309/pexels-photo-7579309.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "transição MEI para ME",
+      "migração de regime",
+      "crescimento de MEI"
+    ],
+    "metaDescription": "Veja quando e como fazer a transição do MEI para Microempresa, incluindo os sinais de que é hora de migrar.",
+    "ctaTheme": "regularizacao",
+    "relatedSlugs": [
+      "desenquadramento-de-mei-como-migrar"
+    ]
+  },
+  {
+    "id": 208,
+    "slug": "mei-quais-atividades-sao-permitidas-e-vedadas",
+    "title": "MEI: quais atividades são permitidas e quais são vedadas",
+    "excerpt": "Antes de formalizar, vale conferir se a atividade pretendida realmente consta na lista oficial do MEI.",
+    "category": "MEI",
+    "date": "2026-05-27",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/7579831/pexels-photo-7579831.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "atividades permitidas MEI",
+      "CNAE MEI",
+      "vedação MEI"
+    ],
+    "metaDescription": "Veja como consultar quais atividades são permitidas para o MEI e os principais motivos de vedação do regime.",
+    "ctaTheme": "mei",
+    "relatedSlugs": [
+      "mei-de-comercio-o-que-pode-e-nao-pode-vender"
+    ]
+  },
+  {
+    "id": 209,
+    "slug": "economia-para-pequenas-empresas-segundo-semestre-2026",
+    "title": "O que esperar da economia para pequenas empresas no segundo semestre de 2026",
+    "excerpt": "Juros, inflação e crédito devem seguir pautando o planejamento financeiro de quem tem pequeno negócio.",
+    "category": "Na Pauta",
+    "date": "2026-03-08",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/7580852/pexels-photo-7580852.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "economia 2026",
+      "cenário econômico pequenas empresas",
+      "planejamento financeiro 2026"
+    ],
+    "metaDescription": "Veja os principais fatores econômicos que devem impactar pequenas e médias empresas no segundo semestre de 2026.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "selic-em-2026-credito-empresarial"
+    ]
+  },
+  {
+    "id": 210,
+    "slug": "novas-regras-de-ecommerce-2026",
+    "title": "Novas regras de e-commerce: o que muda para quem vende online em 2026",
+    "excerpt": "A regulação do comércio eletrônico tem evoluído rápido — acompanhar essas mudanças evita surpresa fiscal e operacional.",
+    "category": "Na Pauta",
+    "date": "2026-03-15",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/7644004/pexels-photo-7644004.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "regras de e-commerce 2026",
+      "tributação de e-commerce",
+      "venda online"
+    ],
+    "metaDescription": "Acompanhe as principais mudanças regulatórias para quem vende online no Brasil em 2026.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "difal-diferencial-de-aliquota-explicado"
+    ]
+  },
+  {
+    "id": 211,
+    "slug": "open-finance-beneficios-para-pequenas-empresas",
+    "title": "Open Finance: o que é e como pode beneficiar pequenas empresas",
+    "excerpt": "Compartilhar dados financeiros de forma segura e consentida pode facilitar acesso a crédito mais barato.",
+    "category": "Na Pauta",
+    "date": "2026-04-12",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/7659873/pexels-photo-7659873.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "Open Finance",
+      "compartilhamento de dados financeiros",
+      "crédito empresarial"
+    ],
+    "metaDescription": "Entenda o que é o Open Finance e como pequenas empresas podem se beneficiar desse sistema de compartilhamento de dados.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "credito-empresarial-linhas-de-financiamento"
+    ]
+  },
+  {
+    "id": 212,
+    "slug": "pix-automatico-cobranca-recorrente-empresas",
+    "title": "PIX automático: o que muda na cobrança recorrente para empresas",
+    "excerpt": "Cobranças mensais recorrentes ganham uma alternativa ao boleto e ao cartão de crédito.",
+    "category": "Na Pauta",
+    "date": "2026-05-10",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/7688439/pexels-photo-7688439.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "PIX automático",
+      "cobrança recorrente",
+      "meios de pagamento empresariais"
+    ],
+    "metaDescription": "Entenda como funciona o PIX automático e o que ele representa para empresas com cobrança recorrente de clientes.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "gestao-de-inadimplencia-de-clientes"
+    ]
+  },
+  {
+    "id": 213,
+    "slug": "selic-em-2026-credito-empresarial",
+    "title": "Selic em 2026: como as mudanças de juros afetam o crédito empresarial",
+    "excerpt": "A taxa básica de juros influencia diretamente o custo de qualquer linha de crédito que sua empresa venha a buscar.",
+    "category": "Na Pauta",
+    "date": "2026-03-29",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/7821546/pexels-photo-7821546.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "taxa Selic",
+      "crédito empresarial",
+      "custo de financiamento"
+    ],
+    "metaDescription": "Entenda como as mudanças na taxa Selic impactam o custo de crédito empresarial e o planejamento financeiro de pequenas empresas.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "credito-empresarial-linhas-de-financiamento"
+    ]
+  },
+  {
+    "id": 214,
+    "slug": "novas-regras-esocial-pequenos-empregadores",
+    "title": "Novas regras do eSocial: o que muda para pequenos empregadores",
+    "excerpt": "O sistema que unifica obrigações trabalhistas digitais continua evoluindo — e isso afeta quem tem até um único funcionário.",
+    "category": "Na Pauta",
+    "date": "2026-04-19",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/7876191/pexels-photo-7876191.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "eSocial",
+      "obrigações trabalhistas digitais",
+      "pequeno empregador"
+    ],
+    "metaDescription": "Acompanhe as principais mudanças no eSocial e como elas afetam pequenos empregadores, incluindo MEI com funcionário.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "o-que-e-esocial"
+    ]
+  },
+  {
+    "id": 215,
+    "slug": "marco-legal-das-garantias-acesso-a-credito",
+    "title": "Marco legal das garantias: o que muda no acesso a crédito empresarial",
+    "excerpt": "Novas regras sobre garantias de empréstimo podem facilitar o acesso a crédito com taxas mais competitivas.",
+    "category": "Na Pauta",
+    "date": "2026-05-24",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/8112159/pexels-photo-8112159.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "marco legal das garantias",
+      "garantias de crédito",
+      "acesso a financiamento empresarial"
+    ],
+    "metaDescription": "Entenda o que é o marco legal das garantias e como ele pode facilitar o acesso a crédito para pequenas e médias empresas.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "credito-empresarial-linhas-de-financiamento"
+    ]
+  },
+  {
+    "id": 216,
+    "slug": "imposto-de-renda-2026-pessoa-juridica",
+    "title": "Imposto de Renda 2026: o que muda para pessoa jurídica",
+    "excerpt": "Ajustes anuais de tabela e regra costumam passar despercebidos, mas afetam diretamente o cálculo do tributo devido.",
+    "category": "Na Pauta",
+    "date": "2026-04-05",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/8117465/pexels-photo-8117465.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "Imposto de Renda 2026",
+      "IRPJ pessoa jurídica",
+      "atualização tributária"
+    ],
+    "metaDescription": "Acompanhe as principais mudanças no Imposto de Renda da Pessoa Jurídica para o ano de 2026.",
+    "ctaTheme": "tributario",
+    "relatedSlugs": [
+      "o-que-e-irpj"
+    ]
+  },
+  {
+    "id": 217,
+    "slug": "programa-de-regularizacao-fiscal-2026",
+    "title": "Programa de regularização fiscal 2026: o que esperar",
+    "excerpt": "Programas especiais de parcelamento surgem periodicamente — entender o padrão ajuda a se preparar para aproveitar.",
+    "category": "Na Pauta",
+    "date": "2026-05-03",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/8938932/pexels-photo-8938932.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "regularização fiscal 2026",
+      "Refis",
+      "programa de parcelamento especial"
+    ],
+    "metaDescription": "Entenda como costumam funcionar os programas de regularização fiscal e o que avaliar antes de aderir a um deles.",
+    "ctaTheme": "regularizacao",
+    "relatedSlugs": [
+      "parcelamento-de-debitos-tributarios"
+    ]
+  },
+  {
+    "id": 218,
+    "slug": "inteligencia-artificial-na-gestao-de-pequenas-empresas",
+    "title": "Inteligência artificial na gestão de pequenas empresas: tendência ou necessidade?",
+    "excerpt": "Ferramentas de IA já estão acessíveis para negócios pequenos — a questão não é mais 'se', mas 'onde' aplicar primeiro.",
+    "category": "Na Pauta",
+    "date": "2026-04-26",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/8847133/pexels-photo-8847133.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "inteligência artificial em pequenas empresas",
+      "IA na gestão empresarial",
+      "automação com IA"
+    ],
+    "metaDescription": "Veja como pequenas empresas podem usar inteligência artificial na gestão do dia a dia, sem precisar de grande investimento.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "vale-a-pena-automatizar-um-processo"
+    ]
   }
 ]
