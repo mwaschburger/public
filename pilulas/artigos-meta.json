@@ -3382,5 +3382,469 @@
     "relatedSlugs": [
       "nota-fiscal-eletronica-passo-a-passo"
     ]
+  },
+  {
+    "id": 150,
+    "slug": "gestao-de-estoque-para-pequenas-empresas",
+    "title": "Gestão de estoque para pequenas empresas: o equilíbrio entre faltar e sobrar",
+    "excerpt": "Estoque parado é dinheiro parado — mas estoque insuficiente é venda perdida. O equilíbrio exige controle, não sorte.",
+    "category": "Gestão Empresarial",
+    "date": "2025-09-03",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/209224/pexels-photo-209224.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "gestão de estoque",
+      "controle de estoque",
+      "capital de giro"
+    ],
+    "metaDescription": "Aprenda os princípios básicos de gestão de estoque para evitar tanto a falta quanto o excesso de produtos parados.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "capital-de-giro-o-que-e"
+    ]
+  },
+  {
+    "id": 151,
+    "slug": "como-montar-orcamento-anual-simples",
+    "title": "Como montar um orçamento anual simples para sua empresa",
+    "excerpt": "Sem um orçamento de referência, toda decisão de gasto é tomada no escuro, mês a mês.",
+    "category": "Gestão Empresarial",
+    "date": "2025-09-10",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/259139/pexels-photo-259139.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "orçamento anual",
+      "planejamento financeiro",
+      "gestão empresarial"
+    ],
+    "metaDescription": "Veja como montar um orçamento anual simples para guiar as decisões financeiras da sua empresa ao longo do ano.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "como-montar-dre-simples"
+    ]
+  },
+  {
+    "id": 152,
+    "slug": "indicadores-de-produtividade-da-equipe",
+    "title": "Indicadores de produtividade da equipe: o que medir sem criar um ambiente de vigilância",
+    "excerpt": "Medir produtividade não precisa significar microgerenciamento — o objetivo é identificar gargalo, não fiscalizar pessoa.",
+    "category": "Gestão Empresarial",
+    "date": "2025-09-17",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/259257/pexels-photo-259257.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "produtividade da equipe",
+      "indicadores de desempenho",
+      "gestão de pessoas"
+    ],
+    "metaDescription": "Veja como medir produtividade da equipe de forma saudável, focando em processos e não em vigilância individual.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "plano-de-cargos-simples-pequena-empresa"
+    ]
+  },
+  {
+    "id": 153,
+    "slug": "gestao-de-tempo-do-empreendedor-delegacao",
+    "title": "Gestão de tempo do empreendedor: por que delegar é mais difícil do que parece",
+    "excerpt": "Fazer tudo sozinho parece mais rápido no curto prazo — e é exatamente isso que impede o negócio de crescer.",
+    "category": "Gestão Empresarial",
+    "date": "2025-09-24",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/270632/pexels-photo-270632.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "gestão de tempo",
+      "delegação",
+      "produtividade do empreendedor"
+    ],
+    "metaDescription": "Entenda por que delegar tarefas é essencial para o crescimento do negócio e como começar a fazer isso de forma estruturada.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "primeiro-funcionario-o-que-muda"
+    ]
+  },
+  {
+    "id": 154,
+    "slug": "como-abrir-uma-filial-ou-segunda-unidade",
+    "title": "Como abrir uma filial ou segunda unidade sem comprometer a primeira",
+    "excerpt": "Expandir antes da hora pode drenar o caixa da unidade que já funciona, comprometendo as duas ao mesmo tempo.",
+    "category": "Gestão Empresarial",
+    "date": "2025-10-01",
+    "readTime": 9,
+    "image": "https://images.pexels.com/photos/1181355/pexels-photo-1181355.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "abrir filial",
+      "segunda unidade",
+      "expansão de negócio"
+    ],
+    "metaDescription": "Veja os pontos essenciais a avaliar antes de abrir uma filial ou segunda unidade do seu negócio.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "plano-de-expansao-quando-e-hora-de-crescer"
+    ]
+  },
+  {
+    "id": 155,
+    "slug": "gestao-de-qualidade-no-atendimento-ao-cliente",
+    "title": "Gestão de qualidade no atendimento ao cliente: o diferencial que pequenas empresas podem explorar",
+    "excerpt": "Empresas pequenas não competem em preço com as grandes — mas podem competir, e ganhar, em atendimento.",
+    "category": "Gestão Empresarial",
+    "date": "2025-10-08",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/1181359/pexels-photo-1181359.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "atendimento ao cliente",
+      "qualidade no atendimento",
+      "experiência do cliente"
+    ],
+    "metaDescription": "Veja como pequenas empresas podem usar a qualidade no atendimento como diferencial competitivo frente a negócios maiores.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "gestao-de-inadimplencia-de-clientes"
+    ]
+  },
+  {
+    "id": 156,
+    "slug": "politica-de-descontos-sem-destruir-margem",
+    "title": "Política de descontos e promoções sem destruir a margem do negócio",
+    "excerpt": "Dar desconto sem critério é, na prática, abrir mão de parte do lucro sem nem saber quanto está abrindo mão.",
+    "category": "Gestão Empresarial",
+    "date": "2025-10-15",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/3756681/pexels-photo-3756681.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "política de descontos",
+      "promoções",
+      "gestão de margem"
+    ],
+    "metaDescription": "Veja como definir uma política de descontos que estimule vendas sem comprometer a margem de lucro do negócio.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "margem-de-contribuicao-numero-essencial"
+    ]
+  },
+  {
+    "id": 157,
+    "slug": "vale-a-pena-automatizar-um-processo",
+    "title": "Como avaliar se vale a pena automatizar um processo da sua empresa",
+    "excerpt": "Automatizar o processo errado, ou automatizar cedo demais, pode custar mais do que continuar fazendo manualmente.",
+    "category": "Gestão Empresarial",
+    "date": "2025-10-22",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/3779706/pexels-photo-3779706.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "automação de processos",
+      "eficiência operacional",
+      "gestão empresarial"
+    ],
+    "metaDescription": "Veja como avaliar corretamente se vale a pena automatizar um processo específico do seu negócio.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "ferramentas-de-gestao-financeira-pequena-empresa"
+    ]
+  },
+  {
+    "id": 158,
+    "slug": "gestao-de-contratos-com-clientes",
+    "title": "Gestão de contratos com clientes: SLA, renovação e o que monitorar",
+    "excerpt": "Um contrato bem redigido perde valor se ninguém acompanha prazos de renovação e cumprimento de cláusulas.",
+    "category": "Gestão Empresarial",
+    "date": "2025-10-29",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/3862135/pexels-photo-3862135.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "gestão de contratos",
+      "SLA",
+      "renovação contratual"
+    ],
+    "metaDescription": "Veja como estruturar uma rotina de gestão de contratos com clientes, incluindo SLA e prazos de renovação.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "contrato-de-prestacao-de-servico-clausulas"
+    ]
+  },
+  {
+    "id": 159,
+    "slug": "plano-de-expansao-quando-e-hora-de-crescer",
+    "title": "Plano de expansão: como saber se é realmente hora de crescer",
+    "excerpt": "Crescer por crescer, sem capacidade de sustentar a operação maior, é uma das formas mais comuns de quebrar um negócio saudável.",
+    "category": "Gestão Empresarial",
+    "date": "2025-11-05",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/3862628/pexels-photo-3862628.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "plano de expansão",
+      "crescimento empresarial",
+      "planejamento estratégico"
+    ],
+    "metaDescription": "Veja os sinais que indicam que sua empresa está realmente preparada para um plano de expansão sustentável.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "como-abrir-uma-filial-ou-segunda-unidade"
+    ]
+  },
+  {
+    "id": 160,
+    "slug": "icms-por-dentro-e-por-fora",
+    "title": "ICMS por dentro: o que significa esse cálculo e por que ele confunde tanto gente",
+    "excerpt": "O ICMS é calculado de uma forma pouco intuitiva — entender essa lógica evita erro de precificação.",
+    "category": "Tributário",
+    "date": "2025-09-08",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/4173248/pexels-photo-4173248.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "ICMS por dentro",
+      "cálculo de ICMS",
+      "base de cálculo do ICMS"
+    ],
+    "metaDescription": "Entenda o conceito de ICMS por dentro, como esse cálculo funciona e por que ele costuma confundir empresários.",
+    "ctaTheme": "tributario",
+    "relatedSlugs": [
+      "o-que-e-icms"
+    ]
+  },
+  {
+    "id": 161,
+    "slug": "imunidade-e-isencao-tributaria-diferenca",
+    "title": "Imunidade e isenção tributária: qual a diferença entre esses dois conceitos",
+    "excerpt": "Os termos são usados como sinônimos no dia a dia, mas têm origem e implicações jurídicas bem diferentes.",
+    "category": "Tributário",
+    "date": "2025-09-22",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/4895430/pexels-photo-4895430.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "imunidade tributária",
+      "isenção tributária",
+      "benefícios fiscais"
+    ],
+    "metaDescription": "Entenda a diferença entre imunidade e isenção tributária e como cada conceito afeta a tributação de uma empresa.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "o-que-e-regime-tributario"
+    ]
+  },
+  {
+    "id": 162,
+    "slug": "parcelamento-de-debitos-tributarios",
+    "title": "Parcelamento de débitos tributários: como funciona e quando vale a pena aderir",
+    "excerpt": "Parcelar uma dívida fiscal pode regularizar a empresa rapidamente — mas exige disciplina para não acumular nova dívida em paralelo.",
+    "category": "Tributário",
+    "date": "2025-10-12",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/5324967/pexels-photo-5324967.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "parcelamento de débitos tributários",
+      "regularização fiscal",
+      "Refis"
+    ],
+    "metaDescription": "Entenda como funciona o parcelamento de débitos tributários e os cuidados necessários ao aderir a um programa de parcelamento.",
+    "ctaTheme": "regularizacao",
+    "relatedSlugs": [
+      "malha-fina-como-evitar-cair-nela"
+    ]
+  },
+  {
+    "id": 163,
+    "slug": "icms-na-importacao",
+    "title": "ICMS na importação: o que muda quando sua empresa compra do exterior",
+    "excerpt": "Importar gera obrigações tributárias adicionais que vão além do imposto de importação federal.",
+    "category": "Tributário",
+    "date": "2025-11-09",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/5336963/pexels-photo-5336963.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "ICMS na importação",
+      "tributação de importação",
+      "comércio exterior"
+    ],
+    "metaDescription": "Entenda como funciona a cobrança de ICMS na importação e o que sua empresa precisa considerar antes de importar produtos.",
+    "ctaTheme": "tributario",
+    "relatedSlugs": [
+      "icms-por-dentro-e-por-fora"
+    ]
+  },
+  {
+    "id": 164,
+    "slug": "simples-nacional-exclusao-do-regime",
+    "title": "Simples Nacional: motivos de exclusão do regime e como evitar",
+    "excerpt": "A exclusão pode ser por opção da empresa ou de ofício pela Receita — e a segunda costuma pegar o empresário de surpresa.",
+    "category": "Tributário",
+    "date": "2025-11-23",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/5668863/pexels-photo-5668863.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "exclusão do Simples Nacional",
+      "regularização fiscal",
+      "Simples Nacional"
+    ],
+    "metaDescription": "Conheça os principais motivos que levam à exclusão do Simples Nacional e como evitar cair nessa situação.",
+    "ctaTheme": "regularizacao",
+    "relatedSlugs": [
+      "simples-nacional-sublimites-na-pratica"
+    ]
+  },
+  {
+    "id": 165,
+    "slug": "juros-e-multa-em-atraso-de-tributo",
+    "title": "Cálculo de juros e multa em atraso de tributo: como funciona na prática",
+    "excerpt": "O valor da dívida cresce mais rápido do que parece — entender a fórmula ajuda a decidir entre pagar logo ou parcelar.",
+    "category": "Tributário",
+    "date": "2025-12-03",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/6077447/pexels-photo-6077447.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "multa por atraso de tributo",
+      "juros Selic",
+      "dívida tributária"
+    ],
+    "metaDescription": "Entenda como são calculados os juros e a multa por atraso no pagamento de tributos federais.",
+    "ctaTheme": "regularizacao",
+    "relatedSlugs": [
+      "parcelamento-de-debitos-tributarios"
+    ]
+  },
+  {
+    "id": 166,
+    "slug": "compensacao-tributaria-o-que-e",
+    "title": "Compensação tributária: o que é e como funciona na prática",
+    "excerpt": "Em vez de pedir restituição em dinheiro, a empresa pode usar um crédito tributário para abater um débito futuro.",
+    "category": "Tributário",
+    "date": "2025-12-17",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/6111585/pexels-photo-6111585.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "compensação tributária",
+      "crédito tributário",
+      "restituição de impostos"
+    ],
+    "metaDescription": "Entenda o que é compensação tributária, como ela funciona e quando ela é mais vantajosa do que pedir restituição.",
+    "ctaTheme": "tributario",
+    "relatedSlugs": [
+      "creditos-tributarios-que-a-empresa-pode-recuperar"
+    ]
+  },
+  {
+    "id": 167,
+    "slug": "o-que-e-das",
+    "title": "O que é DAS: o que significa e como funciona na prática",
+    "excerpt": "É a guia única que reúne, em um só pagamento, os principais tributos das empresas do Simples Nacional.",
+    "category": "Glossário",
+    "date": "2025-09-15",
+    "readTime": 5,
+    "image": "https://images.pexels.com/photos/6779226/pexels-photo-6779226.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "o que é DAS",
+      "documento de arrecadação do Simples Nacional",
+      "glossário contábil"
+    ],
+    "metaDescription": "Entenda o que é o DAS, a guia de pagamento mensal das empresas optantes pelo Simples Nacional.",
+    "ctaTheme": "tributario",
+    "relatedSlugs": [
+      "o-que-e-simples-nacional"
+    ]
+  },
+  {
+    "id": 168,
+    "slug": "o-que-e-anexo-simples-nacional",
+    "title": "O que é Anexo do Simples Nacional: o que significa e como saber o seu",
+    "excerpt": "A atividade da sua empresa determina qual dos cinco anexos define sua tabela de alíquotas.",
+    "category": "Glossário",
+    "date": "2025-10-26",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/6863250/pexels-photo-6863250.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "o que é anexo Simples Nacional",
+      "tabela do Simples Nacional",
+      "glossário contábil"
+    ],
+    "metaDescription": "Entenda o que são os anexos do Simples Nacional, quantos existem e como saber qual se aplica à sua empresa.",
+    "ctaTheme": "tributario",
+    "relatedSlugs": [
+      "fator-r-como-calcular-e-por-que-importa",
+      "o-que-e-simples-nacional"
+    ]
+  },
+  {
+    "id": 169,
+    "slug": "o-que-e-nire",
+    "title": "O que é NIRE: o que significa e para que serve esse número",
+    "excerpt": "Esse número de registro é tão importante quanto o CNPJ, mas costuma ser bem menos conhecido pelo empresário.",
+    "category": "Glossário",
+    "date": "2025-11-12",
+    "readTime": 5,
+    "image": "https://images.pexels.com/photos/6863279/pexels-photo-6863279.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "o que é NIRE",
+      "número de identificação do registro de empresas",
+      "glossário contábil"
+    ],
+    "metaDescription": "Entenda o que é o NIRE, número atribuído pela Junta Comercial, e em que situações ele é exigido.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "o-que-e-junta-comercial"
+    ]
+  },
+  {
+    "id": 170,
+    "slug": "o-que-e-holding",
+    "title": "O que é Holding: o que significa e por que empresas usam essa estrutura",
+    "excerpt": "Não é só para grandes grupos econômicos — pequenas e médias empresas também usam holding para organizar patrimônio.",
+    "category": "Glossário",
+    "date": "2025-12-10",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/6863330/pexels-photo-6863330.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "o que é holding",
+      "holding patrimonial",
+      "glossário contábil"
+    ],
+    "metaDescription": "Entenda o que é uma holding, os principais tipos e por que pequenas e médias empresas também podem se beneficiar dessa estrutura.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "sucessao-familiar-pequenas-empresas",
+      "acordo-de-socios-clausulas-que-evitam-briga"
+    ]
+  },
+  {
+    "id": 171,
+    "slug": "o-que-e-due-diligence",
+    "title": "O que é Due Diligence: o que significa e quando ela é necessária",
+    "excerpt": "Antes de comprar, vender ou investir numa empresa, essa investigação detalhada evita assumir um problema escondido.",
+    "category": "Glossário",
+    "date": "2025-09-29",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/6927334/pexels-photo-6927334.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "o que é due diligence",
+      "auditoria pré-aquisição",
+      "glossário contábil"
+    ],
+    "metaDescription": "Entenda o que é due diligence, em que situações ela é recomendada e o que costuma ser analisado nesse processo.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "acordo-de-socios-clausulas-que-evitam-briga"
+    ]
   }
 ]
