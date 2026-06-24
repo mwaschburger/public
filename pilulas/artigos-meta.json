@@ -2309,5 +2309,579 @@
       "como-alterar-contrato-social",
       "como-parcelar-dividas-tributarias"
     ]
+  },
+  {
+    "id": 101,
+    "slug": "fluxo-de-caixa-controle-simples-que-funciona",
+    "title": "Fluxo de caixa: como montar um controle simples que realmente funciona",
+    "subtitle": "Sem planilha complicada — só o essencial para você nunca ser pego de surpresa",
+    "excerpt": "A maioria das empresas pequenas não quebra por falta de lucro — quebra por falta de caixa no momento errado.",
+    "category": "Gestão Empresarial",
+    "date": "2025-01-08",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/209224/pexels-photo-209224.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "fluxo de caixa",
+      "controle financeiro",
+      "gestão empresarial",
+      "caixa pequena empresa"
+    ],
+    "metaDescription": "Aprenda a montar um controle de fluxo de caixa simples e eficaz para sua pequena empresa, sem depender de planilhas complexas.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "margem-de-contribuicao-numero-essencial",
+      "reserva-de-emergencia-empresarial"
+    ]
+  },
+  {
+    "id": 102,
+    "slug": "como-precificar-sem-perder-margem",
+    "title": "Como precificar seu produto ou serviço sem perder margem no processo",
+    "excerpt": "Precificar olhando só para o concorrente é a forma mais rápida de trabalhar no vermelho sem perceber.",
+    "category": "Gestão Empresarial",
+    "date": "2025-01-15",
+    "readTime": 9,
+    "image": "https://images.pexels.com/photos/259139/pexels-photo-259139.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "precificação",
+      "preço de venda",
+      "margem de lucro",
+      "gestão de preços"
+    ],
+    "metaDescription": "Entenda como calcular o preço certo do seu produto ou serviço considerando custos, impostos e margem de lucro real.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "margem-de-contribuicao-numero-essencial",
+      "ponto-de-equilibrio-quanto-vender"
+    ]
+  },
+  {
+    "id": 103,
+    "slug": "margem-de-contribuicao-numero-essencial",
+    "title": "Margem de contribuição: o número que toda empresa pequena devia acompanhar",
+    "excerpt": "Esse indicador mostra, produto por produto, o que realmente sobra para pagar as contas fixas da empresa.",
+    "category": "Gestão Empresarial",
+    "date": "2025-01-22",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/259257/pexels-photo-259257.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "margem de contribuição",
+      "indicadores financeiros",
+      "gestão de custos"
+    ],
+    "metaDescription": "Entenda o que é margem de contribuição, como calcular e por que esse indicador é essencial para a saúde financeira da empresa.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "como-precificar-sem-perder-margem",
+      "ponto-de-equilibrio-quanto-vender"
+    ]
+  },
+  {
+    "id": 104,
+    "slug": "ponto-de-equilibrio-quanto-vender",
+    "title": "Ponto de equilíbrio: quanto você precisa vender para não ter prejuízo",
+    "excerpt": "Antes de pensar em lucro, toda empresa precisa saber qual é o piso mínimo de faturamento do mês.",
+    "category": "Gestão Empresarial",
+    "date": "2025-01-29",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/270632/pexels-photo-270632.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "ponto de equilíbrio",
+      "break even",
+      "gestão financeira",
+      "planejamento empresarial"
+    ],
+    "metaDescription": "Aprenda a calcular o ponto de equilíbrio da sua empresa e entenda quanto precisa faturar para cobrir todos os custos.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "margem-de-contribuicao-numero-essencial",
+      "fluxo-de-caixa-controle-simples-que-funciona"
+    ]
+  },
+  {
+    "id": 105,
+    "slug": "separar-financas-pj-e-pf",
+    "title": "Separar finanças PJ e PF: por que isso evita a maior parte dos problemas",
+    "excerpt": "Misturar conta da empresa com conta pessoal é o hábito mais comum — e mais caro — do pequeno empresário brasileiro.",
+    "category": "Gestão Empresarial",
+    "date": "2025-02-05",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/1181355/pexels-photo-1181355.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "finanças PJ e PF",
+      "gestão financeira",
+      "pró-labore",
+      "separação patrimonial"
+    ],
+    "metaDescription": "Entenda por que separar as finanças da empresa das finanças pessoais é essencial para a saúde do negócio e do empresário.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "fluxo-de-caixa-controle-simples-que-funciona"
+    ]
+  },
+  {
+    "id": 106,
+    "slug": "reserva-de-emergencia-empresarial",
+    "title": "Reserva de emergência empresarial: quanto guardar e onde deixar esse dinheiro",
+    "excerpt": "Empresas sem reserva de caixa dependem de sorte para atravessar um mês ruim — e mês ruim, eventualmente, acontece.",
+    "category": "Gestão Empresarial",
+    "date": "2025-02-12",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/3756681/pexels-photo-3756681.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "reserva de emergência",
+      "capital de giro",
+      "gestão financeira empresarial"
+    ],
+    "metaDescription": "Saiba quanto sua empresa deveria ter de reserva de emergência e onde guardar esse valor com segurança e liquidez.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "fluxo-de-caixa-controle-simples-que-funciona",
+      "capital-de-giro-o-que-e"
+    ]
+  },
+  {
+    "id": 107,
+    "slug": "como-montar-dre-simples",
+    "title": "Como montar uma DRE simples (sem precisar ser contador para entender)",
+    "subtitle": "O relatório que mostra, em poucas linhas, se a sua empresa está dando lucro de verdade",
+    "excerpt": "A Demonstração de Resultado não precisa ser um relatório complicado para ser útil na gestão do dia a dia.",
+    "category": "Gestão Empresarial",
+    "date": "2025-02-19",
+    "readTime": 9,
+    "image": "https://images.pexels.com/photos/3779706/pexels-photo-3779706.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "DRE",
+      "demonstração de resultado",
+      "gestão financeira",
+      "relatório financeiro"
+    ],
+    "metaDescription": "Aprenda a estrutura básica de uma DRE simplificada para acompanhar o resultado da sua empresa mês a mês.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "margem-de-contribuicao-numero-essencial",
+      "fluxo-de-caixa-controle-simples-que-funciona"
+    ]
+  },
+  {
+    "id": 108,
+    "slug": "primeiro-funcionario-o-que-muda",
+    "title": "Contratação do primeiro funcionário: o que muda de fato na empresa",
+    "excerpt": "Contratar a primeira pessoa é um salto de complexidade — não só financeiro, mas operacional e legal.",
+    "category": "Gestão Empresarial",
+    "date": "2025-02-26",
+    "readTime": 10,
+    "image": "https://images.pexels.com/photos/3862135/pexels-photo-3862135.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "primeiro funcionário",
+      "contratação CLT",
+      "gestão de pessoas",
+      "encargos trabalhistas"
+    ],
+    "metaDescription": "Entenda o que muda na empresa ao contratar o primeiro funcionário, incluindo custos, obrigações e organização necessária.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "clt-ou-terceirizacao-como-decidir"
+    ]
+  },
+  {
+    "id": 109,
+    "slug": "clt-ou-terceirizacao-como-decidir",
+    "title": "CLT ou terceirização: como decidir com base em custo real, não em achismo",
+    "excerpt": "A resposta certa depende menos de preferência e mais da natureza da atividade e do volume de trabalho envolvido.",
+    "category": "Gestão Empresarial",
+    "date": "2025-03-05",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/3862628/pexels-photo-3862628.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "terceirização",
+      "CLT",
+      "gestão de pessoas",
+      "contratação"
+    ],
+    "metaDescription": "Compare os custos e riscos entre contratar CLT e terceirizar serviços, e entenda qual opção faz mais sentido para sua empresa.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "primeiro-funcionario-o-que-muda"
+    ]
+  },
+  {
+    "id": 110,
+    "slug": "negociacao-com-fornecedores-taticas",
+    "title": "Negociação com fornecedores: táticas que realmente funcionam para pequenos negócios",
+    "excerpt": "Negociar não é só pedir desconto — é entender o que o fornecedor valoriza além do preço.",
+    "category": "Gestão Empresarial",
+    "date": "2025-03-12",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/4173248/pexels-photo-4173248.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "negociação com fornecedores",
+      "gestão de compras",
+      "redução de custos"
+    ],
+    "metaDescription": "Veja táticas práticas de negociação com fornecedores que pequenas empresas podem usar para melhorar condições de compra.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "capital-de-giro-o-que-e"
+    ]
+  },
+  {
+    "id": 111,
+    "slug": "capital-de-giro-o-que-e",
+    "title": "Capital de giro: o que é, como calcular e por que sua empresa precisa dele",
+    "excerpt": "É o dinheiro que sustenta a operação entre o momento de pagar fornecedores e o momento de receber dos clientes.",
+    "category": "Gestão Empresarial",
+    "date": "2025-03-19",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/4895430/pexels-photo-4895430.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "capital de giro",
+      "gestão financeira",
+      "crédito empresarial"
+    ],
+    "metaDescription": "Entenda o conceito de capital de giro, como calculá-lo e por que ele é essencial para a operação saudável de qualquer empresa.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "reserva-de-emergencia-empresarial",
+      "negociacao-com-fornecedores-taticas"
+    ]
+  },
+  {
+    "id": 112,
+    "slug": "simples-nacional-sublimites-na-pratica",
+    "title": "Simples Nacional: como funcionam os sublimites na prática",
+    "excerpt": "Passar de R$ 3,6 milhões de faturamento anual não tira a empresa do Simples — mas muda como o ICMS e o ISS são cobrados.",
+    "category": "Tributário",
+    "date": "2025-01-11",
+    "readTime": 9,
+    "image": "https://images.pexels.com/photos/5324967/pexels-photo-5324967.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "sublimite Simples Nacional",
+      "ICMS",
+      "ISS",
+      "faturamento Simples Nacional"
+    ],
+    "metaDescription": "Entenda o que são os sublimites do Simples Nacional e como eles afetam a cobrança de ICMS e ISS da sua empresa.",
+    "ctaTheme": "tributario",
+    "relatedSlugs": [
+      "fator-r-como-calcular-e-por-que-importa"
+    ]
+  },
+  {
+    "id": 113,
+    "slug": "fator-r-como-calcular-e-por-que-importa",
+    "title": "Fator R explicado: como calcular e por que ele muda sua alíquota do Simples",
+    "excerpt": "Para empresas de serviço, o Fator R pode ser a diferença entre pagar Anexo III ou Anexo V — e isso pesa no bolso.",
+    "category": "Tributário",
+    "date": "2025-01-25",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/5336963/pexels-photo-5336963.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "fator R",
+      "Simples Nacional",
+      "anexo III",
+      "anexo V",
+      "folha de pagamento"
+    ],
+    "metaDescription": "Entenda o que é o Fator R, como ele é calculado e por que esse índice pode reduzir significativamente a alíquota da sua empresa de serviço.",
+    "ctaTheme": "tributario",
+    "relatedSlugs": [
+      "simples-nacional-sublimites-na-pratica"
+    ]
+  },
+  {
+    "id": 114,
+    "slug": "substituicao-tributaria-por-segmento",
+    "title": "Substituição tributária por segmento: o que muda para o seu tipo de negócio",
+    "excerpt": "Nem todo produto está sujeito à substituição tributária — e entender se o seu está evita erro de precificação.",
+    "category": "Tributário",
+    "date": "2025-02-08",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/5668863/pexels-photo-5668863.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "substituição tributária",
+      "ICMS-ST",
+      "tributação por segmento"
+    ],
+    "metaDescription": "Veja quais segmentos costumam ser afetados pela substituição tributária e como isso impacta o cálculo do ICMS na sua empresa.",
+    "ctaTheme": "tributario",
+    "relatedSlugs": [
+      "o-que-e-substituicao-tributaria"
+    ]
+  },
+  {
+    "id": 115,
+    "slug": "nota-fiscal-eletronica-passo-a-passo",
+    "title": "Nota fiscal eletrônica: passo a passo para emitir sem erro",
+    "excerpt": "Um erro recorrente na emissão de notas pode gerar inconsistência fiscal que só aparece meses depois, na hora errada.",
+    "category": "Tributário",
+    "date": "2025-02-22",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/6077447/pexels-photo-6077447.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "nota fiscal eletrônica",
+      "NF-e",
+      "NFS-e",
+      "emissão de notas"
+    ],
+    "metaDescription": "Veja o passo a passo para emitir nota fiscal eletrônica corretamente e evite os erros mais comuns que geram inconsistência fiscal.",
+    "ctaTheme": "tributario",
+    "relatedSlugs": [
+      "obrigacoes-acessorias-calendario-fiscal"
+    ]
+  },
+  {
+    "id": 116,
+    "slug": "obrigacoes-acessorias-calendario-fiscal",
+    "title": "Obrigações acessórias mensais: o calendário fiscal que toda pequena empresa precisa seguir",
+    "excerpt": "Perder um prazo de obrigação acessória pode gerar multa mesmo quando todo o imposto foi pago corretamente.",
+    "category": "Tributário",
+    "date": "2025-03-08",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/6111585/pexels-photo-6111585.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "obrigações acessórias",
+      "calendário fiscal",
+      "DAS",
+      "DEFIS"
+    ],
+    "metaDescription": "Conheça as principais obrigações acessórias mensais e anuais que toda pequena empresa precisa cumprir, e evite multas por atraso.",
+    "ctaTheme": "tributario",
+    "relatedSlugs": [
+      "nota-fiscal-eletronica-passo-a-passo"
+    ]
+  },
+  {
+    "id": 117,
+    "slug": "planejamento-tributario-fim-de-ano",
+    "title": "Planejamento tributário de fim de ano: o que revisar antes de virar o ano",
+    "excerpt": "Várias decisões tributárias só podem ser tomadas no início do ano-calendário — perder esse prazo significa esperar 12 meses.",
+    "category": "Tributário",
+    "date": "2025-03-22",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/6779226/pexels-photo-6779226.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "planejamento tributário",
+      "fim de ano fiscal",
+      "mudança de regime tributário"
+    ],
+    "metaDescription": "Veja o que toda empresa deveria revisar no planejamento tributário de fim de ano, antes que as janelas de decisão se fechem.",
+    "ctaTheme": "tributario",
+    "relatedSlugs": [
+      "mudanca-de-regime-tributario-quando-vale-a-pena"
+    ]
+  },
+  {
+    "id": 118,
+    "slug": "mudanca-de-regime-tributario-quando-vale-a-pena",
+    "title": "Mudança de regime tributário: quando vale a pena e como fazer",
+    "excerpt": "Sair do Simples Nacional nem sempre é sinal de problema — em alguns casos, é sinal de que a empresa cresceu bem.",
+    "category": "Tributário",
+    "date": "2025-04-02",
+    "readTime": 9,
+    "image": "https://images.pexels.com/photos/6863250/pexels-photo-6863250.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "mudança de regime tributário",
+      "lucro presumido",
+      "lucro real",
+      "Simples Nacional"
+    ],
+    "metaDescription": "Entenda quando vale a pena mudar de regime tributário e os passos necessários para fazer essa transição corretamente.",
+    "ctaTheme": "tributario",
+    "relatedSlugs": [
+      "planejamento-tributario-fim-de-ano",
+      "simples-nacional-sublimites-na-pratica"
+    ]
+  },
+  {
+    "id": 119,
+    "slug": "tributos-sobre-folha-de-pagamento",
+    "title": "Tributos sobre folha de pagamento: o que incide e quanto realmente pesa",
+    "excerpt": "Contratar custa mais do que o salário nominal sugere — entenda cada tributo que compõe esse custo adicional.",
+    "category": "Tributário",
+    "date": "2025-04-16",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/6863279/pexels-photo-6863279.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "tributos sobre folha",
+      "encargos trabalhistas",
+      "FGTS",
+      "INSS patronal"
+    ],
+    "metaDescription": "Entenda quais tributos incidem sobre a folha de pagamento da empresa e como eles impactam o custo total de cada funcionário.",
+    "ctaTheme": "tributario",
+    "relatedSlugs": [
+      "primeiro-funcionario-o-que-muda"
+    ]
+  },
+  {
+    "id": 120,
+    "slug": "contrato-de-prestacao-de-servico-clausulas",
+    "title": "Contrato de prestação de serviço: as cláusulas que você não pode esquecer",
+    "excerpt": "Um contrato malfeito só revela seus problemas no momento em que algo dá errado — e nesse momento já é tarde.",
+    "category": "Jurídico",
+    "date": "2025-01-18",
+    "readTime": 9,
+    "image": "https://images.pexels.com/photos/6863330/pexels-photo-6863330.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "contrato de prestação de serviço",
+      "cláusulas contratuais",
+      "direito empresarial"
+    ],
+    "metaDescription": "Veja as cláusulas essenciais que todo contrato de prestação de serviço deveria ter para proteger seu negócio.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "clausula-de-nao-concorrencia",
+      "distrato-como-encerrar-contrato"
+    ]
+  },
+  {
+    "id": 121,
+    "slug": "clausula-de-nao-concorrencia",
+    "title": "Cláusula de não-concorrência: quando ela vale e quando não vale nada",
+    "excerpt": "Incluir essa cláusula sem os requisitos certos pode dar a falsa sensação de proteção que, na prática, não existe.",
+    "category": "Jurídico",
+    "date": "2025-02-01",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/6927334/pexels-photo-6927334.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "cláusula de não concorrência",
+      "contratos empresariais",
+      "proteção de negócio"
+    ],
+    "metaDescription": "Entenda quando a cláusula de não-concorrência é juridicamente válida e quando ela é apenas um texto sem efeito prático.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "contrato-de-prestacao-de-servico-clausulas"
+    ]
+  },
+  {
+    "id": 122,
+    "slug": "distrato-como-encerrar-contrato",
+    "title": "Distrato: como encerrar um contrato sem dor de cabeça depois",
+    "excerpt": "A forma como um contrato termina importa tanto quanto a forma como ele começou.",
+    "category": "Jurídico",
+    "date": "2025-02-15",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/7504780/pexels-photo-7504780.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "distrato",
+      "rescisão contratual",
+      "encerramento de contrato"
+    ],
+    "metaDescription": "Entenda o que é um distrato, quando ele é necessário e como formalizá-lo corretamente para evitar problemas futuros.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "contrato-de-prestacao-de-servico-clausulas"
+    ]
+  },
+  {
+    "id": 123,
+    "slug": "propriedade-intelectual-pequenas-empresas",
+    "title": "Propriedade intelectual para pequenas empresas: o que proteger primeiro",
+    "excerpt": "Marca, criação, processo — nem tudo se protege da mesma forma, e proteger a coisa errada é desperdício de tempo e dinheiro.",
+    "category": "Jurídico",
+    "date": "2025-03-01",
+    "readTime": 9,
+    "image": "https://images.pexels.com/photos/7579309/pexels-photo-7579309.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "propriedade intelectual",
+      "registro de marca",
+      "patente",
+      "direitos autorais"
+    ],
+    "metaDescription": "Entenda os diferentes tipos de proteção de propriedade intelectual disponíveis para pequenas empresas e por onde começar.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "como-registrar-marca-no-inpi"
+    ]
+  },
+  {
+    "id": 124,
+    "slug": "direito-do-consumidor-pequena-empresa",
+    "title": "Direito do consumidor: o que toda pequena empresa precisa saber",
+    "excerpt": "Desconhecer essas regras não isenta a empresa de cumpri-las — e o desconhecimento custa caro em caso de reclamação.",
+    "category": "Jurídico",
+    "date": "2025-03-15",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/7579831/pexels-photo-7579831.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "direito do consumidor",
+      "CDC",
+      "troca e devolução",
+      "garantia legal"
+    ],
+    "metaDescription": "Conheça as principais obrigações do Código de Defesa do Consumidor que toda pequena empresa precisa cumprir.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "contrato-de-prestacao-de-servico-clausulas"
+    ]
+  },
+  {
+    "id": 125,
+    "slug": "acordo-de-socios-clausulas-que-evitam-briga",
+    "title": "Acordo de sócios: as cláusulas que evitam briga entre sócios no futuro",
+    "excerpt": "A maioria das brigas societárias começa porque ninguém definiu, no começo, o que fazer quando alguém quer saída.",
+    "category": "Jurídico",
+    "date": "2025-04-09",
+    "readTime": 10,
+    "image": "https://images.pexels.com/photos/7580852/pexels-photo-7580852.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "acordo de sócios",
+      "contrato social",
+      "sociedade empresarial",
+      "dissolução de sociedade"
+    ],
+    "metaDescription": "Veja as cláusulas essenciais de um acordo de sócios que ajudam a evitar conflitos e disputas societárias no futuro.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "distrato-como-encerrar-contrato"
+    ]
+  },
+  {
+    "id": 126,
+    "slug": "assinatura-eletronica-validade-juridica",
+    "title": "Assinatura eletrônica: quando ela tem validade jurídica de verdade",
+    "excerpt": "Nem toda assinatura digital é igual perante a lei — entender a diferença evita contratos frágeis demais para serem exigidos.",
+    "category": "Jurídico",
+    "date": "2025-04-23",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/7644004/pexels-photo-7644004.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "assinatura eletrônica",
+      "contratos digitais",
+      "validade jurídica"
+    ],
+    "metaDescription": "Entenda os tipos de assinatura eletrônica reconhecidos pela lei brasileira e qual nível de segurança jurídica cada um oferece.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "contrato-de-prestacao-de-servico-clausulas"
+    ]
   }
 ]
