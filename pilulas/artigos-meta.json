@@ -4840,5 +4840,679 @@
     "relatedSlugs": [
       "vale-a-pena-automatizar-um-processo"
     ]
+  },
+  {
+    "id": 219,
+    "slug": "gestao-de-turnover-rotatividade-de-funcionarios",
+    "title": "Gestão de turnover: causas comuns da rotatividade e como reduzi-la",
+    "excerpt": "Substituir funcionário tem custo invisível alto — recrutar, treinar e a queda de produtividade no meio do caminho.",
+    "category": "Gestão Empresarial",
+    "date": "2026-05-04",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/209224/pexels-photo-209224.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "turnover",
+      "rotatividade de funcionários",
+      "retenção de talentos"
+    ],
+    "metaDescription": "Entenda as causas mais comuns de turnover em pequenas empresas e estratégias práticas para reduzir a rotatividade.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "plano-de-cargos-simples-pequena-empresa"
+    ]
+  },
+  {
+    "id": 220,
+    "slug": "como-precificar-servico-por-hora-vs-por-projeto",
+    "title": "Como precificar serviço por hora versus por projeto fechado",
+    "excerpt": "Cada modelo transfere o risco para um lado diferente — entender isso evita prejuízo em projetos que fogem do escopo.",
+    "category": "Gestão Empresarial",
+    "date": "2026-05-06",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/259139/pexels-photo-259139.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "precificação por hora",
+      "precificação por projeto",
+      "precificação de serviços"
+    ],
+    "metaDescription": "Compare as vantagens e riscos de precificar serviços por hora trabalhada ou por projeto fechado.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "como-precificar-sem-perder-margem"
+    ]
+  },
+  {
+    "id": 221,
+    "slug": "gestao-de-fluxo-de-caixa-sazonal",
+    "title": "Gestão de fluxo de caixa sazonal: como sustentar os meses de baixa",
+    "excerpt": "Negócios com pico de venda concentrado em poucos meses precisam de uma lógica de caixa diferente do resto do ano.",
+    "category": "Gestão Empresarial",
+    "date": "2026-05-07",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/259257/pexels-photo-259257.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "sazonalidade",
+      "fluxo de caixa sazonal",
+      "gestão financeira sazonal"
+    ],
+    "metaDescription": "Veja como negócios sazonais podem planejar o fluxo de caixa para sustentar os meses de baixa demanda.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "fluxo-de-caixa-controle-simples-que-funciona",
+      "reserva-de-emergencia-empresarial"
+    ]
+  },
+  {
+    "id": 222,
+    "slug": "plano-de-sucessao-para-socio-fundador-se-afastar",
+    "title": "Plano de sucessão para sócio fundador que quer se afastar da operação",
+    "excerpt": "Sair do dia a dia sem um plano estruturado costuma comprometer tanto a operação quanto a tranquilidade do próprio fundador.",
+    "category": "Gestão Empresarial",
+    "date": "2026-05-09",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/270632/pexels-photo-270632.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "sucessão de sócio fundador",
+      "afastamento da operação",
+      "plano de sucessão"
+    ],
+    "metaDescription": "Veja como estruturar um plano de sucessão para o sócio fundador que deseja se afastar da operação do dia a dia.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "sucessao-familiar-pequenas-empresas",
+      "gestao-de-tempo-do-empreendedor-delegacao"
+    ]
+  },
+  {
+    "id": 223,
+    "slug": "como-calcular-custo-de-aquisicao-de-cliente-cac",
+    "title": "Como calcular o custo de aquisição de cliente (CAC) e por que isso importa",
+    "excerpt": "Gastar em marketing sem saber quanto custa trazer cada cliente novo é decidir no escuro.",
+    "category": "Gestão Empresarial",
+    "date": "2026-05-11",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/1181355/pexels-photo-1181355.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "CAC",
+      "custo de aquisição de cliente",
+      "indicadores de marketing"
+    ],
+    "metaDescription": "Aprenda a calcular o CAC (custo de aquisição de cliente) e como usar esse indicador para decidir investimento em marketing.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "indicadores-financeiros-essenciais-pequena-empresa"
+    ]
+  },
+  {
+    "id": 224,
+    "slug": "gestao-de-multiplos-canais-de-venda",
+    "title": "Gestão de múltiplos canais de venda: loja física, online e marketplace ao mesmo tempo",
+    "excerpt": "Vender em vários canais multiplica oportunidade, mas também multiplica complexidade de estoque e preço.",
+    "category": "Gestão Empresarial",
+    "date": "2026-05-12",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/1181359/pexels-photo-1181359.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "múltiplos canais de venda",
+      "omnichannel",
+      "gestão de marketplace"
+    ],
+    "metaDescription": "Veja os desafios e boas práticas de gerenciar vendas simultâneas em loja física, e-commerce próprio e marketplaces.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "gestao-de-estoque-para-pequenas-empresas"
+    ]
+  },
+  {
+    "id": 225,
+    "slug": "programa-de-fidelidade-sem-prejudicar-margem",
+    "title": "Como estruturar um programa de fidelidade sem prejudicar a margem",
+    "excerpt": "Fidelizar cliente custa menos do que conquistar um novo — mas o programa precisa ser desenhado com a conta fechando no fim do mês.",
+    "category": "Gestão Empresarial",
+    "date": "2026-05-14",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/3756681/pexels-photo-3756681.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "programa de fidelidade",
+      "retenção de clientes",
+      "gestão de margem"
+    ],
+    "metaDescription": "Veja como estruturar um programa de fidelidade que incentive recompra sem comprometer a margem do negócio.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "politica-de-descontos-sem-destruir-margem",
+      "como-calcular-custo-de-aquisicao-de-cliente-cac"
+    ]
+  },
+  {
+    "id": 226,
+    "slug": "fornecedores-unicos-vs-diversificacao-risco",
+    "title": "Fornecedor único ou diversificação: como avaliar o risco de dependência",
+    "excerpt": "Concentrar compras em um só fornecedor melhora a negociação, mas expõe o negócio a um risco que poucos calculam.",
+    "category": "Gestão Empresarial",
+    "date": "2026-05-16",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/3779706/pexels-photo-3779706.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "dependência de fornecedor",
+      "diversificação de fornecedores",
+      "gestão de risco de compras"
+    ],
+    "metaDescription": "Veja como avaliar o equilíbrio entre concentrar compras em um fornecedor único e diversificar para reduzir risco.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "negociacao-com-fornecedores-taticas"
+    ]
+  },
+  {
+    "id": 227,
+    "slug": "quando-contratar-um-gerente",
+    "title": "Como avaliar se está na hora de contratar um gerente para a operação",
+    "excerpt": "Continuar fazendo tudo sozinho depois que o negócio já cresceu costuma ser o maior limitador de crescimento.",
+    "category": "Gestão Empresarial",
+    "date": "2026-05-18",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/3862135/pexels-photo-3862135.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "contratar gerente",
+      "delegação de gestão",
+      "estrutura de liderança"
+    ],
+    "metaDescription": "Veja os sinais de que é hora de contratar um gerente para a operação e como avaliar o retorno dessa contratação.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "gestao-de-tempo-do-empreendedor-delegacao"
+    ]
+  },
+  {
+    "id": 228,
+    "slug": "iss-fixo-vs-iss-variavel",
+    "title": "ISS fixo versus ISS variável: o que muda para pequenas empresas de serviço",
+    "excerpt": "Algumas atividades de serviço podem pagar um valor fixo mensal de ISS, em vez de percentual sobre faturamento.",
+    "category": "Tributário",
+    "date": "2026-05-19",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/3862628/pexels-photo-3862628.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "ISS fixo",
+      "ISS variável",
+      "imposto sobre serviços"
+    ],
+    "metaDescription": "Entenda a diferença entre ISS fixo e ISS variável e em que situações cada modalidade se aplica.",
+    "ctaTheme": "tributario",
+    "relatedSlugs": [
+      "o-que-e-iss"
+    ]
+  },
+  {
+    "id": 229,
+    "slug": "nota-fiscal-de-exportacao-de-servicos",
+    "title": "Nota fiscal de exportação de serviços: como funciona na prática",
+    "excerpt": "Vender serviço para cliente no exterior tem tratamento tributário próprio, diferente da nota fiscal nacional comum.",
+    "category": "Tributário",
+    "date": "2026-05-21",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/4173248/pexels-photo-4173248.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "exportação de serviços",
+      "nota fiscal de exportação",
+      "ISS exportação"
+    ],
+    "metaDescription": "Entenda como funciona a emissão de nota fiscal para exportação de serviços e o tratamento tributário aplicável.",
+    "ctaTheme": "tributario",
+    "relatedSlugs": [
+      "como-abrir-empresa-de-servico-online-digital"
+    ]
+  },
+  {
+    "id": 230,
+    "slug": "beneficios-fiscais-municipais-e-estaduais",
+    "title": "Benefícios fiscais municipais e estaduais: como descobrir os disponíveis para sua empresa",
+    "excerpt": "Muitos incentivos fiscais existem silenciosamente, sem grande divulgação, e dependem de a empresa buscar ativamente.",
+    "category": "Tributário",
+    "date": "2026-05-23",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/4895430/pexels-photo-4895430.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "benefícios fiscais",
+      "incentivo fiscal municipal",
+      "incentivo fiscal estadual"
+    ],
+    "metaDescription": "Veja como descobrir e avaliar benefícios fiscais municipais e estaduais disponíveis para pequenas e médias empresas.",
+    "ctaTheme": "tributario",
+    "relatedSlugs": [
+      "creditos-tributarios-que-a-empresa-pode-recuperar"
+    ]
+  },
+  {
+    "id": 231,
+    "slug": "planejamento-tributario-para-filial-em-outro-estado",
+    "title": "Planejamento tributário para abertura de filial em outro estado",
+    "excerpt": "Cada estado tem sua própria regra de ICMS e seus próprios incentivos — ignorar isso no planejamento custa caro.",
+    "category": "Tributário",
+    "date": "2026-05-25",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/5324967/pexels-photo-5324967.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "filial em outro estado",
+      "planejamento tributário interestadual",
+      "ICMS por estado"
+    ],
+    "metaDescription": "Veja os pontos de planejamento tributário essenciais antes de abrir uma filial em outro estado.",
+    "ctaTheme": "tributario",
+    "relatedSlugs": [
+      "como-abrir-uma-filial-ou-segunda-unidade"
+    ]
+  },
+  {
+    "id": 232,
+    "slug": "diferenca-entre-elisao-e-evasao-fiscal",
+    "title": "Diferença entre elisão e evasão fiscal: uma é legal, a outra é crime",
+    "excerpt": "Os dois termos são frequentemente confundidos, mas a diferença entre eles é exatamente a linha entre planejamento e fraude.",
+    "category": "Tributário",
+    "date": "2026-05-26",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/5336963/pexels-photo-5336963.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "elisão fiscal",
+      "evasão fiscal",
+      "planejamento tributário legal"
+    ],
+    "metaDescription": "Entenda a diferença entre elisão fiscal (legal) e evasão fiscal (crime) e por que essa distinção é tão importante.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "mudanca-de-regime-tributario-quando-vale-a-pena"
+    ]
+  },
+  {
+    "id": 233,
+    "slug": "gps-inss-autonomos-contratados",
+    "title": "Como funciona a guia GPS e o recolhimento de INSS de autônomos contratados",
+    "excerpt": "Contratar autônomo (pessoa física) traz uma obrigação de recolhimento que muita empresa esquece de considerar.",
+    "category": "Tributário",
+    "date": "2026-05-28",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/5668863/pexels-photo-5668863.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "GPS INSS",
+      "autônomo contratado",
+      "recolhimento previdenciário"
+    ],
+    "metaDescription": "Entenda como funciona o recolhimento de INSS sobre pagamentos a autônomos contratados como pessoa física pela empresa.",
+    "ctaTheme": "tributario",
+    "relatedSlugs": [
+      "retencoes-na-fonte-o-que-sua-empresa-pode-ter-que-reter"
+    ]
+  },
+  {
+    "id": 234,
+    "slug": "regimes-especiais-de-tributacao-por-setor",
+    "title": "Regimes especiais de tributação por setor: quando seu negócio se enquadra em um deles",
+    "excerpt": "Alguns setores têm tributação própria, fora da lógica padrão do Simples, Presumido ou Real.",
+    "category": "Tributário",
+    "date": "2026-06-01",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/6077447/pexels-photo-6077447.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "regime tributário especial",
+      "tributação setorial",
+      "regimes específicos"
+    ],
+    "metaDescription": "Conheça os regimes tributários especiais que existem para setores específicos e como saber se sua empresa se enquadra em algum.",
+    "ctaTheme": "tributario",
+    "relatedSlugs": [
+      "o-que-e-regime-tributario"
+    ]
+  },
+  {
+    "id": 235,
+    "slug": "reforma-tributaria-para-o-setor-de-servicos",
+    "title": "Reforma Tributária para o setor de serviços: o que muda especificamente",
+    "excerpt": "O setor de serviços tende a sentir um dos impactos mais relevantes da transição para o novo sistema tributário.",
+    "category": "Tributário",
+    "date": "2026-06-08",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/6111585/pexels-photo-6111585.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "reforma tributária serviços",
+      "IBS serviços",
+      "CBS serviços"
+    ],
+    "metaDescription": "Entenda o que a Reforma Tributária muda especificamente para empresas do setor de serviços.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "reforma-tributaria-o-que-muda-para-pequenas-empresas",
+      "ibs-e-cbs-explicados-na-pratica"
+    ]
+  },
+  {
+    "id": 236,
+    "slug": "credito-presumido-de-icms",
+    "title": "Crédito presumido de ICMS: o que é e como funciona esse benefício",
+    "excerpt": "Em vez de calcular o crédito real, a empresa usa um percentual fixo definido por lei — o que pode ser vantajoso ou não.",
+    "category": "Tributário",
+    "date": "2026-06-15",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/6779226/pexels-photo-6779226.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "crédito presumido de ICMS",
+      "benefício fiscal ICMS",
+      "incentivo tributário"
+    ],
+    "metaDescription": "Entenda o que é o crédito presumido de ICMS, como ele funciona e em que situações pode ser vantajoso para a empresa.",
+    "ctaTheme": "tributario",
+    "relatedSlugs": [
+      "beneficios-fiscais-municipais-e-estaduais",
+      "creditos-tributarios-que-a-empresa-pode-recuperar"
+    ]
+  },
+  {
+    "id": 237,
+    "slug": "como-funciona-recuperacao-judicial",
+    "title": "Como funciona uma recuperação judicial e quando ela é necessária",
+    "excerpt": "É um instrumento para reorganizar dívida e manter a empresa funcionando — não é sinônimo de falência.",
+    "category": "Jurídico",
+    "date": "2026-06-02",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/6863250/pexels-photo-6863250.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "recuperação judicial",
+      "reorganização de dívida empresarial"
+    ],
+    "metaDescription": "Entenda o que é a recuperação judicial, quando ela é indicada e como o processo costuma funcionar na prática.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "falencia-empresarial-o-que-muda-para-os-socios"
+    ]
+  },
+  {
+    "id": 238,
+    "slug": "falencia-empresarial-o-que-muda-para-os-socios",
+    "title": "Falência empresarial: o que muda para os sócios quando isso acontece",
+    "excerpt": "Decretar falência encerra a empresa — mas o que acontece com os sócios depende de como a empresa foi administrada.",
+    "category": "Jurídico",
+    "date": "2026-06-09",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/6863279/pexels-photo-6863279.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "falência empresarial",
+      "consequências da falência para sócios"
+    ],
+    "metaDescription": "Entenda o que acontece com os sócios de uma empresa em processo de falência e quando o patrimônio pessoal pode ser afetado.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "como-funciona-recuperacao-judicial"
+    ]
+  },
+  {
+    "id": 239,
+    "slug": "contratos-internacionais-cuidados-ao-negociar",
+    "title": "Contratos internacionais: cuidados ao negociar com fornecedor ou cliente estrangeiro",
+    "excerpt": "Lei aplicável, idioma e moeda de pagamento são apenas o começo das diferenças em relação a um contrato nacional.",
+    "category": "Jurídico",
+    "date": "2026-06-16",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/6863330/pexels-photo-6863330.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "contratos internacionais",
+      "negociação com fornecedor estrangeiro",
+      "comércio internacional"
+    ],
+    "metaDescription": "Veja os principais cuidados jurídicos ao negociar e formalizar contratos com fornecedores ou clientes estrangeiros.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "clausula-de-eleicao-de-foro"
+    ]
+  },
+  {
+    "id": 240,
+    "slug": "clausula-de-eleicao-de-foro",
+    "title": "Cláusula de eleição de foro: por que ela importa mais do que parece",
+    "excerpt": "Definir onde uma eventual disputa será julgada evita ter que litigar numa cidade distante e desfavorável.",
+    "category": "Jurídico",
+    "date": "2026-06-22",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/6927334/pexels-photo-6927334.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "cláusula de eleição de foro",
+      "foro contratual",
+      "contratos empresariais"
+    ],
+    "metaDescription": "Entenda o que é a cláusula de eleição de foro e por que ela é importante em qualquer contrato empresarial relevante.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "contrato-de-prestacao-de-servico-clausulas"
+    ]
+  },
+  {
+    "id": 241,
+    "slug": "mediacao-e-arbitragem-alternativa-ao-processo-judicial",
+    "title": "Mediação e arbitragem como alternativa ao processo judicial",
+    "excerpt": "Resolver uma disputa fora do tribunal costuma ser mais rápido — e em alguns casos, também mais barato.",
+    "category": "Jurídico",
+    "date": "2026-06-03",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/7504780/pexels-photo-7504780.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "mediação empresarial",
+      "arbitragem",
+      "resolução alternativa de disputas"
+    ],
+    "metaDescription": "Entenda como funcionam a mediação e a arbitragem como alternativas ao processo judicial tradicional para resolver disputas empresariais.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "clausula-de-eleicao-de-foro"
+    ]
+  },
+  {
+    "id": 242,
+    "slug": "direitos-do-socio-minoritario",
+    "title": "Direitos do sócio minoritário: o que protege quem tem menor participação",
+    "excerpt": "Ter menos quotas não significa não ter voz — a lei garante proteções específicas para esse perfil de sócio.",
+    "category": "Jurídico",
+    "date": "2026-06-10",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/7579309/pexels-photo-7579309.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "sócio minoritário",
+      "direitos societários",
+      "proteção de minoria"
+    ],
+    "metaDescription": "Entenda quais direitos a lei garante ao sócio minoritário e como o acordo de sócios pode reforçar essa proteção.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "acordo-de-socios-clausulas-que-evitam-briga"
+    ]
+  },
+  {
+    "id": 243,
+    "slug": "exclusao-de-socio-por-justa-causa",
+    "title": "Como funciona a exclusão de sócio por justa causa",
+    "excerpt": "É um processo formal, com requisitos específicos — não basta os demais sócios decidirem que não querem mais alguém na sociedade.",
+    "category": "Jurídico",
+    "date": "2026-06-17",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/7579831/pexels-photo-7579831.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "exclusão de sócio",
+      "justa causa societária",
+      "exclusão por justa causa"
+    ],
+    "metaDescription": "Entenda os requisitos legais para excluir um sócio por justa causa e como esse processo costuma funcionar.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "acordo-de-socios-clausulas-que-evitam-briga",
+      "direitos-do-socio-minoritario"
+    ]
+  },
+  {
+    "id": 244,
+    "slug": "compliance-o-que-e-e-por-que-pequenas-empresas-precisam",
+    "title": "Compliance: o que é e por que pequenas empresas também precisam pensar nisso",
+    "excerpt": "Não é assunto exclusivo de grande corporação — é, na essência, sobre seguir regras de forma consistente.",
+    "category": "Jurídico",
+    "date": "2026-06-04",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/7580852/pexels-photo-7580852.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "compliance empresarial",
+      "compliance para pequenas empresas",
+      "conformidade regulatória"
+    ],
+    "metaDescription": "Entenda o que é compliance e por que mesmo pequenas empresas se beneficiam de práticas básicas de conformidade.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "o-que-e-compliance"
+    ]
+  },
+  {
+    "id": 245,
+    "slug": "o-que-e-recuperacao-judicial",
+    "title": "O que é Recuperação Judicial: o que significa e como funciona na prática",
+    "excerpt": "É o instrumento legal para reorganizar dívida e manter a empresa operando, em vez de simplesmente encerrar.",
+    "category": "Glossário",
+    "date": "2026-06-11",
+    "readTime": 5,
+    "image": "https://images.pexels.com/photos/7644004/pexels-photo-7644004.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "o que é recuperação judicial",
+      "glossário jurídico empresarial"
+    ],
+    "metaDescription": "Entenda de forma direta o que é a recuperação judicial e quando esse instrumento é utilizado por empresas.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "como-funciona-recuperacao-judicial"
+    ]
+  },
+  {
+    "id": 246,
+    "slug": "o-que-e-compliance",
+    "title": "O que é Compliance: o que significa e como funciona na prática",
+    "excerpt": "O termo em inglês significa, na essência, estar em conformidade com regras — legais e internas.",
+    "category": "Glossário",
+    "date": "2026-06-18",
+    "readTime": 5,
+    "image": "https://images.pexels.com/photos/7659873/pexels-photo-7659873.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "o que é compliance",
+      "glossário empresarial"
+    ],
+    "metaDescription": "Entenda de forma direta o que significa compliance e como esse conceito se aplica a empresas de qualquer porte.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "compliance-o-que-e-e-por-que-pequenas-empresas-precisam"
+    ]
+  },
+  {
+    "id": 247,
+    "slug": "o-que-e-ebitda",
+    "title": "O que é EBITDA: o que significa e como interpretar esse indicador",
+    "excerpt": "É um dos indicadores financeiros mais usados para avaliar a geração de caixa operacional de um negócio.",
+    "category": "Glossário",
+    "date": "2026-06-05",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/7688439/pexels-photo-7688439.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "o que é EBITDA",
+      "indicador financeiro",
+      "geração de caixa operacional"
+    ],
+    "metaDescription": "Entenda o que é o EBITDA, como ele é calculado e por que esse indicador é tão usado na avaliação de empresas.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "indicadores-financeiros-essenciais-pequena-empresa",
+      "o-que-e-balanco-patrimonial"
+    ]
+  },
+  {
+    "id": 248,
+    "slug": "abertura-de-cooperativa-visao-geral",
+    "title": "Abertura de cooperativa: visão geral de como formalizar esse tipo de negócio",
+    "excerpt": "Diferente de uma empresa comum, a cooperativa segue uma lógica própria de gestão e divisão de resultado entre cooperados.",
+    "category": "Abertura de Empresa",
+    "date": "2026-06-12",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/7821546/pexels-photo-7821546.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "abrir cooperativa",
+      "sociedade cooperativa",
+      "economia solidária"
+    ],
+    "metaDescription": "Veja uma visão geral de como formalizar uma cooperativa no Brasil e as principais diferenças em relação a uma empresa comum.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "empresa-individual-slu-vs-sociedade"
+    ]
+  },
+  {
+    "id": 249,
+    "slug": "transformar-negocio-informal-em-empresa-formal",
+    "title": "Como transformar um negócio informal em empresa formal sem perder clientes no processo",
+    "excerpt": "A formalização traz custo e burocracia novos — mas, bem conduzida, não precisa assustar a clientela já construída.",
+    "category": "Abertura de Empresa",
+    "date": "2026-06-19",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/7876191/pexels-photo-7876191.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "formalizar negócio informal",
+      "de informal para CNPJ",
+      "transição para empresa formal"
+    ],
+    "metaDescription": "Veja como formalizar um negócio que já opera informalmente, mantendo a base de clientes já construída no processo.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "como-abrir-empresa-guia-passo-a-passo"
+    ]
+  },
+  {
+    "id": 250,
+    "slug": "o-que-e-arbitragem",
+    "title": "O que é Arbitragem: o que significa e como funciona na prática",
+    "excerpt": "É um mecanismo privado de resolução de disputas, com decisão que tem a mesma força de uma sentença judicial.",
+    "category": "Glossário",
+    "date": "2026-06-23",
+    "readTime": 5,
+    "image": "https://images.pexels.com/photos/8112159/pexels-photo-8112159.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "o que é arbitragem",
+      "glossário jurídico empresarial"
+    ],
+    "metaDescription": "Entenda de forma direta o que é a arbitragem e quando esse mecanismo é usado para resolver disputas empresariais.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "mediacao-e-arbitragem-alternativa-ao-processo-judicial"
+    ]
   }
 ]
