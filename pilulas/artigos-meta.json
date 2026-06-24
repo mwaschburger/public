@@ -3846,5 +3846,516 @@
     "relatedSlugs": [
       "acordo-de-socios-clausulas-que-evitam-briga"
     ]
+  },
+  {
+    "id": 172,
+    "slug": "blindagem-patrimonial-legal",
+    "title": "Blindagem patrimonial legal: o que realmente funciona e o que é mito",
+    "excerpt": "Boa parte do que circula sobre 'proteger o patrimônio' não tem efeito jurídico real — e pode até gerar problema.",
+    "category": "Jurídico",
+    "date": "2026-01-05",
+    "readTime": 9,
+    "image": "https://images.pexels.com/photos/7504780/pexels-photo-7504780.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "blindagem patrimonial",
+      "proteção de patrimônio",
+      "planejamento patrimonial"
+    ],
+    "metaDescription": "Entenda quais estratégias de blindagem patrimonial têm efeito jurídico real e quais são apenas mitos sem sustentação legal.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "o-que-e-holding",
+      "responsabilidade-civil-do-empresario"
+    ]
+  },
+  {
+    "id": 173,
+    "slug": "responsabilidade-civil-do-empresario",
+    "title": "Responsabilidade civil do empresário: quando o patrimônio pessoal entra em risco",
+    "excerpt": "Ter empresa não significa estar automaticamente protegido — entenda os limites reais dessa separação.",
+    "category": "Jurídico",
+    "date": "2026-01-12",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/7579309/pexels-photo-7579309.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "responsabilidade civil do empresário",
+      "desconsideração da personalidade jurídica"
+    ],
+    "metaDescription": "Entenda em que situações o patrimônio pessoal do empresário pode responder por dívidas ou problemas da empresa.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "blindagem-patrimonial-legal"
+    ]
+  },
+  {
+    "id": 174,
+    "slug": "clausula-de-confidencialidade-nda",
+    "title": "Cláusula de confidencialidade (NDA): quando usar e o que ela protege de fato",
+    "excerpt": "Um NDA mal redigido dá a sensação de proteção, mas pode não ter força nenhuma se a informação não for tratada como confidencial.",
+    "category": "Jurídico",
+    "date": "2026-01-19",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/7579831/pexels-photo-7579831.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "NDA",
+      "cláusula de confidencialidade",
+      "acordo de não divulgação"
+    ],
+    "metaDescription": "Entenda quando usar um NDA, o que ele deve conter e os erros mais comuns que tornam essa cláusula inútil na prática.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "contrato-de-prestacao-de-servico-clausulas"
+    ]
+  },
+  {
+    "id": 175,
+    "slug": "regularizacao-de-imovel-comercial",
+    "title": "Regularização de imóvel comercial: o que verificar antes de assinar o contrato de locação",
+    "excerpt": "Alugar um imóvel sem a documentação certa pode impedir a emissão do alvará — mesmo com tudo pronto para operar.",
+    "category": "Jurídico",
+    "date": "2026-01-26",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/7580852/pexels-photo-7580852.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "regularização de imóvel comercial",
+      "alvará de funcionamento",
+      "habite-se"
+    ],
+    "metaDescription": "Veja o que verificar na documentação de um imóvel comercial antes de assinar contrato de locação para sua empresa.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "o-que-e-alvara-de-funcionamento"
+    ]
+  },
+  {
+    "id": 176,
+    "slug": "como-vender-sua-empresa-passo-a-passo-juridico",
+    "title": "Como vender sua empresa: o passo a passo jurídico do processo",
+    "excerpt": "Vender uma empresa vai muito além de combinar um preço — exige uma sequência formal de etapas para proteger ambas as partes.",
+    "category": "Jurídico",
+    "date": "2026-02-02",
+    "readTime": 9,
+    "image": "https://images.pexels.com/photos/7644004/pexels-photo-7644004.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "venda de empresa",
+      "compra e venda de quotas",
+      "alteração contratual"
+    ],
+    "metaDescription": "Veja o passo a passo jurídico para vender uma empresa, desde a negociação inicial até a formalização da transferência.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "o-que-e-due-diligence",
+      "acordo-de-socios-clausulas-que-evitam-briga"
+    ]
+  },
+  {
+    "id": 177,
+    "slug": "lgpd-aplicada-a-contratos-com-clientes",
+    "title": "LGPD aplicada a contratos com clientes: o que incluir na prática",
+    "excerpt": "Toda empresa que coleta dado de cliente precisa de cláusulas específicas sobre como esses dados são tratados.",
+    "category": "Jurídico",
+    "date": "2026-02-09",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/7659873/pexels-photo-7659873.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "LGPD em contratos",
+      "proteção de dados",
+      "cláusula de privacidade"
+    ],
+    "metaDescription": "Veja quais cláusulas relacionadas à LGPD toda empresa deveria incluir em contratos com clientes e fornecedores.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "lgpd-para-pequenas-empresas",
+      "vazamento-de-dados-responsabilidade-da-empresa"
+    ]
+  },
+  {
+    "id": 178,
+    "slug": "clausula-de-multa-contratual",
+    "title": "Cláusula de multa contratual: como definir um valor justo e que realmente protege",
+    "excerpt": "Multa baixa demais não desestimula descumprimento; multa alta demais pode ser revisada judicialmente.",
+    "category": "Jurídico",
+    "date": "2026-02-16",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/7688439/pexels-photo-7688439.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "cláusula de multa contratual",
+      "cláusula penal",
+      "contratos empresariais"
+    ],
+    "metaDescription": "Aprenda a definir um valor de multa contratual (cláusula penal) que seja justo e tenha real efeito protetivo.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "contrato-de-prestacao-de-servico-clausulas"
+    ]
+  },
+  {
+    "id": 179,
+    "slug": "direito-trabalhista-basico-para-empregadores",
+    "title": "Direito trabalhista básico que todo empregador precisa saber",
+    "excerpt": "Desconhecer regras trabalhistas básicas é a porta de entrada mais comum para processos evitáveis.",
+    "category": "Jurídico",
+    "date": "2026-02-23",
+    "readTime": 9,
+    "image": "https://images.pexels.com/photos/7821546/pexels-photo-7821546.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "direito trabalhista",
+      "obrigações do empregador",
+      "CLT"
+    ],
+    "metaDescription": "Conheça os fundamentos básicos de direito trabalhista que todo empregador deveria conhecer para evitar processos.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "como-funciona-um-processo-trabalhista",
+      "primeiro-funcionario-o-que-muda"
+    ]
+  },
+  {
+    "id": 180,
+    "slug": "como-funciona-um-processo-trabalhista",
+    "title": "Como funciona um processo trabalhista: visão geral para o empregador",
+    "excerpt": "Entender as etapas do processo ajuda a reagir com mais calma e menos improviso quando ele acontece.",
+    "category": "Jurídico",
+    "date": "2026-03-02",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/7876191/pexels-photo-7876191.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "processo trabalhista",
+      "justiça do trabalho",
+      "reclamação trabalhista"
+    ],
+    "metaDescription": "Entenda as principais etapas de um processo trabalhista e o que o empregador deve esperar em cada fase.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "direito-trabalhista-basico-para-empregadores"
+    ]
+  },
+  {
+    "id": 181,
+    "slug": "marca-registrada-uso-indevido-por-terceiros",
+    "title": "Marca registrada: o que fazer em caso de uso indevido por terceiros",
+    "excerpt": "Descobrir que outra empresa está usando sua marca não resolve sozinho — existe um caminho formal a seguir.",
+    "category": "Jurídico",
+    "date": "2026-03-09",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/8112159/pexels-photo-8112159.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "uso indevido de marca",
+      "violação de marca registrada",
+      "propriedade intelectual"
+    ],
+    "metaDescription": "Veja o que fazer quando outra empresa usa indevidamente sua marca registrada e como proceder formalmente.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "como-registrar-marca-no-inpi"
+    ]
+  },
+  {
+    "id": 182,
+    "slug": "contratos-de-parceria-e-comissao",
+    "title": "Contratos de parceria e comissão: como estruturar sem ambiguidade",
+    "excerpt": "Parceria comercial sem contrato claro sobre comissão é terreno fértil para mal-entendido e disputa.",
+    "category": "Jurídico",
+    "date": "2026-03-16",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/8117465/pexels-photo-8117465.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "contrato de parceria",
+      "contrato de comissão",
+      "representação comercial"
+    ],
+    "metaDescription": "Veja como estruturar contratos de parceria e comissão de forma clara, evitando disputas sobre valores e condições.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "contrato-de-prestacao-de-servico-clausulas"
+    ]
+  },
+  {
+    "id": 183,
+    "slug": "clausulas-abusivas-em-contratos",
+    "title": "Cláusulas abusivas em contratos: o que evitar ao redigir o seu",
+    "excerpt": "Uma cláusula abusiva pode ser anulada judicialmente, fazendo o contrato perder justamente a proteção que deveria oferecer.",
+    "category": "Jurídico",
+    "date": "2026-01-08",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/8847133/pexels-photo-8847133.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "cláusulas abusivas",
+      "contratos empresariais",
+      "nulidade contratual"
+    ],
+    "metaDescription": "Conheça os tipos de cláusulas contratuais consideradas abusivas e que podem ser anuladas judicialmente.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "contrato-de-prestacao-de-servico-clausulas"
+    ]
+  },
+  {
+    "id": 184,
+    "slug": "vazamento-de-dados-responsabilidade-da-empresa",
+    "title": "Vazamento de dados: qual a responsabilidade da empresa quando isso acontece",
+    "excerpt": "A LGPD prevê consequências específicas para empresas que não protegem adequadamente os dados que coletam.",
+    "category": "Jurídico",
+    "date": "2026-02-12",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/8938932/pexels-photo-8938932.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "vazamento de dados",
+      "LGPD",
+      "incidente de segurança da informação"
+    ],
+    "metaDescription": "Entenda a responsabilidade legal da empresa em caso de vazamento de dados de clientes e os passos a seguir.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "lgpd-aplicada-a-contratos-com-clientes"
+    ]
+  },
+  {
+    "id": 185,
+    "slug": "sociedade-de-fato-riscos-de-empreender-sem-contrato",
+    "title": "Sociedade de fato: os riscos de empreender com outra pessoa sem contrato formal",
+    "excerpt": "Mesmo sem contrato escrito, a Justiça pode reconhecer uma sociedade — e isso traz consequências para quem nunca formalizou nada.",
+    "category": "Jurídico",
+    "date": "2026-03-23",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/12955896/pexels-photo-12955896.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "sociedade de fato",
+      "sociedade informal",
+      "riscos societários"
+    ],
+    "metaDescription": "Entenda o que é sociedade de fato, como ela pode ser reconhecida judicialmente e os riscos de empreender sem contrato formal.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "acordo-de-socios-clausulas-que-evitam-briga"
+    ]
+  },
+  {
+    "id": 186,
+    "slug": "acao-de-cobranca-contra-cliente-inadimplente",
+    "title": "Ação de cobrança contra cliente inadimplente: quando vale a pena judicializar",
+    "excerpt": "Processar um cliente tem custo e tempo — entenda quando essa é realmente a melhor estratégia de recuperação de crédito.",
+    "category": "Jurídico",
+    "date": "2026-01-15",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/259257/pexels-photo-259257.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "ação de cobrança",
+      "cliente inadimplente",
+      "recuperação de crédito"
+    ],
+    "metaDescription": "Entenda quando vale a pena judicializar a cobrança de um cliente inadimplente e as alternativas disponíveis antes disso.",
+    "ctaTheme": "geral",
+    "relatedSlugs": [
+      "gestao-de-inadimplencia-de-clientes"
+    ]
+  },
+  {
+    "id": 187,
+    "slug": "como-escolher-o-nome-da-empresa",
+    "title": "Como escolher o nome da empresa: verificação de disponibilidade e registro",
+    "excerpt": "Um nome bonito que já está registrado por outra empresa pode forçar uma mudança cara meses depois de abrir.",
+    "category": "Abertura de Empresa",
+    "date": "2026-02-19",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/270632/pexels-photo-270632.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "como escolher nome da empresa",
+      "razão social",
+      "registro de nome empresarial"
+    ],
+    "metaDescription": "Veja como verificar a disponibilidade do nome da sua empresa antes de formalizar e os erros mais comuns nessa escolha.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "o-que-e-razao-social",
+      "o-que-e-cnpj"
+    ]
+  },
+  {
+    "id": 188,
+    "slug": "documentos-necessarios-para-abrir-uma-empresa",
+    "title": "Documentos necessários para abrir uma empresa: checklist completo",
+    "excerpt": "Reunir tudo antes de começar o processo evita ida e volta entre órgãos e atraso na abertura.",
+    "category": "Abertura de Empresa",
+    "date": "2026-03-26",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/1181355/pexels-photo-1181355.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "documentos para abrir empresa",
+      "checklist abertura de empresa"
+    ],
+    "metaDescription": "Veja o checklist completo de documentos necessários para abrir uma empresa no Brasil, organizados por etapa do processo.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "como-abrir-empresa-guia-passo-a-passo"
+    ]
+  },
+  {
+    "id": 189,
+    "slug": "posso-ter-empresa-e-ser-clt-ao-mesmo-tempo",
+    "title": "Posso ter empresa aberta e ser CLT ao mesmo tempo?",
+    "excerpt": "É possível na maioria dos casos, mas existem situações específicas em que isso gera conflito real.",
+    "category": "Abertura de Empresa",
+    "date": "2026-01-22",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/1181359/pexels-photo-1181359.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "empresa e CLT",
+      "sócio CLT",
+      "MEI e emprego formal"
+    ],
+    "metaDescription": "Entenda se é possível ter uma empresa aberta enquanto trabalha como empregado CLT e as situações que merecem atenção.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "mei-ou-slu-qual-e-a-empresa-certa-para-voce"
+    ]
+  },
+  {
+    "id": 190,
+    "slug": "sociedade-entre-amigos-o-que-avaliar",
+    "title": "Sociedade entre amigos: o que avaliar antes de formalizar o negócio",
+    "excerpt": "Amizade não é garantia de boa sociedade — e sociedade malfeita costuma custar tanto o negócio quanto a amizade.",
+    "category": "Abertura de Empresa",
+    "date": "2026-02-26",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/3756681/pexels-photo-3756681.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "sociedade entre amigos",
+      "abrir empresa com sócio",
+      "acordo de sócios"
+    ],
+    "metaDescription": "Veja os pontos essenciais a avaliar antes de abrir uma empresa em sociedade com um amigo ou familiar.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "acordo-de-socios-clausulas-que-evitam-briga",
+      "sociedade-de-fato-riscos-de-empreender-sem-contrato"
+    ]
+  },
+  {
+    "id": 191,
+    "slug": "como-abrir-uma-holding-patrimonial-passo-a-passo",
+    "title": "Como abrir uma holding patrimonial: passo a passo",
+    "excerpt": "Organizar o patrimônio familiar numa estrutura própria exige planejamento, não só vontade de 'economizar imposto'.",
+    "category": "Abertura de Empresa",
+    "date": "2026-03-05",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/3779706/pexels-photo-3779706.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "abrir holding patrimonial",
+      "constituição de holding",
+      "planejamento patrimonial"
+    ],
+    "metaDescription": "Veja o passo a passo para abrir uma holding patrimonial e os pontos que precisam ser avaliados antes de decidir.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "o-que-e-holding",
+      "sucessao-familiar-pequenas-empresas"
+    ]
+  },
+  {
+    "id": 192,
+    "slug": "empresa-individual-slu-vs-sociedade",
+    "title": "Empresa individual (SLU) vs sociedade: como decidir na prática",
+    "excerpt": "A decisão não é só sobre ter ou não sócio — envolve capital, responsabilidade e o tipo de negócio que você quer construir.",
+    "category": "Abertura de Empresa",
+    "date": "2026-01-29",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/3862135/pexels-photo-3862135.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "SLU",
+      "empresa individual",
+      "sociedade empresarial",
+      "tipo societário"
+    ],
+    "metaDescription": "Compare as vantagens e desvantagens entre abrir uma empresa individual (SLU) e formar uma sociedade com outros sócios.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "slu-ou-ltda-diferencas-que-importam",
+      "preciso-de-socio-para-abrir-empresa"
+    ]
+  },
+  {
+    "id": 193,
+    "slug": "abertura-de-empresa-para-estrangeiros-no-brasil",
+    "title": "Abertura de empresa para estrangeiros residentes no Brasil: o que muda no processo",
+    "excerpt": "Estrangeiro residente pode abrir empresa no Brasil, mas alguns documentos adicionais entram no processo.",
+    "category": "Abertura de Empresa",
+    "date": "2026-03-12",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/3862628/pexels-photo-3862628.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "empresa para estrangeiro",
+      "CNPJ para estrangeiro residente",
+      "abertura de empresa"
+    ],
+    "metaDescription": "Entenda o que muda no processo de abertura de empresa para estrangeiros residentes no Brasil e a documentação necessária.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "como-abrir-empresa-guia-passo-a-passo"
+    ]
+  },
+  {
+    "id": 194,
+    "slug": "quanto-tempo-leva-para-abrir-uma-empresa-no-brasil",
+    "title": "Quanto tempo realmente leva para abrir uma empresa no Brasil",
+    "excerpt": "O prazo varia muito mais por tipo de atividade e município do que muita gente imagina.",
+    "category": "Abertura de Empresa",
+    "date": "2026-02-05",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/4173248/pexels-photo-4173248.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "prazo para abrir empresa",
+      "tempo de abertura de CNPJ",
+      "processo de abertura de empresa"
+    ],
+    "metaDescription": "Entenda os fatores que determinam quanto tempo leva para abrir uma empresa no Brasil e como evitar atrasos no processo.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "como-abrir-empresa-guia-passo-a-passo"
+    ]
+  },
+  {
+    "id": 195,
+    "slug": "como-abrir-empresa-de-servico-online-digital",
+    "title": "Como abrir uma empresa de prestação de serviço online ou digital",
+    "excerpt": "Sem ponto físico, o processo de formalização tem suas próprias particularidades — e algumas armadilhas específicas.",
+    "category": "Abertura de Empresa",
+    "date": "2026-01-09",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/4895430/pexels-photo-4895430.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "empresa de serviço digital",
+      "abrir empresa online",
+      "negócio digital CNPJ"
+    ],
+    "metaDescription": "Veja as particularidades de abrir uma empresa de serviço online ou digital, incluindo endereço, CNAE e regime tributário.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "como-abrir-uma-loja-online"
+    ]
   }
 ]
