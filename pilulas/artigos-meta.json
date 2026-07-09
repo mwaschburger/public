@@ -8054,5 +8054,605 @@
       "gestor-de-trafego-trocar-de-contador",
       "como-trocar-de-contador-sem-dor-de-cabeca"
     ]
+  },
+  {
+    "id": 356,
+    "slug": "enfermeiro-como-abrir-empresa",
+    "title": "Enfermeiro: como abrir empresa, registrar no COREN e pagar menos imposto",
+    "excerpt": "Enfermeiros que prestam serviços de home care, treinamento corporativo ou consultoria de saúde precisam de CNPJ — e o Fator R pode reduzir a alíquota de 15,5% para 6% no Simples Nacional.",
+    "category": "Abertura de Empresa",
+    "date": "2027-06-01",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/3862135/pexels-photo-3862135.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "enfermeiro CNPJ",
+      "abrir empresa enfermagem",
+      "COREN pessoa jurídica",
+      "Simples Nacional enfermeiro"
+    ],
+    "metaDescription": "Enfermeiro: como abrir SLU ou LTDA, registrar no COREN e usar Fator R para pagar 6% no Simples Nacional. Guia completo para enfermeiros PJ.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "medico-como-abrir-empresa",
+      "fisioterapeuta-como-abrir-empresa",
+      "fonoaudiologo-como-abrir-empresa"
+    ]
+  },
+  {
+    "id": 357,
+    "slug": "farmaceutico-como-abrir-empresa",
+    "title": "Farmacêutico: como abrir empresa de consultoria clínica e atenção farmacêutica",
+    "excerpt": "Farmacêuticos que prestam serviços clínicos, consultoria regulatória ou treinamento corporativo precisam de CNPJ — e o Fator R pode garantir alíquota de 6% no Simples Nacional.",
+    "category": "Abertura de Empresa",
+    "date": "2027-06-15",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/259257/pexels-photo-259257.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "farmacêutico CNPJ",
+      "abrir empresa farmácia",
+      "CRF pessoa jurídica",
+      "atenção farmacêutica empresa"
+    ],
+    "metaDescription": "Farmacêutico: como abrir empresa de consultoria clínica ou atenção farmacêutica, CNAE correto, CRF e tributação no Simples Nacional.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "medico-como-abrir-empresa",
+      "nutricionista-como-abrir-empresa",
+      "enfermeiro-como-abrir-empresa"
+    ]
+  },
+  {
+    "id": 358,
+    "slug": "economista-como-abrir-empresa",
+    "title": "Economista: como abrir empresa de consultoria e qual regime tributário escolher",
+    "excerpt": "Economistas que prestam consultoria de política econômica, planejamento estratégico ou análise de mercado precisam de CNPJ — e o CORECON exige registro ativo para emissão de laudos e pareceres.",
+    "category": "Abertura de Empresa",
+    "date": "2027-06-29",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/209224/pexels-photo-209224.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "economista CNPJ",
+      "abrir empresa consultoria econômica",
+      "CORECON pessoa jurídica",
+      "Simples Nacional economista"
+    ],
+    "metaDescription": "Economista: como abrir empresa de consultoria, registrar no CORECON, escolher CNAE e regime tributário. Guia prático para economistas PJ.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "planejador-financeiro-como-abrir-empresa",
+      "gestor-de-patrimonio-como-abrir-empresa",
+      "consultor-de-rh-como-abrir-empresa"
+    ]
+  },
+  {
+    "id": 359,
+    "slug": "analista-de-dados-como-abrir-empresa",
+    "title": "Analista de dados: como abrir empresa e tributar serviços de BI, data science e analytics",
+    "excerpt": "Analistas de dados e cientistas de dados freelancers que prestam serviços para empresas precisam de CNPJ — e com Fator R, a alíquota no Simples pode cair de 15,5% para 6%.",
+    "category": "Abertura de Empresa",
+    "date": "2027-07-13",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/35576571/pexels-photo-35576571.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "analista de dados CNPJ",
+      "abrir empresa data science",
+      "cientista de dados empresa",
+      "BI analytics tributação"
+    ],
+    "metaDescription": "Analista de dados e cientista de dados: como abrir empresa, CNAE correto, Fator R e Simples Nacional. Guia para profissionais de BI e analytics.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "consultor-de-ti-como-abrir-empresa",
+      "desenvolvedor-freelancer-como-abrir-empresa",
+      "fator-r-no-simples-nacional"
+    ]
+  },
+  {
+    "id": 360,
+    "slug": "desenvolvedor-mobile-como-abrir-empresa",
+    "title": "Desenvolvedor mobile: como abrir empresa e tributar apps iOS e Android",
+    "excerpt": "Desenvolvedores mobile (Flutter, React Native, Swift, Kotlin) que prestam serviços para startups e empresas precisam de CNPJ — e o Fator R pode garantir alíquota de 6% sobre os honorários.",
+    "category": "Abertura de Empresa",
+    "date": "2027-07-27",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/259139/pexels-photo-259139.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "desenvolvedor mobile CNPJ",
+      "abrir empresa app iOS Android",
+      "Flutter React Native empresa",
+      "Simples Nacional desenvolvimento mobile"
+    ],
+    "metaDescription": "Desenvolvedor mobile: como abrir empresa, CNAE correto, Fator R no Simples Nacional e como estruturar contratos de desenvolvimento de apps. Guia prático.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "desenvolvedor-freelancer-como-abrir-empresa",
+      "consultor-de-ti-como-abrir-empresa",
+      "analista-de-dados-como-abrir-empresa"
+    ]
+  },
+  {
+    "id": 361,
+    "slug": "engenheiro-de-software-como-abrir-empresa",
+    "title": "Engenheiro de software: como abrir empresa e estruturar contratos de desenvolvimento",
+    "excerpt": "Engenheiros de software (backend, fullstack, arquiteto de sistemas) que prestam serviços via PJ precisam de CNPJ — e o Fator R é o principal mecanismo de economia tributária no Simples Nacional.",
+    "category": "Abertura de Empresa",
+    "date": "2027-08-10",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/3862628/pexels-photo-3862628.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "engenheiro de software CNPJ",
+      "abrir empresa engenharia software",
+      "backend fullstack empresa",
+      "Simples Nacional engenheiro software"
+    ],
+    "metaDescription": "Engenheiro de software: como abrir empresa, CNAE correto, Fator R e como estruturar contratos de desenvolvimento backend, fullstack e arquitetura de sistemas.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "desenvolvedor-freelancer-como-abrir-empresa",
+      "desenvolvedor-mobile-como-abrir-empresa",
+      "consultor-de-ti-como-abrir-empresa"
+    ]
+  },
+  {
+    "id": 362,
+    "slug": "musico-profissional-como-abrir-empresa",
+    "title": "Músico profissional: como abrir empresa para shows, produções e licenciamento",
+    "excerpt": "Músicos e produtores musicais que recebem cachet de shows, royalties de streaming e fees de produção pagam imposto muito acima do necessário sem CNPJ — e a empresa resolve os três de uma vez.",
+    "category": "Abertura de Empresa",
+    "date": "2027-08-24",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/5324967/pexels-photo-5324967.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "músico profissional CNPJ",
+      "abrir empresa músico",
+      "produtor musical empresa",
+      "royalties streaming tributação"
+    ],
+    "metaDescription": "Músico e produtor musical: como abrir empresa, como tributar cachets, royalties de streaming e produção fonográfica. CNAE e Simples Nacional.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "produtor-audiovisual-como-abrir-empresa",
+      "podcaster-como-abrir-empresa",
+      "youtuber-como-abrir-empresa"
+    ]
+  },
+  {
+    "id": 363,
+    "slug": "tradutor-interprete-como-abrir-empresa",
+    "title": "Tradutor e intérprete: como abrir empresa e emitir nota fiscal de tradução técnica",
+    "excerpt": "Tradutores e intérpretes que atendem clientes corporativos, jurídicos e governamentais precisam de CNPJ para emitir NFS-e — e a isenção de ISS para tradução de idiomas pode reduzir a carga em até 3%.",
+    "category": "Abertura de Empresa",
+    "date": "2027-09-07",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/4895430/pexels-photo-4895430.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "tradutor CNPJ",
+      "abrir empresa tradução",
+      "intérprete empresa",
+      "nota fiscal tradução técnica"
+    ],
+    "metaDescription": "Tradutor e intérprete: como abrir empresa, CNAE correto, ISS sobre tradução e como emitir NFS-e de tradução técnica, jurídica e juramentada.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "copywriter-como-abrir-empresa",
+      "especialista-em-seo-como-abrir-empresa",
+      "como-abrir-empresa-passo-a-passo"
+    ]
+  },
+  {
+    "id": 364,
+    "slug": "perito-judicial-como-abrir-empresa",
+    "title": "Perito judicial: como abrir empresa para emitir laudos e receber honorários periciais",
+    "excerpt": "Peritos judiciais que atuam nos tribunais precisam de CNPJ para receber honorários periciais — e a estrutura certa pode reduzir a tributação de 27,5% para 6%.",
+    "category": "Abertura de Empresa",
+    "date": "2027-09-21",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/5668473/pexels-photo-5668473.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "perito judicial CNPJ",
+      "abrir empresa perícia",
+      "honorários periciais tributação",
+      "perito empresa Simples Nacional"
+    ],
+    "metaDescription": "Perito judicial: como abrir empresa, CNAE correto, como receber honorários periciais via CNPJ e reduzir tributação. Guia para peritos de todas as áreas.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "advogado-como-abrir-empresa",
+      "medico-como-abrir-empresa",
+      "como-abrir-empresa-passo-a-passo"
+    ]
+  },
+  {
+    "id": 365,
+    "slug": "sindico-profissional-como-abrir-empresa",
+    "title": "Síndico profissional: como abrir empresa e cobrar honorários de administração condominial",
+    "excerpt": "Síndicos profissionais que administram múltiplos condomínios precisam de CNPJ para contratar funcionários, emitir NFS-e e se proteger juridicamente — com alíquota acessível no Simples Nacional.",
+    "category": "Abertura de Empresa",
+    "date": "2027-10-05",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "síndico profissional CNPJ",
+      "abrir empresa síndico",
+      "administração condominial empresa",
+      "honorários síndico nota fiscal"
+    ],
+    "metaDescription": "Síndico profissional: como abrir empresa, CNAE correto, como emitir NFS-e para condomínios e tributar honorários no Simples Nacional.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "corretor-de-imoveis-como-abrir-empresa",
+      "gestor-de-patrimonio-como-abrir-empresa",
+      "como-abrir-empresa-passo-a-passo"
+    ]
+  },
+  {
+    "id": 366,
+    "slug": "cerimonialista-como-abrir-empresa",
+    "title": "Cerimonialista e wedding planner: como abrir empresa para eventos e casamentos",
+    "excerpt": "Cerimonialistas que coordenam casamentos e eventos corporativos com orçamento acima de R$ 20.000 precisam de CNPJ — e a diferença tributária em relação ao autônomo pode financiar mais de dois eventos por ano.",
+    "category": "Abertura de Empresa",
+    "date": "2027-10-19",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/1049343/pexels-photo-1049343.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "cerimonialista CNPJ",
+      "abrir empresa wedding planner",
+      "eventos corporativos empresa",
+      "nota fiscal cerimonialista"
+    ],
+    "metaDescription": "Cerimonialista e wedding planner: como abrir empresa, CNAE correto, tributação de eventos e como emitir NFS-e para casamentos e eventos corporativos.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "fotografo-como-abrir-empresa",
+      "produtor-audiovisual-como-abrir-empresa",
+      "como-abrir-empresa-passo-a-passo"
+    ]
+  },
+  {
+    "id": 367,
+    "slug": "piloto-de-drone-como-abrir-empresa",
+    "title": "Piloto de drone: como abrir empresa para filmagem aérea e serviços comerciais com VANT",
+    "excerpt": "Pilotos de drone que prestam serviços comerciais de filmagem, mapeamento ou inspeção precisam de CNPJ, homologação ANAC e autorização DECEA — e a empresa organiza tudo com tributação eficiente.",
+    "category": "Abertura de Empresa",
+    "date": "2027-11-02",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/1074507/pexels-photo-1074507.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "piloto de drone CNPJ",
+      "abrir empresa VANT",
+      "filmagem aérea empresa",
+      "drone comercial tributação"
+    ],
+    "metaDescription": "Piloto de drone: como abrir empresa para serviços comerciais com VANT, homologação ANAC, autorização DECEA, CNAE e tributação no Simples Nacional.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "fotografo-como-abrir-empresa",
+      "produtor-audiovisual-como-abrir-empresa",
+      "como-abrir-empresa-passo-a-passo"
+    ]
+  },
+  {
+    "id": 368,
+    "slug": "personal-organizer-como-abrir-empresa",
+    "title": "Personal organizer: como abrir empresa e cobrar pelos serviços de organização de ambientes",
+    "excerpt": "Personal organizers que atendem clientes residenciais e corporativos precisam de CNPJ para emitir NFS-e — e a estrutura certa permite faturamento recorrente via pacotes mensais com tributação mínima.",
+    "category": "Abertura de Empresa",
+    "date": "2027-11-16",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/1457842/pexels-photo-1457842.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "personal organizer CNPJ",
+      "abrir empresa organização",
+      "home organizer empresa",
+      "nota fiscal personal organizer"
+    ],
+    "metaDescription": "Personal organizer: como abrir empresa, CNAE correto, nota fiscal para organização residencial e corporativa e tributação no Simples Nacional.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "cerimonialista-como-abrir-empresa",
+      "como-abrir-empresa-passo-a-passo",
+      "fator-r-no-simples-nacional"
+    ]
+  },
+  {
+    "id": 369,
+    "slug": "enfermeiro-trocar-de-contador",
+    "title": "Enfermeiro PJ: quando trocar de contador e o que exigir do novo",
+    "excerpt": "Enfermeiros com empresa que pagam DAS sem Fator R ativo, que nunca viram o contador calcular pró-labore ou que enfrentam atrasos constantes têm sinal claro de que é hora de trocar.",
+    "category": "Gestão Empresarial",
+    "date": "2027-12-01",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/3862135/pexels-photo-3862135.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "enfermeiro trocar contador",
+      "contador para enfermeiro PJ",
+      "Fator R enfermagem",
+      "contador saúde Simples Nacional"
+    ],
+    "metaDescription": "Enfermeiro PJ: sinais de que é hora de trocar de contador, o que exigir do novo e como garantir Fator R ativo para pagar 6% no Simples Nacional.",
+    "ctaTheme": "migracao",
+    "relatedSlugs": [
+      "enfermeiro-como-abrir-empresa",
+      "como-trocar-de-contador",
+      "fator-r-no-simples-nacional"
+    ]
+  },
+  {
+    "id": 370,
+    "slug": "farmaceutico-trocar-de-contador",
+    "title": "Farmacêutico PJ: quando trocar de contador e como garantir eficiência fiscal",
+    "excerpt": "Farmacêuticos que prestam consultoria regulatória ou atenção farmacêutica via CNPJ e pagam mais de 10% de DAS provavelmente estão no regime errado — e a culpa é do contador.",
+    "category": "Gestão Empresarial",
+    "date": "2027-12-15",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/259257/pexels-photo-259257.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "farmacêutico trocar contador",
+      "contador para farmacêutico PJ",
+      "consultoria farmacêutica tributação",
+      "Simples Nacional farmacêutico"
+    ],
+    "metaDescription": "Farmacêutico PJ: sinais de que é hora de trocar de contador, o que exigir do especialista e como garantir tributação eficiente para consultoria e atenção farmacêutica.",
+    "ctaTheme": "migracao",
+    "relatedSlugs": [
+      "farmaceutico-como-abrir-empresa",
+      "como-trocar-de-contador",
+      "fator-r-no-simples-nacional"
+    ]
+  },
+  {
+    "id": 371,
+    "slug": "economista-trocar-de-contador",
+    "title": "Economista PJ: quando trocar de contador e como otimizar a tributação da consultoria econômica",
+    "excerpt": "Economistas consultores que pagam alíquota acima de 13% sobre honorários provavelmente estão no regime errado — Simples com Fator R ou Lucro Presumido podem fazer diferença de R$ 2.000/mês.",
+    "category": "Gestão Empresarial",
+    "date": "2027-12-29",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/209224/pexels-photo-209224.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "economista trocar contador",
+      "contador para economista PJ",
+      "consultoria econômica tributação",
+      "Simples Nacional economista"
+    ],
+    "metaDescription": "Economista PJ: quando trocar de contador, como comparar Simples Nacional vs. Lucro Presumido para consultoria econômica e o que exigir do novo profissional.",
+    "ctaTheme": "migracao",
+    "relatedSlugs": [
+      "economista-como-abrir-empresa",
+      "como-trocar-de-contador",
+      "fator-r-no-simples-nacional"
+    ]
+  },
+  {
+    "id": 372,
+    "slug": "analista-de-dados-trocar-de-contador",
+    "title": "Analista de dados PJ: quando trocar de contador e otimizar tributação de BI e data science",
+    "excerpt": "Analistas de dados e cientistas de dados que pagam mais de 10% de DAS no Simples ou que nunca discutiram exportação de serviços com clientes no exterior estão deixando dinheiro na mesa.",
+    "category": "Gestão Empresarial",
+    "date": "2028-01-12",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/3861958/pexels-photo-3861958.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "analista de dados trocar contador",
+      "contador data science PJ",
+      "BI analytics tributação",
+      "exportação serviços TI"
+    ],
+    "metaDescription": "Analista de dados e cientista de dados PJ: quando trocar de contador, como ativar Fator R e como tratar receitas de clientes no exterior.",
+    "ctaTheme": "migracao",
+    "relatedSlugs": [
+      "analista-de-dados-como-abrir-empresa",
+      "como-trocar-de-contador",
+      "desenvolvedor-freelancer-trocar-de-contador"
+    ]
+  },
+  {
+    "id": 373,
+    "slug": "desenvolvedor-mobile-trocar-de-contador",
+    "title": "Desenvolvedor mobile PJ: quando trocar de contador e como otimizar tributação de apps",
+    "excerpt": "Devs mobile (Flutter, React Native, Swift, Kotlin) que nunca tiveram Fator R calculado pelo contador e que têm receita da App Store ou Play Store sem orientação fiscal específica estão pagando imposto desnecessário.",
+    "category": "Gestão Empresarial",
+    "date": "2028-01-26",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "desenvolvedor mobile trocar contador",
+      "contador dev mobile PJ",
+      "App Store tributação",
+      "Flutter React Native empresa"
+    ],
+    "metaDescription": "Desenvolvedor mobile PJ: quando trocar de contador, como ativar Fator R, como declarar receita da App Store e Play Store e tributar apps corretamente.",
+    "ctaTheme": "migracao",
+    "relatedSlugs": [
+      "desenvolvedor-mobile-como-abrir-empresa",
+      "como-trocar-de-contador",
+      "analista-de-dados-trocar-de-contador"
+    ]
+  },
+  {
+    "id": 374,
+    "slug": "engenheiro-de-software-trocar-de-contador",
+    "title": "Engenheiro de software PJ: quando trocar de contador e como maximizar o Fator R",
+    "excerpt": "Engenheiros de software com faturamento de R$ 20.000/mês que nunca tiveram Fator R calculado pelo contador estão perdendo R$ 1.900/mês — e a troca de contador pode resolver isso em 30 dias.",
+    "category": "Gestão Empresarial",
+    "date": "2028-02-09",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/3862628/pexels-photo-3862628.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "engenheiro software trocar contador",
+      "contador backend fullstack PJ",
+      "Fator R desenvolvedor sênior",
+      "Simples Nacional TI"
+    ],
+    "metaDescription": "Engenheiro de software PJ: quando trocar de contador, como calcular Fator R e quanto você pode economizar em DAS. Guia para devs backend, fullstack e arquitetos.",
+    "ctaTheme": "migracao",
+    "relatedSlugs": [
+      "engenheiro-de-software-como-abrir-empresa",
+      "como-trocar-de-contador",
+      "desenvolvedor-mobile-trocar-de-contador"
+    ]
+  },
+  {
+    "id": 375,
+    "slug": "musico-profissional-trocar-de-contador",
+    "title": "Músico PJ: quando trocar de contador e como organizar royalties, cachets e produção",
+    "excerpt": "Músicos e produtores musicais com CNPJ que misturam royalties de streaming, cachets de show e fees de produção no mesmo DAS sem separação fiscal estão pagando mais do que deveriam.",
+    "category": "Gestão Empresarial",
+    "date": "2028-02-23",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/5324967/pexels-photo-5324967.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "músico trocar contador",
+      "contador produtor musical PJ",
+      "royalties streaming tributação",
+      "cachet show nota fiscal"
+    ],
+    "metaDescription": "Músico e produtor musical PJ: quando trocar de contador, como separar royalties de streaming, cachets e produção para tributação eficiente.",
+    "ctaTheme": "migracao",
+    "relatedSlugs": [
+      "musico-profissional-como-abrir-empresa",
+      "como-trocar-de-contador",
+      "cerimonialista-trocar-de-contador"
+    ]
+  },
+  {
+    "id": 376,
+    "slug": "tradutor-interprete-trocar-de-contador",
+    "title": "Tradutor e intérprete PJ: quando trocar de contador e como aproveitar isenção de ISS",
+    "excerpt": "Tradutores técnicos com clientes no exterior que nunca discutiram exportação de serviços com o contador estão pagando ISS sobre receita internacional indevidamente — e podem recuperar o que foi pago.",
+    "category": "Gestão Empresarial",
+    "date": "2028-03-09",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/4895430/pexels-photo-4895430.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "tradutor trocar contador",
+      "contador tradutor PJ",
+      "exportação serviços tradução",
+      "ISS tradução internacional"
+    ],
+    "metaDescription": "Tradutor e intérprete PJ: quando trocar de contador, como tratar exportação de serviços de tradução e como recuperar ISS pago indevidamente sobre clientes no exterior.",
+    "ctaTheme": "migracao",
+    "relatedSlugs": [
+      "tradutor-interprete-como-abrir-empresa",
+      "como-trocar-de-contador",
+      "copywriter-trocar-de-contador"
+    ]
+  },
+  {
+    "id": 377,
+    "slug": "perito-judicial-trocar-de-contador",
+    "title": "Perito judicial PJ: quando trocar de contador e como estruturar o recebimento de honorários",
+    "excerpt": "Peritos judiciais que recebem honorários do tribunal direto no CPF sem CNPJ, ou que têm empresa mas pagam DAS sem análise de Fator R, estão deixando uma oportunidade tributária significativa na mesa.",
+    "category": "Gestão Empresarial",
+    "date": "2028-03-23",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/5668473/pexels-photo-5668473.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "perito judicial trocar contador",
+      "contador perícia judicial PJ",
+      "honorários periciais tributação",
+      "Fator R perito"
+    ],
+    "metaDescription": "Perito judicial PJ: quando trocar de contador, como estruturar o recebimento de honorários pelo CNPJ e como ativar Fator R para pagar 6% no Simples.",
+    "ctaTheme": "migracao",
+    "relatedSlugs": [
+      "perito-judicial-como-abrir-empresa",
+      "como-trocar-de-contador",
+      "advogado-trocar-de-contador"
+    ]
+  },
+  {
+    "id": 378,
+    "slug": "sindico-profissional-trocar-de-contador",
+    "title": "Síndico profissional PJ: quando trocar de contador e como escalar a operação condominial",
+    "excerpt": "Síndicos profissionais que administram 3 ou mais condomínios e ainda não otimizaram a tributação da empresa — ou que misturam contas do condomínio com as da PJ — precisam de um contador especializado.",
+    "category": "Gestão Empresarial",
+    "date": "2028-04-06",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "síndico profissional trocar contador",
+      "contador síndico PJ",
+      "administração condominial tributação",
+      "gestão condomínio empresa"
+    ],
+    "metaDescription": "Síndico profissional PJ: quando trocar de contador, como separar as contas do condomínio da empresa e como tributar honorários de administração condominial.",
+    "ctaTheme": "migracao",
+    "relatedSlugs": [
+      "sindico-profissional-como-abrir-empresa",
+      "como-trocar-de-contador",
+      "gestor-de-patrimonio-trocar-de-contador"
+    ]
+  },
+  {
+    "id": 379,
+    "slug": "cerimonialista-trocar-de-contador",
+    "title": "Cerimonialista PJ: quando trocar de contador e como tributar corretamente pacotes de eventos",
+    "excerpt": "Cerimonialistas com empresa que faturam pacotes fechados (buffet + decoração + coordenação) e pagam DAS sobre o valor bruto sem análise de margem real estão pagando imposto sobre dinheiro que repassam para fornecedores.",
+    "category": "Gestão Empresarial",
+    "date": "2028-04-20",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/1049343/pexels-photo-1049343.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "cerimonialista trocar contador",
+      "contador wedding planner PJ",
+      "pacote evento tributação",
+      "nota fiscal cerimonialista"
+    ],
+    "metaDescription": "Cerimonialista PJ: quando trocar de contador, como estruturar tributação de pacotes de eventos e como evitar pagar DAS sobre repasse de fornecedores.",
+    "ctaTheme": "migracao",
+    "relatedSlugs": [
+      "cerimonialista-como-abrir-empresa",
+      "como-trocar-de-contador",
+      "fotografo-trocar-de-contador"
+    ]
+  },
+  {
+    "id": 380,
+    "slug": "piloto-de-drone-trocar-de-contador",
+    "title": "Piloto de drone PJ: quando trocar de contador e como tributar serviços de filmagem e mapeamento",
+    "excerpt": "Pilotos de drone com CNPJ que atendem clientes de construção civil, agronegócio e produção audiovisual sem separação de CNAEs e sem análise de Fator R estão provavelmente no regime tributário errado.",
+    "category": "Gestão Empresarial",
+    "date": "2028-05-04",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/1074507/pexels-photo-1074507.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "piloto drone trocar contador",
+      "contador VANT PJ",
+      "filmagem aérea tributação",
+      "mapeamento drone empresa"
+    ],
+    "metaDescription": "Piloto de drone PJ: quando trocar de contador, como separar CNAEs de filmagem e mapeamento e como tributar corretamente serviços com VANT.",
+    "ctaTheme": "migracao",
+    "relatedSlugs": [
+      "piloto-de-drone-como-abrir-empresa",
+      "como-trocar-de-contador",
+      "fotografo-trocar-de-contador"
+    ]
   }
 ]
