@@ -5982,6 +5982,631 @@
   },
   {
     "id": 271,
+    "slug": "corretor-de-imoveis-como-abrir-empresa",
+    "title": "Corretor de imóveis: como abrir empresa e sair do autônomo",
+    "subtitle": "CRECI, CNAE, regime tributário e por que a PJ pode reduzir muito o imposto do corretor",
+    "excerpt": "Corretor pessoa física paga até 27,5% de IRPF sobre comissões. A PJ bem estruturada pode reduzir esse imposto a menos da metade — com as obrigações corretas do CRECI.",
+    "category": "Abertura de Empresa",
+    "date": "2025-12-02",
+    "readTime": 9,
+    "image": "https://images.pexels.com/photos/3779706/pexels-photo-3779706.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "corretor de imóveis abrir empresa",
+      "CNPJ corretor imóveis",
+      "PJ corretor imóveis imposto",
+      "CRECI pessoa jurídica"
+    ],
+    "metaDescription": "Corretor de imóveis: como abrir empresa, CNAE correto, regime tributário e obrigações do CRECI para PJ. Compare imposto PF vs PJ antes de decidir.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "corretor-de-imoveis-trocar-de-contador",
+      "checklist-completo-para-abrir-empresa",
+      "regime-tributario-na-abertura-de-empresa"
+    ]
+  },
+  {
+    "id": 272,
+    "slug": "arquiteto-como-abrir-empresa",
+    "title": "Arquiteto: como abrir empresa e sair do autônomo com segurança",
+    "subtitle": "CAU, CNAE, Fator R e o que muda na tributação quando o arquiteto passa para PJ",
+    "excerpt": "Arquiteto autônomo paga INSS sobre toda a receita e IRPF progressivo. A PJ no Simples com Fator R pode reduzir a carga para menos de 10% — com registro correto no CAU.",
+    "category": "Abertura de Empresa",
+    "date": "2025-12-16",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/3756681/pexels-photo-3756681.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "arquiteto abrir empresa",
+      "CNPJ arquiteto",
+      "PJ arquiteto imposto",
+      "CAU pessoa jurídica"
+    ],
+    "metaDescription": "Arquiteto: como abrir empresa, CNAE correto, registro no CAU para PJ e tributação no Simples Nacional com Fator R. Quando a PJ compensa vs autônomo.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "arquiteto-trocar-de-contador",
+      "como-escolher-cnae-certo-e-por-que-errar-sai-caro",
+      "regime-tributario-na-abertura-de-empresa"
+    ]
+  },
+  {
+    "id": 273,
+    "slug": "engenheiro-como-abrir-empresa",
+    "title": "Engenheiro: como abrir empresa e regularizar a atuação via PJ",
+    "subtitle": "CREA, ART, CNAE e o regime tributário certo para engenheiro que presta serviço",
+    "excerpt": "Engenheiro que presta serviço como autônomo está sujeito ao IRPF progressivo e INSS pleno. A PJ reduz a carga e regulariza a emissão de ART em nome do CNPJ.",
+    "category": "Abertura de Empresa",
+    "date": "2026-01-06",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/7821546/pexels-photo-7821546.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "engenheiro abrir empresa",
+      "CNPJ engenheiro",
+      "PJ engenheiro CREA",
+      "empresa de engenharia tributação"
+    ],
+    "metaDescription": "Engenheiro: como abrir empresa, registro no CREA para PJ, CNAE correto e tributação no Simples Nacional. Quando a PJ compensa em vez do autônomo.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "engenheiro-trocar-de-contador",
+      "como-escolher-cnae-certo-e-por-que-errar-sai-caro",
+      "slu-ou-ltda-qual-escolher-antes-de-protocolar"
+    ]
+  },
+  {
+    "id": 274,
+    "slug": "corretor-de-seguros-como-abrir-empresa",
+    "title": "Corretor de seguros: como abrir empresa e estruturar a PJ",
+    "subtitle": "SUSEP, CNAE, regime tributário e o que muda quando o corretor opera via CNPJ",
+    "excerpt": "Corretor de seguros que opera como PF paga IRPF sobre toda a comissão. A PJ regularizada na SUSEP pode reduzir a carga tributária e abrir portas para contratos corporativos.",
+    "category": "Abertura de Empresa",
+    "date": "2026-01-20",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/6111585/pexels-photo-6111585.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "corretor de seguros abrir empresa",
+      "CNPJ corretor de seguros",
+      "SUSEP pessoa jurídica",
+      "PJ corretor de seguros tributação"
+    ],
+    "metaDescription": "Corretor de seguros: como abrir empresa, habilitação SUSEP para PJ, CNAE correto e tributação. Quando a PJ reduz imposto e abre contratos corporativos.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "corretor-de-seguros-trocar-de-contador",
+      "checklist-completo-para-abrir-empresa",
+      "regime-tributario-na-abertura-de-empresa"
+    ]
+  },
+  {
+    "id": 275,
+    "slug": "assessor-de-investimentos-como-abrir-empresa",
+    "title": "Assessor de investimentos: como abrir empresa sendo AAI",
+    "subtitle": "B3, CVM, CNPJ e o enquadramento tributário para o agente autônomo de investimentos",
+    "excerpt": "O AAI vinculado a corretora normalmente opera como PJ. Entenda o CNAE, a autorização CVM/B3 para a empresa e o regime tributário mais adequado para assessoria de investimentos.",
+    "category": "Abertura de Empresa",
+    "date": "2026-02-03",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/8847133/pexels-photo-8847133.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "assessor de investimentos abrir empresa",
+      "AAI CNPJ",
+      "agente autônomo investimentos PJ",
+      "CVM B3 assessoria investimentos"
+    ],
+    "metaDescription": "Assessor de investimentos (AAI): como abrir empresa, autorização CVM e B3 para PJ, CNAE e tributação. Tudo que o agente autônomo precisa saber para estruturar a PJ.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "assessor-de-investimentos-trocar-de-contador",
+      "regime-tributario-na-abertura-de-empresa",
+      "capital-social-quanto-definir"
+    ]
+  },
+  {
+    "id": 276,
+    "slug": "medico-como-abrir-clinica-propria",
+    "title": "Médico: como abrir clínica própria ou empresa de prestação de serviços",
+    "subtitle": "CRM, alvará sanitário, CNAE e tributação — o que o médico precisa saber antes de protocolar",
+    "excerpt": "Médico pessoa física paga IRPF progressivo sobre plantões e consultas. A PJ médica bem estruturada pode reduzir a carga para menos de 10% — com as aprovações do CRM e vigilância sanitária.",
+    "category": "Abertura de Empresa",
+    "date": "2026-02-17",
+    "readTime": 9,
+    "image": "https://images.pexels.com/photos/7876191/pexels-photo-7876191.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "médico abrir clínica",
+      "CNPJ médico",
+      "empresa médica tributação",
+      "clínica médica abertura"
+    ],
+    "metaDescription": "Médico: como abrir clínica ou empresa de prestação de serviços — CRM, alvará sanitário, CNAE e regime tributário. Quando a PJ médica reduz imposto significativamente.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "medico-trocar-de-contabilidade",
+      "regime-tributario-na-abertura-de-empresa",
+      "checklist-completo-para-abrir-empresa"
+    ]
+  },
+  {
+    "id": 277,
+    "slug": "dentista-como-abrir-clinica-propria",
+    "title": "Dentista: como abrir clínica odontológica e estruturar a PJ",
+    "subtitle": "CRO, alvará sanitário, Simples Nacional e o que muda quando o dentista opera via CNPJ",
+    "excerpt": "Dentista que recebe como autônomo paga até 27,5% de IRPF. A PJ odontológica no Simples com Fator R pode reduzir a carga para 6% a 10% — com os registros corretos no CRO.",
+    "category": "Abertura de Empresa",
+    "date": "2026-03-03",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/8112159/pexels-photo-8112159.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "dentista abrir clínica",
+      "CNPJ dentista",
+      "clínica odontológica abertura",
+      "CRO pessoa jurídica"
+    ],
+    "metaDescription": "Dentista: como abrir clínica odontológica — CRO, CNAE, alvará sanitário e tributação no Simples Nacional. Quando a PJ odontológica reduz imposto e facilita contratos.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "dentista-trocar-de-contabilidade",
+      "medico-como-abrir-clinica-propria",
+      "regime-tributario-na-abertura-de-empresa"
+    ]
+  },
+  {
+    "id": 278,
+    "slug": "advogado-como-abrir-sociedade-de-advogados",
+    "title": "Advogado: como abrir sociedade de advogados ou empresa de serviços jurídicos",
+    "subtitle": "OAB, CNPJ, Simples Nacional e as regras específicas para PJ advocatícia",
+    "excerpt": "Advogado que opera como autônomo paga IRPF sobre honorários. A sociedade de advogados ou empresa unipessoal pode reduzir a carga — com as regras específicas da OAB para PJ.",
+    "category": "Abertura de Empresa",
+    "date": "2026-03-17",
+    "readTime": 9,
+    "image": "https://images.pexels.com/photos/270632/pexels-photo-270632.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "advogado abrir empresa",
+      "sociedade de advogados OAB",
+      "CNPJ advogado",
+      "escritório de advocacia tributação"
+    ],
+    "metaDescription": "Advogado: como abrir sociedade de advogados ou empresa unipessoal — OAB, CNAE, Simples Nacional e as regras específicas para PJ advocatícia.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "advogado-trocar-de-contador",
+      "slu-ou-ltda-qual-escolher-antes-de-protocolar",
+      "regime-tributario-na-abertura-de-empresa"
+    ]
+  },
+  {
+    "id": 279,
+    "slug": "psicologo-como-abrir-empresa",
+    "title": "Psicólogo: como abrir empresa e sair do autônomo",
+    "subtitle": "CRP, CNAE, Simples Nacional e o que muda na tributação quando o psicólogo opera via CNPJ",
+    "excerpt": "Psicólogo que atende como autônomo paga IRPF progressivo sobre os honorários. A PJ bem estruturada pode reduzir a carga tributária e profissionalizar o consultório.",
+    "category": "Abertura de Empresa",
+    "date": "2026-03-31",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/5336963/pexels-photo-5336963.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "psicólogo abrir empresa",
+      "CNPJ psicólogo",
+      "clínica psicologia empresa",
+      "CRP pessoa jurídica"
+    ],
+    "metaDescription": "Psicólogo: como abrir empresa, CNAE, registro no CRP para PJ e tributação no Simples Nacional. Quando a PJ reduz imposto e profissionaliza o consultório.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "psicologo-trocar-de-contador",
+      "checklist-completo-para-abrir-empresa",
+      "regime-tributario-na-abertura-de-empresa"
+    ]
+  },
+  {
+    "id": 280,
+    "slug": "veterinario-como-abrir-clinica",
+    "title": "Veterinário: como abrir clínica ou empresa de serviços veterinários",
+    "subtitle": "CRMV, alvará sanitário, CNAE e tributação para o veterinário que quer operar via PJ",
+    "excerpt": "Veterinário autônomo paga IRPF progressivo sobre honorários. A PJ veterinária no Simples pode reduzir a carga — com os registros corretos no CRMV e as licenças sanitárias em dia.",
+    "category": "Abertura de Empresa",
+    "date": "2026-04-14",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/7659873/pexels-photo-7659873.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "veterinário abrir clínica",
+      "CNPJ veterinário",
+      "clínica veterinária abertura",
+      "CRMV pessoa jurídica"
+    ],
+    "metaDescription": "Veterinário: como abrir clínica ou empresa de serviços veterinários — CRMV, CNAE, alvará sanitário e tributação no Simples Nacional.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "veterinario-trocar-de-contabilidade",
+      "medico-como-abrir-clinica-propria",
+      "checklist-completo-para-abrir-empresa"
+    ]
+  },
+  {
+    "id": 281,
+    "slug": "desenvolvedor-freelancer-como-abrir-empresa",
+    "title": "Desenvolvedor freelancer: como abrir empresa e sair do autônomo",
+    "subtitle": "CNAE, Simples Nacional e por que o desenvolvedor PJ pode pagar menos da metade do imposto do autônomo",
+    "excerpt": "Desenvolvedor que recebe como autônomo paga até 27,5% de IRPF. A PJ de tecnologia no Simples Nacional pode reduzir a carga para 6% a 9% — sem burocracia de conselho profissional.",
+    "category": "Abertura de Empresa",
+    "date": "2026-04-28",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/12955896/pexels-photo-12955896.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "desenvolvedor freelancer abrir empresa",
+      "CNPJ desenvolvedor software",
+      "PJ desenvolvedor tributação",
+      "empresa de tecnologia abertura"
+    ],
+    "metaDescription": "Desenvolvedor freelancer: como abrir empresa, CNAE correto, Simples Nacional com Fator R e quando a PJ de tecnologia vale a pena. Sem conselho profissional obrigatório.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "desenvolvedor-freelancer-trocar-de-contador",
+      "slu-ou-ltda-qual-escolher-antes-de-protocolar",
+      "regime-tributario-na-abertura-de-empresa"
+    ]
+  },
+  {
+    "id": 282,
+    "slug": "nutricionista-como-abrir-empresa",
+    "title": "Nutricionista: como abrir empresa e formalizar o consultório",
+    "subtitle": "CFN, CNAE, Simples Nacional e o que muda quando o nutricionista opera via PJ",
+    "excerpt": "Nutricionista que atende como autônomo paga IRPF progressivo. A PJ no Simples com Fator R pode reduzir a carga tributária e dar mais estrutura para atendimento presencial e online.",
+    "category": "Abertura de Empresa",
+    "date": "2026-05-12",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/6077447/pexels-photo-6077447.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "nutricionista abrir empresa",
+      "CNPJ nutricionista",
+      "consultório nutrição empresa",
+      "CFN pessoa jurídica"
+    ],
+    "metaDescription": "Nutricionista: como abrir empresa, CNAE, registro no CFN para PJ e tributação no Simples Nacional. Quando a PJ faz sentido para o consultório de nutrição.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "nutricionista-trocar-de-contador",
+      "psicologo-como-abrir-empresa",
+      "checklist-completo-para-abrir-empresa"
+    ]
+  },
+  {
+    "id": 283,
+    "slug": "personal-trainer-como-abrir-empresa",
+    "title": "Personal trainer: como abrir empresa e sair do autônomo",
+    "subtitle": "CREF, CNAE, Simples Nacional e quando a PJ do educador físico faz sentido",
+    "excerpt": "Personal trainer autônomo paga IRPF progressivo sobre os honorários. A PJ no Simples pode reduzir a carga tributária e abrir portas para academias, empresas e atendimento online.",
+    "category": "Abertura de Empresa",
+    "date": "2026-05-26",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/7579831/pexels-photo-7579831.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "personal trainer abrir empresa",
+      "CNPJ educador físico",
+      "PJ personal trainer tributação",
+      "CREF pessoa jurídica"
+    ],
+    "metaDescription": "Personal trainer: como abrir empresa, CNAE, CREF para PJ e tributação no Simples Nacional. Quando a PJ do educador físico reduz imposto e profissionaliza a atividade.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "checklist-completo-para-abrir-empresa",
+      "psicologo-como-abrir-empresa",
+      "regime-tributario-na-abertura-de-empresa"
+    ]
+  },
+  {
+    "id": 284,
+    "slug": "corretor-de-imoveis-trocar-de-contador",
+    "title": "Corretor de imóveis: como trocar de contador e o que exigir do novo",
+    "subtitle": "O que o escritório contábil precisa entender sobre corretagem imobiliária para atender bem",
+    "excerpt": "Trocar de contador sendo corretor de imóveis exige atenção ao Fator R, ao CRECI da PJ e à sazonalidade do faturamento — pontos que um contador generalista pode ignorar.",
+    "category": "Gestão Empresarial",
+    "date": "2025-12-09",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/259139/pexels-photo-259139.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "corretor de imóveis trocar de contador",
+      "contabilidade corretor imóveis",
+      "contador corretagem imobiliária",
+      "migração contabilidade corretor"
+    ],
+    "metaDescription": "Corretor de imóveis: como trocar de contador, o que exigir do novo escritório — Fator R, sazonalidade de comissões e obrigações específicas da corretagem imobiliária.",
+    "ctaTheme": "migracao",
+    "relatedSlugs": [
+      "corretor-de-imoveis-como-abrir-empresa",
+      "sinais-de-que-e-hora-de-trocar-de-contabilidade",
+      "perguntas-para-fazer-antes-de-contratar-contador"
+    ]
+  },
+  {
+    "id": 285,
+    "slug": "arquiteto-trocar-de-contador",
+    "title": "Arquiteto: como trocar de contador e o que exigir do novo escritório",
+    "subtitle": "Fator R, RRTs, ART e o que o contador de arquiteto precisa saber — e muitos não sabem",
+    "excerpt": "Trocar de contabilidade sendo arquiteto requer atenção ao histórico de Fator R, ao registro CAU da PJ e ao controle de recebíveis de projetos de longo prazo.",
+    "category": "Gestão Empresarial",
+    "date": "2025-12-23",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/209224/pexels-photo-209224.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "arquiteto trocar de contador",
+      "contabilidade escritório de arquitetura",
+      "contador arquiteto Fator R",
+      "migração contabilidade arquiteto"
+    ],
+    "metaDescription": "Arquiteto: como trocar de contador, o que exigir do novo — Fator R, gestão de recebíveis de projetos longos e obrigações do CAU para a PJ.",
+    "ctaTheme": "migracao",
+    "relatedSlugs": [
+      "arquiteto-como-abrir-empresa",
+      "o-que-verificar-antes-de-contratar-nova-contabilidade",
+      "contabilidade-consultiva-vs-operacional"
+    ]
+  },
+  {
+    "id": 286,
+    "slug": "engenheiro-trocar-de-contador",
+    "title": "Engenheiro: como trocar de contador e o que o novo precisa entender",
+    "subtitle": "ART, CREA, Fator R e Anexo IV — o que difere a contabilidade de empresa de engenharia",
+    "excerpt": "Engenharia tem uma peculiaridade tributária crítica: Anexo IV do Simples sem CPP incluso. Um contador que não entende isso pode calcular o DAS errado desde o primeiro mês.",
+    "category": "Gestão Empresarial",
+    "date": "2026-01-13",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/259257/pexels-photo-259257.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "engenheiro trocar de contador",
+      "contabilidade empresa engenharia",
+      "contador engenheiro Simples Nacional",
+      "migração contabilidade engenharia"
+    ],
+    "metaDescription": "Engenheiro: como trocar de contador — Fator R, Anexo IV do Simples Nacional e o que o novo escritório precisa entender sobre a tributação específica de engenharia.",
+    "ctaTheme": "migracao",
+    "relatedSlugs": [
+      "engenheiro-como-abrir-empresa",
+      "sinais-de-que-e-hora-de-trocar-de-contabilidade",
+      "checklist-para-trocar-de-contabilidade"
+    ]
+  },
+  {
+    "id": 287,
+    "slug": "corretor-de-seguros-trocar-de-contador",
+    "title": "Corretor de seguros: como trocar de contador",
+    "subtitle": "O que o novo escritório precisa entender sobre comissões, SUSEP e tributação do setor",
+    "excerpt": "Contabilidade de corretora de seguros tem especificidades: comissões variáveis, rebates e spread, habilitação SUSEP e Fator R. Saiba o que exigir do novo contador.",
+    "category": "Gestão Empresarial",
+    "date": "2026-01-27",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/35576571/pexels-photo-35576571.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "corretor de seguros trocar de contador",
+      "contabilidade corretora de seguros",
+      "contador seguros SUSEP",
+      "migração contabilidade seguros"
+    ],
+    "metaDescription": "Corretor de seguros: como trocar de contador, o que o novo escritório precisa entender — comissões variáveis, SUSEP, Fator R e planejamento tributário do setor.",
+    "ctaTheme": "migracao",
+    "relatedSlugs": [
+      "corretor-de-seguros-como-abrir-empresa",
+      "o-que-verificar-antes-de-contratar-nova-contabilidade",
+      "contabilidade-consultiva-vs-operacional"
+    ]
+  },
+  {
+    "id": 288,
+    "slug": "assessor-de-investimentos-trocar-de-contador",
+    "title": "Assessor de investimentos: como trocar de contador",
+    "subtitle": "O que o novo escritório precisa entender sobre receita de AAI — comissões, rebate e regulação CVM",
+    "excerpt": "A contabilidade de empresa de assessoria de investimentos tem especificidades: receitas reguladas, variação por AUC e obrigações de compliance que o contador precisa conhecer.",
+    "category": "Gestão Empresarial",
+    "date": "2026-02-10",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/7659873/pexels-photo-7659873.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "assessor de investimentos trocar de contador",
+      "contabilidade AAI",
+      "contador assessoria investimentos",
+      "migração contabilidade assessor financeiro"
+    ],
+    "metaDescription": "Assessor de investimentos (AAI): como trocar de contador — receitas de comissão, AUC, Fator R e o que o novo escritório precisa entender sobre a regulação CVM/B3.",
+    "ctaTheme": "migracao",
+    "relatedSlugs": [
+      "assessor-de-investimentos-como-abrir-empresa",
+      "contabilidade-consultiva-vs-operacional",
+      "perguntas-para-fazer-antes-de-contratar-contador"
+    ]
+  },
+  {
+    "id": 289,
+    "slug": "medico-trocar-de-contabilidade",
+    "title": "Médico: como trocar de contabilidade e o que exigir do novo escritório",
+    "subtitle": "Fator R, plantões, notas para planos de saúde e o que o contador médico precisa dominar",
+    "excerpt": "A contabilidade de empresa médica tem especificidades: receitas de plantão, honorários cirúrgicos, credenciamento de planos e compliance com o CRM. Veja o que exigir na troca.",
+    "category": "Gestão Empresarial",
+    "date": "2026-02-24",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/8112159/pexels-photo-8112159.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "médico trocar de contador",
+      "contabilidade empresa médica",
+      "contador médico plantão",
+      "migração contabilidade clínica médica"
+    ],
+    "metaDescription": "Médico: como trocar de contabilidade — Fator R, receitas de plantão, honorários cirúrgicos e o que o novo escritório precisa entender sobre empresa médica.",
+    "ctaTheme": "migracao",
+    "relatedSlugs": [
+      "medico-como-abrir-clinica-propria",
+      "sinais-de-que-e-hora-de-trocar-de-contabilidade",
+      "o-que-verificar-antes-de-contratar-nova-contabilidade"
+    ]
+  },
+  {
+    "id": 290,
+    "slug": "dentista-trocar-de-contabilidade",
+    "title": "Dentista: como trocar de contabilidade e o que exigir do novo contador",
+    "subtitle": "Fator R, convênios odontológicos e o que o escritório precisa entender sobre clínica odontológica",
+    "excerpt": "A contabilidade de clínica odontológica tem especificidades: receitas de convênio, particulares e procedimentos parcelados. O que verificar antes de contratar o novo escritório.",
+    "category": "Gestão Empresarial",
+    "date": "2026-03-10",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/5336963/pexels-photo-5336963.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "dentista trocar de contador",
+      "contabilidade clínica odontológica",
+      "contador dentista convênio",
+      "migração contabilidade odontologia"
+    ],
+    "metaDescription": "Dentista: como trocar de contabilidade — Fator R, receitas de convênio e particulares, CRO e o que o novo escritório precisa dominar para atender bem uma clínica odontológica.",
+    "ctaTheme": "migracao",
+    "relatedSlugs": [
+      "dentista-como-abrir-clinica-propria",
+      "medico-trocar-de-contabilidade",
+      "perguntas-para-fazer-antes-de-contratar-contador"
+    ]
+  },
+  {
+    "id": 291,
+    "slug": "advogado-trocar-de-contador",
+    "title": "Advogado: como trocar de contador e o que o novo precisa entender",
+    "subtitle": "Honorários de êxito, Anexo IV do Simples e as obrigações específicas da sociedade de advogados",
+    "excerpt": "A contabilidade de sociedade de advogados tem particularidades: honorários de êxito diferidos, sucumbência, Anexo IV sem CPP incluso e registro na OAB. Saiba o que exigir.",
+    "category": "Gestão Empresarial",
+    "date": "2026-03-24",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/270632/pexels-photo-270632.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "advogado trocar de contador",
+      "contabilidade escritório de advocacia",
+      "contador advocacia Simples Nacional",
+      "migração contabilidade advogado"
+    ],
+    "metaDescription": "Advogado: como trocar de contador — honorários de êxito, sucumbência, Anexo IV do Simples Nacional e o que o novo escritório precisa entender sobre sociedade de advogados.",
+    "ctaTheme": "migracao",
+    "relatedSlugs": [
+      "advogado-como-abrir-sociedade-de-advogados",
+      "o-que-verificar-antes-de-contratar-nova-contabilidade",
+      "contabilidade-consultiva-vs-operacional"
+    ]
+  },
+  {
+    "id": 292,
+    "slug": "psicologo-trocar-de-contador",
+    "title": "Psicólogo: como trocar de contador e o que exigir do novo",
+    "subtitle": "Fator R, atendimento online, planos de saúde e o que o contador de clínica de psicologia precisa dominar",
+    "excerpt": "A contabilidade de empresa de psicologia tem especificidades: Fator R crítico para o Simples, receitas de convênio psicológico e atendimento remoto. Veja o que perguntar antes de contratar.",
+    "category": "Gestão Empresarial",
+    "date": "2026-04-07",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/3779706/pexels-photo-3779706.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "psicólogo trocar de contador",
+      "contabilidade empresa psicologia",
+      "contador clínica psicologia",
+      "migração contabilidade psicólogo"
+    ],
+    "metaDescription": "Psicólogo: como trocar de contador — Fator R, convênios psicológicos, atendimento online e o que o novo escritório precisa entender sobre empresa de psicologia.",
+    "ctaTheme": "migracao",
+    "relatedSlugs": [
+      "psicologo-como-abrir-empresa",
+      "sinais-de-que-e-hora-de-trocar-de-contabilidade",
+      "checklist-para-trocar-de-contabilidade"
+    ]
+  },
+  {
+    "id": 293,
+    "slug": "veterinario-trocar-de-contabilidade",
+    "title": "Veterinário: como trocar de contabilidade e o que exigir do novo escritório",
+    "subtitle": "Simples Nacional para veterinário, CRMV e o que o contador precisa entender sobre clínica veterinária",
+    "excerpt": "Clínica veterinária tem vantagem tributária no Simples (Anexo III direto), mas exige controle de receitas diversas — internação, cirurgia, vacinas, produtos. Saiba o que perguntar ao novo contador.",
+    "category": "Gestão Empresarial",
+    "date": "2026-04-21",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/3756681/pexels-photo-3756681.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "veterinário trocar de contador",
+      "contabilidade clínica veterinária",
+      "contador veterinário Simples Nacional",
+      "migração contabilidade veterinária"
+    ],
+    "metaDescription": "Veterinário: como trocar de contabilidade — Simples Nacional Anexo III, receitas mistas de serviço e produto, CRMV e o que o novo escritório precisa entender.",
+    "ctaTheme": "migracao",
+    "relatedSlugs": [
+      "veterinario-como-abrir-clinica",
+      "o-que-verificar-antes-de-contratar-nova-contabilidade",
+      "checklist-para-trocar-de-contabilidade"
+    ]
+  },
+  {
+    "id": 294,
+    "slug": "desenvolvedor-freelancer-trocar-de-contador",
+    "title": "Desenvolvedor freelancer: como trocar de contador",
+    "subtitle": "Fator R, clientes estrangeiros e o que o contador de empresa de tecnologia precisa dominar",
+    "excerpt": "Empresa de tecnologia tem especificidades: Fator R crítico, receitas em moeda estrangeira, contratos SaaS e modelos de receita que contadores generalistas frequentemente erram.",
+    "category": "Gestão Empresarial",
+    "date": "2026-05-05",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/12955896/pexels-photo-12955896.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "desenvolvedor freelancer trocar de contador",
+      "contabilidade empresa de tecnologia",
+      "contador TI Fator R",
+      "migração contabilidade software"
+    ],
+    "metaDescription": "Desenvolvedor freelancer: como trocar de contador — Fator R, receitas em moeda estrangeira, modelo SaaS e o que o novo escritório precisa entender sobre empresa de tecnologia.",
+    "ctaTheme": "migracao",
+    "relatedSlugs": [
+      "desenvolvedor-freelancer-como-abrir-empresa",
+      "contabilidade-consultiva-vs-operacional",
+      "o-que-verificar-antes-de-contratar-nova-contabilidade"
+    ]
+  },
+  {
+    "id": 295,
+    "slug": "nutricionista-trocar-de-contador",
+    "title": "Nutricionista: como trocar de contador e o que exigir do novo",
+    "subtitle": "Fator R, atendimento online e presencial, planos de saúde e o que o contador precisa entender",
+    "excerpt": "A empresa de nutrição tem especificidades tributárias no Simples e pode ter receitas de convênio, consultas online e venda de planos nutricionais. Veja o que verificar na troca.",
+    "category": "Gestão Empresarial",
+    "date": "2026-05-19",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/6077447/pexels-photo-6077447.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "nutricionista trocar de contador",
+      "contabilidade empresa nutrição",
+      "contador nutricionista Simples Nacional",
+      "migração contabilidade nutrição"
+    ],
+    "metaDescription": "Nutricionista: como trocar de contador — Fator R, receitas de convênio e online, planos nutricionais e o que o novo escritório precisa entender sobre empresa de nutrição.",
+    "ctaTheme": "migracao",
+    "relatedSlugs": [
+      "nutricionista-como-abrir-empresa",
+      "psicologo-trocar-de-contador",
+      "o-que-verificar-antes-de-contratar-nova-contabilidade"
+    ]
+  },
+  {
+    "id": 296,
     "slug": "como-trocar-de-contador-sem-dor-de-cabeca",
     "title": "Como trocar de contador sem dor de cabeça",
     "subtitle": "O processo passo a passo para migrar de contabilidade sem deixar obrigações em aberto",
@@ -6006,7 +6631,7 @@
     ]
   },
   {
-    "id": 272,
+    "id": 297,
     "slug": "checklist-para-trocar-de-contabilidade",
     "title": "Checklist para trocar de contabilidade",
     "subtitle": "Tudo que você precisa verificar, pedir e confirmar antes, durante e depois da migração",
@@ -6031,7 +6656,7 @@
     ]
   },
   {
-    "id": 273,
+    "id": 298,
     "slug": "sinais-de-que-e-hora-de-trocar-de-contabilidade",
     "title": "Sinais de que é hora de trocar de contabilidade",
     "subtitle": "Quando a insatisfação com o contador deixa de ser preferência e vira risco para a empresa",
@@ -6056,7 +6681,7 @@
     ]
   },
   {
-    "id": 274,
+    "id": 299,
     "slug": "prazo-para-trocar-de-contador",
     "title": "Prazo para trocar de contador: quando fazer e o que muda por época do ano",
     "subtitle": "Qualquer mês funciona — mas há momentos mais tranquilos e momentos que custam mais caro",
@@ -6081,7 +6706,7 @@
     ]
   },
   {
-    "id": 275,
+    "id": 300,
     "slug": "o-que-verificar-antes-de-contratar-nova-contabilidade",
     "title": "O que verificar antes de contratar nova contabilidade",
     "subtitle": "Os critérios que separam um escritório que entrega do que promete e não executa",
@@ -6106,7 +6731,7 @@
     ]
   },
   {
-    "id": 276,
+    "id": 301,
     "slug": "perguntas-para-fazer-antes-de-contratar-contador",
     "title": "Perguntas para fazer antes de contratar contador",
     "subtitle": "As questões que revelam se o escritório realmente entende o seu negócio",
@@ -6131,7 +6756,7 @@
     ]
   },
   {
-    "id": 277,
+    "id": 302,
     "slug": "documentos-que-o-contador-deve-entregar-na-saida",
     "title": "Documentos que o contador deve entregar na saída",
     "subtitle": "O que é seu por direito e como garantir que nada fique para trás na troca de escritório",
@@ -6156,7 +6781,7 @@
     ]
   },
   {
-    "id": 278,
+    "id": 303,
     "slug": "trocar-de-contador-durante-o-ano-fiscal",
     "title": "Trocar de contador durante o ano fiscal: o que muda na prática",
     "subtitle": "Como garantir continuidade das obrigações quando a migração acontece no meio do ano",
@@ -6181,7 +6806,7 @@
     ]
   },
   {
-    "id": 279,
+    "id": 304,
     "slug": "migracao-de-sistema-contabil-o-que-muda",
     "title": "Migração de sistema contábil: o que muda para a empresa",
     "subtitle": "Quando o novo escritório usa um sistema diferente, o que isso significa para as suas notas fiscais e relatórios",
@@ -6206,7 +6831,7 @@
     ]
   },
   {
-    "id": 280,
+    "id": 305,
     "slug": "contabilidade-consultiva-vs-operacional",
     "title": "Contabilidade consultiva vs operacional: qual a diferença",
     "subtitle": "E por que entender essa distinção muda o que você espera do seu escritório",
