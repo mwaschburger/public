@@ -6854,5 +6854,605 @@
       "perguntas-para-fazer-antes-de-contratar-contador",
       "o-que-verificar-antes-de-contratar-nova-contabilidade"
     ]
+  },
+  {
+    "id": 306,
+    "slug": "fisioterapeuta-como-abrir-empresa",
+    "title": "Fisioterapeuta: como abrir empresa no modelo certo e pagar menos imposto",
+    "excerpt": "Fisioterapeutas que atuam via PJ podem pagar entre 6% e 15,5% no Simples Nacional — a diferença está no Fator R e em como o pró-labore é estruturado desde o primeiro mês.",
+    "category": "Abertura de Empresa",
+    "date": "2026-06-02",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/3862135/pexels-photo-3862135.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "fisioterapeuta CNPJ",
+      "abrir empresa fisioterapia",
+      "Simples Nacional fisioterapeuta",
+      "Fator R fisioterapeuta"
+    ],
+    "metaDescription": "Fisioterapeuta: como abrir SLU ou LTDA, usar Fator R para pagar 6% no Simples Nacional e registrar no CREFITO. Guia completo para fisioterapeutas PJ.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "medico-como-abrir-empresa",
+      "nutricionista-como-abrir-empresa",
+      "psicologo-como-abrir-empresa"
+    ]
+  },
+  {
+    "id": 307,
+    "slug": "fonoaudiologo-como-abrir-empresa",
+    "title": "Fonoaudiólogo: como montar CNPJ e tributar corretamente no Simples Nacional",
+    "excerpt": "Fonoaudiólogos podem reduzir sua carga tributária de 15,5% para 6% no Simples Nacional usando o Fator R — mas precisam estruturar o pró-labore corretamente desde o início.",
+    "category": "Abertura de Empresa",
+    "date": "2026-06-16",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/259257/pexels-photo-259257.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "fonoaudiólogo CNPJ",
+      "abrir empresa fonoaudiologia",
+      "CRFa PJ",
+      "Simples Nacional fonoaudiologia"
+    ],
+    "metaDescription": "Fonoaudiólogo: como abrir empresa (SLU ou LTDA), registrar no CRFa, usar Fator R e pagar menos imposto. Guia prático para fonoaudiólogos PJ.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "medico-como-abrir-empresa",
+      "fisioterapeuta-como-abrir-empresa",
+      "psicologo-como-abrir-empresa"
+    ]
+  },
+  {
+    "id": 308,
+    "slug": "terapeuta-ocupacional-como-abrir-empresa",
+    "title": "Terapeuta ocupacional: como abrir empresa e estruturar o regime tributário",
+    "excerpt": "Terapeutas ocupacionais no Simples Nacional podem usar o Fator R para sair do Anexo V (15,5%) e ir para o Anexo III (6%) — desde que o pró-labore esteja bem estruturado desde o início.",
+    "category": "Abertura de Empresa",
+    "date": "2026-06-30",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/209224/pexels-photo-209224.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "terapeuta ocupacional CNPJ",
+      "abrir empresa terapia ocupacional",
+      "COFFITO PJ",
+      "Simples Nacional TO"
+    ],
+    "metaDescription": "Terapeuta ocupacional: como abrir SLU ou LTDA, registrar no COFFITO e usar Fator R para pagar 6% no Simples Nacional. Guia prático.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "fisioterapeuta-como-abrir-empresa",
+      "medico-como-abrir-empresa",
+      "fonoaudiologo-como-abrir-empresa"
+    ]
+  },
+  {
+    "id": 309,
+    "slug": "gestor-de-patrimonio-como-abrir-empresa",
+    "title": "Gestor de patrimônio: como abrir empresa e atender às exigências regulatórias",
+    "excerpt": "Wealth managers e AAIs que estruturam seus serviços como PJ precisam de CNPJ adequado, enquadramento CVM e regime tributário compatível com receitas de consultoria e performance.",
+    "category": "Abertura de Empresa",
+    "date": "2026-07-14",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/35576571/pexels-photo-35576571.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "gestor de patrimônio CNPJ",
+      "wealth manager PJ",
+      "CVM pessoa jurídica",
+      "assessor de investimentos LTDA"
+    ],
+    "metaDescription": "Gestor de patrimônio e wealth manager: como abrir empresa, obter enquadramento CVM, escolher regime tributário e estruturar contratos de prestação de serviço.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "assessor-de-investimentos-como-abrir-empresa",
+      "corretor-de-seguros-como-abrir-empresa",
+      "planejador-financeiro-como-abrir-empresa"
+    ]
+  },
+  {
+    "id": 310,
+    "slug": "planejador-financeiro-como-abrir-empresa",
+    "title": "Planejador financeiro: por que ter CNPJ e qual regime tributário escolher",
+    "excerpt": "Planejadores financeiros CFP que atendem clientes PF e PJ precisam de empresa para emitir honorários com segurança jurídica — e o regime tributário certo pode reduzir a carga em até 60%.",
+    "category": "Abertura de Empresa",
+    "date": "2026-07-28",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/259139/pexels-photo-259139.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "planejador financeiro CFP CNPJ",
+      "abrir empresa planejamento financeiro",
+      "Simples planejador financeiro",
+      "CFP pessoa jurídica"
+    ],
+    "metaDescription": "Planejador financeiro: como abrir empresa, qual CNAE usar, Simples ou Presumido e como estruturar honorários sem risco fiscal. Guia para CFPs.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "gestor-de-patrimonio-como-abrir-empresa",
+      "assessor-de-investimentos-como-abrir-empresa",
+      "como-escolher-regime-tributario"
+    ]
+  },
+  {
+    "id": 311,
+    "slug": "gestor-de-trafego-como-abrir-empresa",
+    "title": "Gestor de tráfego: como abrir empresa e emitir nota fiscal de mídia paga",
+    "excerpt": "Gestores de tráfego pago que faturam acima de R$ 6.750/mês já superaram o limite do MEI — e precisam de CNPJ no Simples Nacional para emitir NFS-e e trabalhar com múltiplos clientes.",
+    "category": "Abertura de Empresa",
+    "date": "2026-08-11",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/3862628/pexels-photo-3862628.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "gestor de tráfego CNPJ",
+      "abrir empresa mídia paga",
+      "nota fiscal gestor de tráfego",
+      "ISS gestor digital"
+    ],
+    "metaDescription": "Gestor de tráfego: como abrir empresa, CNAE correto, Simples Nacional e como emitir NFS-e de campanhas de mídia paga. Guia completo.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "desenvolvedor-freelancer-como-abrir-empresa",
+      "especialista-em-seo-como-abrir-empresa",
+      "designer-grafico-como-abrir-empresa"
+    ]
+  },
+  {
+    "id": 312,
+    "slug": "designer-grafico-como-abrir-empresa",
+    "title": "Designer gráfico: como abrir empresa, emitir NFS-e e escolher regime tributário",
+    "excerpt": "Designers gráficos e de UI/UX que prestam serviços para agências e empresas precisam de CNPJ para emitir nota fiscal — e o Simples Nacional oferece alíquotas entre 6% e 19% dependendo do CNAE.",
+    "category": "Abertura de Empresa",
+    "date": "2026-08-25",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/5324967/pexels-photo-5324967.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "designer gráfico CNPJ",
+      "abrir empresa design",
+      "nota fiscal designer",
+      "Simples Nacional designer gráfico"
+    ],
+    "metaDescription": "Designer gráfico e UI/UX: como abrir SLU, qual CNAE usar, emitir NFS-e e pagar menos imposto no Simples Nacional. Guia prático.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "desenvolvedor-freelancer-como-abrir-empresa",
+      "gestor-de-trafego-como-abrir-empresa",
+      "produtor-audiovisual-como-abrir-empresa"
+    ]
+  },
+  {
+    "id": 313,
+    "slug": "consultor-de-ti-como-abrir-empresa",
+    "title": "Consultor de TI: como abrir empresa e pagar menos imposto em tecnologia",
+    "excerpt": "Consultores de TI (infra, cloud, cibersegurança, DevOps) que prestam serviços para empresas precisam de CNPJ — com Fator R, a alíquota no Simples pode cair de 15,5% para 6%.",
+    "category": "Abertura de Empresa",
+    "date": "2026-09-08",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/4895430/pexels-photo-4895430.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "consultor TI CNPJ",
+      "abrir empresa consultoria tecnologia",
+      "Simples Nacional TI",
+      "CNPJ infra cloud segurança"
+    ],
+    "metaDescription": "Consultor de TI, infra, cloud ou cibersegurança: como abrir empresa, qual CNAE usar, Fator R e Simples Nacional. Guia completo para profissionais de tecnologia.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "desenvolvedor-freelancer-como-abrir-empresa",
+      "especialista-em-seo-como-abrir-empresa",
+      "fator-r-no-simples-nacional"
+    ]
+  },
+  {
+    "id": 314,
+    "slug": "imobiliaria-como-abrir-empresa",
+    "title": "Como abrir uma imobiliária: CRECI jurídico, tipo societário e tributação",
+    "excerpt": "Abrir uma imobiliária exige CRECI pessoa jurídica, alvará municipal e escolha entre Simples Nacional e Lucro Presumido — e a tributação correta pode representar diferença de até R$ 3.000/mês em impostos.",
+    "category": "Abertura de Empresa",
+    "date": "2026-09-22",
+    "readTime": 8,
+    "image": "https://images.pexels.com/photos/3779706/pexels-photo-3779706.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "abrir imobiliária CNPJ",
+      "CRECI pessoa jurídica",
+      "tributação imobiliária",
+      "Simples Nacional imobiliária"
+    ],
+    "metaDescription": "Como abrir uma imobiliária: CRECI PJ, CNAE, alvará municipal, tipo societário e tributação no Simples ou Lucro Presumido. Guia completo.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "corretor-de-imoveis-como-abrir-empresa",
+      "diferenca-ltda-e-slu",
+      "como-escolher-regime-tributario"
+    ]
+  },
+  {
+    "id": 315,
+    "slug": "consultor-de-rh-como-abrir-empresa",
+    "title": "Consultor de RH: como formalizar empresa e otimizar a carga tributária",
+    "excerpt": "Consultores de RH que atuam em recrutamento, treinamento ou BPO de pessoas precisam de CNPJ para contratos corporativos — e o regime tributário correto pode reduzir imposto em 40%.",
+    "category": "Abertura de Empresa",
+    "date": "2026-10-06",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/8847133/pexels-photo-8847133.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "consultor RH CNPJ",
+      "abrir empresa consultoria RH",
+      "Simples Nacional consultoria gestão",
+      "CNPJ recrutamento seleção"
+    ],
+    "metaDescription": "Consultor de RH: como abrir empresa, CNAE correto, Simples Nacional ou Lucro Presumido e como estruturar contratos de recrutamento e treinamento.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "coach-executivo-como-abrir-empresa",
+      "consultor-de-ti-como-abrir-empresa",
+      "como-abrir-empresa-passo-a-passo"
+    ]
+  },
+  {
+    "id": 316,
+    "slug": "produtor-audiovisual-como-abrir-empresa",
+    "title": "Produtor audiovisual e editor de vídeo: como abrir empresa e estruturar contratos",
+    "excerpt": "Produtores audiovisuais e editores de vídeo que prestam serviços para marcas, agências e plataformas precisam de CNPJ para emitir NFS-e e proteger direitos autorais em contrato.",
+    "category": "Abertura de Empresa",
+    "date": "2026-10-20",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/7876191/pexels-photo-7876191.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "produtor audiovisual CNPJ",
+      "editor de vídeo PJ",
+      "abrir empresa produção audiovisual",
+      "Simples Nacional audiovisual"
+    ],
+    "metaDescription": "Produtor audiovisual e editor de vídeo: como abrir empresa, CNAE correto, Simples Nacional e como proteger direitos autorais em contrato PJ.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "designer-grafico-como-abrir-empresa",
+      "gestor-de-trafego-como-abrir-empresa",
+      "desenvolvedor-freelancer-como-abrir-empresa"
+    ]
+  },
+  {
+    "id": 317,
+    "slug": "especialista-em-seo-como-abrir-empresa",
+    "title": "Especialista em SEO: como abrir empresa e emitir NFS-e de marketing digital",
+    "excerpt": "Especialistas em SEO que prestam serviços para agências e empresas precisam de CNPJ para emitir nota fiscal — e o Simples Nacional com CNAE correto pode garantir alíquota de 6% desde o início.",
+    "category": "Abertura de Empresa",
+    "date": "2026-11-03",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/12955896/pexels-photo-12955896.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "especialista SEO CNPJ",
+      "abrir empresa marketing digital",
+      "nota fiscal SEO",
+      "ISS marketing digital"
+    ],
+    "metaDescription": "Especialista em SEO: como abrir empresa, CNAE correto, Simples Nacional e como emitir NFS-e de serviços de marketing de conteúdo e otimização.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "gestor-de-trafego-como-abrir-empresa",
+      "desenvolvedor-freelancer-como-abrir-empresa",
+      "designer-grafico-como-abrir-empresa"
+    ]
+  },
+  {
+    "id": 318,
+    "slug": "coach-executivo-como-abrir-empresa",
+    "title": "Coach executivo e consultor: como abrir empresa sem pagar imposto em excesso",
+    "excerpt": "Coaches executivos e consultores de negócios que atendem empresas e executivos precisam de CNPJ para emitir honorários — e o regime tributário certo pode reduzir a carga de 27,5% para menos de 10%.",
+    "category": "Abertura de Empresa",
+    "date": "2026-11-17",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/6111585/pexels-photo-6111585.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "coach executivo CNPJ",
+      "abrir empresa coaching",
+      "Simples Nacional coaching",
+      "consultor LTDA"
+    ],
+    "metaDescription": "Coach executivo e consultor de negócios: como abrir empresa, CNAE correto, Simples Nacional e como estruturar honorários de mentoria e consultoria.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "consultor-de-rh-como-abrir-empresa",
+      "planejador-financeiro-como-abrir-empresa",
+      "como-abrir-empresa-passo-a-passo"
+    ]
+  },
+  {
+    "id": 319,
+    "slug": "fisioterapeuta-trocar-de-contador",
+    "title": "Fisioterapeuta com CNPJ: quando e por que trocar de contador",
+    "excerpt": "Fisioterapeutas que pagam Anexo V sem usar o Fator R provavelmente têm o contador errado. Saiba identificar os sinais e como migrar de escritório sem perder o histórico da empresa.",
+    "category": "Gestão Empresarial",
+    "date": "2026-06-09",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/6863330/pexels-photo-6863330.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "fisioterapeuta trocar contador",
+      "mudar escritório contabilidade fisioterapia",
+      "Fator R fisioterapeuta",
+      "contador especializado saúde"
+    ],
+    "metaDescription": "Fisioterapeuta: como identificar se o contador atual está desperdiçando dinheiro no Fator R e como trocar de escritório sem risco. Guia prático.",
+    "ctaTheme": "migracao",
+    "relatedSlugs": [
+      "fisioterapeuta-como-abrir-empresa",
+      "medico-trocar-de-contador",
+      "como-trocar-de-contador-sem-dor-de-cabeca"
+    ]
+  },
+  {
+    "id": 320,
+    "slug": "fonoaudiologo-trocar-de-contador",
+    "title": "Fonoaudiólogo: sinais de que sua empresa precisa de um contador especializado",
+    "excerpt": "Fonoaudiólogos que pagam mais imposto do que precisam geralmente têm um contador que não conhece o Fator R, o CRFa ou as particularidades tributárias de clínicas de fonoaudiologia.",
+    "category": "Gestão Empresarial",
+    "date": "2026-06-23",
+    "readTime": 5,
+    "image": "https://images.pexels.com/photos/6927334/pexels-photo-6927334.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "fonoaudiólogo trocar contador",
+      "contador especializado fonoaudiologia",
+      "Fator R fonoaudiologia",
+      "mudar contabilidade fonoaudiólogo"
+    ],
+    "metaDescription": "Fonoaudiólogo: como saber se está pagando imposto a mais e como trocar de contador para um que entenda o Fator R e as especificidades da fonoaudiologia.",
+    "ctaTheme": "migracao",
+    "relatedSlugs": [
+      "fonoaudiologo-como-abrir-empresa",
+      "fisioterapeuta-trocar-de-contador",
+      "como-trocar-de-contador-sem-dor-de-cabeca"
+    ]
+  },
+  {
+    "id": 321,
+    "slug": "terapeuta-ocupacional-trocar-de-contador",
+    "title": "Terapeuta ocupacional: por que o contador generalista cobra mais e entrega menos",
+    "excerpt": "TOs que precisam de orientação sobre COFFITO, Fator R e tributação de serviços multidisciplinares raramente encontram essas respostas em escritórios generalistas — e acabam pagando mais imposto.",
+    "category": "Gestão Empresarial",
+    "date": "2026-07-07",
+    "readTime": 5,
+    "image": "https://images.pexels.com/photos/7504780/pexels-photo-7504780.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "terapeuta ocupacional trocar contador",
+      "contador especializado TO",
+      "COFFITO contabilidade",
+      "Fator R terapia ocupacional"
+    ],
+    "metaDescription": "Terapeuta ocupacional: como identificar se o contador atual está custando mais do que deveria e como migrar para um escritório especializado em saúde.",
+    "ctaTheme": "migracao",
+    "relatedSlugs": [
+      "terapeuta-ocupacional-como-abrir-empresa",
+      "fisioterapeuta-trocar-de-contador",
+      "fonoaudiologo-trocar-de-contador"
+    ]
+  },
+  {
+    "id": 322,
+    "slug": "gestor-de-patrimonio-trocar-de-contador",
+    "title": "Gestor de patrimônio: por que o contador comum não atende sua empresa",
+    "excerpt": "Wealth managers e AAIs têm receitas compostas por honorários, performance fees e comissões de produto — cada uma com tributação diferente que o contador generalista raramente sabe separar.",
+    "category": "Gestão Empresarial",
+    "date": "2026-07-21",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/5668863/pexels-photo-5668863.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "gestor patrimônio trocar contador",
+      "wealth manager contabilidade",
+      "contador mercado financeiro",
+      "AAI tributação"
+    ],
+    "metaDescription": "Gestor de patrimônio e wealth manager: como identificar se o contador atual entende a composição da receita financeira e como migrar para um especializado.",
+    "ctaTheme": "migracao",
+    "relatedSlugs": [
+      "gestor-de-patrimonio-como-abrir-empresa",
+      "assessor-de-investimentos-como-abrir-empresa",
+      "como-trocar-de-contador-sem-dor-de-cabeca"
+    ]
+  },
+  {
+    "id": 323,
+    "slug": "planejador-financeiro-trocar-de-contador",
+    "title": "Planejador financeiro com CNPJ: como encontrar contador que entende Fator R",
+    "excerpt": "Planejadores financeiros CFP que pagam Anexo V sem planejamento do pró-labore perdem entre R$ 800 e R$ 2.000/mês em imposto — e raramente sabem disso porque o contador nunca explicou.",
+    "category": "Gestão Empresarial",
+    "date": "2026-08-04",
+    "readTime": 5,
+    "image": "https://images.pexels.com/photos/4173248/pexels-photo-4173248.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "planejador financeiro trocar contador",
+      "CFP contabilidade",
+      "contador Fator R finanças",
+      "mudar escritório planejamento financeiro"
+    ],
+    "metaDescription": "Planejador financeiro CFP: como identificar se o contador está desperdiçando o Fator R e como migrar para um escritório especializado em serviços financeiros.",
+    "ctaTheme": "migracao",
+    "relatedSlugs": [
+      "planejador-financeiro-como-abrir-empresa",
+      "gestor-de-patrimonio-trocar-de-contador",
+      "como-trocar-de-contador-sem-dor-de-cabeca"
+    ]
+  },
+  {
+    "id": 324,
+    "slug": "gestor-de-trafego-trocar-de-contador",
+    "title": "Gestor de tráfego: 5 sinais de que seu contador não conhece o mercado digital",
+    "excerpt": "Gestores de tráfego que emitem NFS-e de serviços digitais mas nunca receberam orientação sobre ISS, CNAE de publicidade ou regime tributário provavelmente têm o contador errado.",
+    "category": "Gestão Empresarial",
+    "date": "2026-08-18",
+    "readTime": 5,
+    "image": "https://images.pexels.com/photos/1181355/pexels-photo-1181355.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "gestor tráfego trocar contador",
+      "contador marketing digital",
+      "mudar contabilidade gestor tráfego",
+      "CNAE publicidade contador"
+    ],
+    "metaDescription": "Gestor de tráfego: 5 sinais de que o contador atual não conhece serviços digitais e como migrar para um escritório com experiência em marketing digital.",
+    "ctaTheme": "migracao",
+    "relatedSlugs": [
+      "gestor-de-trafego-como-abrir-empresa",
+      "especialista-em-seo-trocar-de-contador",
+      "designer-grafico-trocar-de-contador"
+    ]
+  },
+  {
+    "id": 325,
+    "slug": "designer-grafico-trocar-de-contador",
+    "title": "Designer com CNPJ: como migrar de contador sem perder DAS em atraso",
+    "excerpt": "Designers gráficos e de UI/UX que trocam de contador no meio do ano precisam garantir que nenhuma guia fique sem responsável durante a transição — um erro simples que pode gerar multa.",
+    "category": "Gestão Empresarial",
+    "date": "2026-09-01",
+    "readTime": 5,
+    "image": "https://images.pexels.com/photos/7580852/pexels-photo-7580852.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "designer gráfico trocar contador",
+      "migrar contador designer",
+      "mudar contabilidade design",
+      "DAS designer Simples"
+    ],
+    "metaDescription": "Designer gráfico e UI/UX: como trocar de contador sem risco de guias em atraso, quais documentos exigir na saída e o que perguntar ao novo escritório.",
+    "ctaTheme": "migracao",
+    "relatedSlugs": [
+      "designer-grafico-como-abrir-empresa",
+      "gestor-de-trafego-trocar-de-contador",
+      "como-trocar-de-contador-sem-dor-de-cabeca"
+    ]
+  },
+  {
+    "id": 326,
+    "slug": "consultor-de-ti-trocar-de-contador",
+    "title": "Consultor de TI: quando o contador generalista começa a custar caro",
+    "excerpt": "Consultores de TI que faturam acima de R$ 15.000/mês e ainda pagam Fator R errado ou usam o CNAE incorreto estão perdendo dinheiro por falta de especialização do escritório contábil.",
+    "category": "Gestão Empresarial",
+    "date": "2026-09-15",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/7644004/pexels-photo-7644004.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "consultor TI trocar contador",
+      "contador especializado tecnologia",
+      "CNAE TI tributação",
+      "Fator R consultoria tecnologia"
+    ],
+    "metaDescription": "Consultor de TI: como identificar se está pagando imposto a mais por CNAE errado ou Fator R não explorado e como migrar para um contador de tecnologia.",
+    "ctaTheme": "migracao",
+    "relatedSlugs": [
+      "consultor-de-ti-como-abrir-empresa",
+      "desenvolvedor-freelancer-como-abrir-empresa",
+      "fator-r-no-simples-nacional"
+    ]
+  },
+  {
+    "id": 327,
+    "slug": "imobiliaria-trocar-de-contador",
+    "title": "Imobiliária: por que o regime tributário errado custa mais que a comissão perdida",
+    "excerpt": "Imobiliárias enquadradas no regime tributário errado podem pagar 5 a 8 pontos percentuais a mais sobre o faturamento — uma diferença que supera facilmente o valor de uma comissão perdida em uma negociação.",
+    "category": "Gestão Empresarial",
+    "date": "2026-09-29",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/6779226/pexels-photo-6779226.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "imobiliária trocar contador",
+      "contador imobiliária",
+      "tributação imobiliária Simples Presumido",
+      "mudar contabilidade imobiliária"
+    ],
+    "metaDescription": "Imobiliária: como identificar se o regime tributário está errado, quando migrar do Simples para Lucro Presumido e como trocar de contador sem perder histórico.",
+    "ctaTheme": "migracao",
+    "relatedSlugs": [
+      "imobiliaria-como-abrir-empresa",
+      "corretor-de-imoveis-como-abrir-empresa",
+      "como-trocar-de-contador-sem-dor-de-cabeca"
+    ]
+  },
+  {
+    "id": 328,
+    "slug": "consultor-de-rh-trocar-de-contador",
+    "title": "Consultor de RH: como identificar se seu escritório contábil está no piloto automático",
+    "excerpt": "Consultores de RH que recebem guias certas mas nunca receberam uma análise tributária proativa têm contabilidade operacional — e estão pagando pelo serviço mínimo em um momento que pede mais.",
+    "category": "Gestão Empresarial",
+    "date": "2026-10-13",
+    "readTime": 5,
+    "image": "https://images.pexels.com/photos/8117465/pexels-photo-8117465.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-h",
+    "keywords": [
+      "consultor RH trocar contador",
+      "contador especializado RH",
+      "mudar contabilidade consultoria",
+      "tributação consultoria gestão"
+    ],
+    "metaDescription": "Consultor de RH: como identificar se a contabilidade atual é apenas operacional e como migrar para um escritório que entenda consultoria de pessoas e gestão.",
+    "ctaTheme": "migracao",
+    "relatedSlugs": [
+      "consultor-de-rh-como-abrir-empresa",
+      "coach-executivo-trocar-de-contador",
+      "contabilidade-operacional-vs-consultiva"
+    ]
+  },
+  {
+    "id": 329,
+    "slug": "produtor-audiovisual-trocar-de-contador",
+    "title": "Produtor audiovisual: quando o contador não entende receita digital e streaming",
+    "excerpt": "Produtores audiovisuais com receitas de plataformas internacionais (YouTube, Vimeo, Netflix) têm obrigações fiscais específicas que a maioria dos contadores generalistas não conhece.",
+    "category": "Gestão Empresarial",
+    "date": "2026-10-27",
+    "readTime": 5,
+    "image": "https://images.pexels.com/photos/6863250/pexels-photo-6863250.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "marcelo-w",
+    "keywords": [
+      "produtor audiovisual trocar contador",
+      "contador produção audiovisual",
+      "royalties streaming tributação",
+      "YouTube empresa tributação"
+    ],
+    "metaDescription": "Produtor audiovisual: como identificar se o contador entende receitas de streaming, royalties e exportação de conteúdo, e como migrar para especializado.",
+    "ctaTheme": "migracao",
+    "relatedSlugs": [
+      "produtor-audiovisual-como-abrir-empresa",
+      "designer-grafico-trocar-de-contador",
+      "como-trocar-de-contador-sem-dor-de-cabeca"
+    ]
+  },
+  {
+    "id": 330,
+    "slug": "coach-executivo-trocar-de-contador",
+    "title": "Coach executivo com empresa: como trocar de contador e migrar sem perder histórico",
+    "excerpt": "Coaches executivos que cresceram em faturamento mas nunca revisaram o regime tributário com o contador provavelmente estão pagando mais imposto do que precisam — e nem sabem disso.",
+    "category": "Gestão Empresarial",
+    "date": "2026-11-10",
+    "readTime": 5,
+    "image": "https://images.pexels.com/photos/3756681/pexels-photo-3756681.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "coach executivo trocar contador",
+      "contador coaching empresarial",
+      "mudar contabilidade coach",
+      "tributação coaching CNPJ"
+    ],
+    "metaDescription": "Coach executivo: como identificar se o regime tributário está correto, quando migrar de contador e como preservar histórico fiscal na transição.",
+    "ctaTheme": "migracao",
+    "relatedSlugs": [
+      "coach-executivo-como-abrir-empresa",
+      "consultor-de-rh-trocar-de-contador",
+      "contabilidade-operacional-vs-consultiva"
+    ]
   }
 ]
