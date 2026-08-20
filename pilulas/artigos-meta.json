@@ -1,6 +1,32 @@
 [
   {
     "id": 1,
+    "slug": "engenheiro-cnpj-e-crea",
+    "title": "Engenheiro com CNPJ: registro no CREA, ART e como funciona a empresa de engenharia",
+    "subtitle": "Empresa de engenharia precisa de Registro de Empresa no CREA além do CNPJ — e o Responsável Técnico é obrigatório por lei",
+    "excerpt": "Abrir empresa de engenharia exige dois registros: CNPJ na JUCRS e Registro de Empresa no CREA. Saiba o que é obrigatório, como funciona a ART e a tributação no Simples Nacional para engenheiros.",
+    "category": "Abertura de Empresa",
+    "date": "2026-08-20",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/7213548/pexels-photo-7213548.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "engenheiro CNPJ CREA",
+      "empresa engenharia CREA",
+      "engenheiro pessoa jurídica",
+      "CREA registro empresa",
+      "ART CNPJ"
+    ],
+    "metaDescription": "CNPJ para engenheiros: Registro de Empresa no CREA, Responsável Técnico, ART e tributação no Simples Nacional. O que toda empresa de engenharia precisa ter.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "engenheiro-como-abrir-empresa",
+      "engenheiro-trocar-de-contador",
+      "fator-r-engenheiro"
+    ]
+  },
+  {
+    "id": 2,
     "slug": "escritorio-de-contabilidade-em-porto-alegre",
     "title": "Escritório de contabilidade em Porto Alegre — como escolher na capital com tantas opções",
     "subtitle": "Com centenas de escritórios disponíveis em POA, o critério de escolha não é preço nem localização — é especialização",
@@ -24,7 +50,7 @@
     ]
   },
   {
-    "id": 2,
+    "id": 3,
     "slug": "contabilidade-em-porto-alegre",
     "title": "Contabilidade em Porto Alegre — o guia para empresários da capital",
     "subtitle": "Do ISS municipal à Vigilância Sanitária: o que muda na contabilidade de empresas sediadas em Porto Alegre",
@@ -49,7 +75,57 @@
     ]
   },
   {
-    "id": 3,
+    "id": 4,
+    "slug": "medico-cnpj-e-crm",
+    "title": "Médico com CNPJ: o que o CRM exige e como funciona a empresa médica",
+    "subtitle": "Registro no CRM, CNAEs corretos e regime tributário para médico que quer emitir nota fiscal como pessoa jurídica",
+    "excerpt": "Médico pode ter CNPJ e emitir nota fiscal — mas a empresa médica precisa seguir regras específicas do CRM. Entenda o que é obrigatório, o que é opcional e como a tributação muda no Simples Nacional.",
+    "category": "Abertura de Empresa",
+    "date": "2026-08-20",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/7213548/pexels-photo-7213548.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "médico CNPJ",
+      "empresa médica CRM",
+      "médico pessoa jurídica",
+      "CRM CNPJ",
+      "abrir empresa médico"
+    ],
+    "metaDescription": "Como funciona o CNPJ para médicos: registro no CRM, CNAEs corretos, regime tributário no Simples Nacional e o que diferencia a PJ médica de outras empresas.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "medico-como-abrir-empresa",
+      "medico-trocar-de-contador",
+      "fator-r-medico"
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "analista-dados-cnpj-pj",
+    "title": "Analista de dados com CNPJ: como abrir empresa de data science e analytics",
+    "subtitle": "Analista de dados não tem conselho obrigatório — mas o CNPJ como PJ é fundamental para trabalhar com clientes corporativos e pagar menos imposto",
+    "excerpt": "Analista de dados e cientista de dados não têm conselho profissional regulamentado. Abrir empresa é direto: CNPJ + ISS municipal. O Simples Nacional a partir de 6% é muito mais eficiente do que o IRPF como autônomo.",
+    "category": "Abertura de Empresa",
+    "date": "2026-08-20",
+    "readTime": 5,
+    "image": "https://images.pexels.com/photos/7495615/pexels-photo-7495615.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "analista dados CNPJ",
+      "empresa data science PJ",
+      "analista dados pessoa jurídica",
+      "CNPJ data analytics"
+    ],
+    "metaDescription": "CNPJ para analista de dados: sem conselho obrigatório, CNAEs corretos para analytics e data science e tributação no Simples Nacional.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "analista-de-dados-como-abrir-empresa",
+      "analista-de-dados-trocar-de-contador"
+    ]
+  },
+  {
+    "id": 6,
     "slug": "biomedico-trocar-de-contador",
     "title": "Biomédico: sinais de que é hora de trocar de contador",
     "subtitle": "Fator R ignorado, CNAE errado para estética avançada e CFBM desatualizado — como identificar e migrar sem risco",
@@ -74,7 +150,31 @@
     ]
   },
   {
-    "id": 4,
+    "id": 7,
+    "slug": "desenvolvedor-software-cnpj-pj",
+    "title": "Desenvolvedor de software com CNPJ: como abrir empresa de TI sem conselho profissional",
+    "subtitle": "Desenvolvedor não tem conselho obrigatório — mas o CNPJ como PJ é a forma mais eficiente de tributar os serviços de tecnologia",
+    "excerpt": "Desenvolvedor de software não tem conselho profissional obrigatório. Mas abrir empresa como PJ pode reduzir a tributação de 27,5% (IRPF) para 6% (Simples Nacional). Entenda os CNAEs certos e como funciona.",
+    "category": "Abertura de Empresa",
+    "date": "2026-08-20",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/6803529/pexels-photo-6803529.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "desenvolvedor software CNPJ",
+      "empresa TI PJ desenvolvedor",
+      "desenvolvedor pessoa jurídica",
+      "CNPJ programador"
+    ],
+    "metaDescription": "CNPJ para desenvolvedor de software: sem conselho obrigatório, CNAEs corretos para TI e como o Simples Nacional funciona para empresa de tecnologia.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "desenvolvedor-software-como-abrir-empresa",
+      "desenvolvedor-software-trocar-de-contador"
+    ]
+  },
+  {
+    "id": 8,
     "slug": "correspondente-bancario-como-abrir-empresa",
     "title": "Correspondente bancário: como abrir empresa e se credenciar junto ao banco parceiro",
     "subtitle": "CNAE, Simples Nacional e o que o Banco Central exige do correspondente bancário antes de assinar o contrato de correspondência",
@@ -99,7 +199,30 @@
     ]
   },
   {
-    "id": 5,
+    "id": 9,
+    "slug": "representante-comercial-cnpj-e-core",
+    "title": "Representante comercial com CNPJ: registro no CORE e como funciona a empresa de representação",
+    "subtitle": "Representante comercial precisa de registro no CORE para atuar legalmente — e a empresa também exige inscrição no conselho",
+    "excerpt": "Representante comercial sem registro no CORE está atuando de forma irregular. A empresa de representação precisa de CNPJ + inscrição no CORE-RS. Saiba o que é exigido e como funciona a tributação.",
+    "category": "Abertura de Empresa",
+    "date": "2026-08-20",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/7495615/pexels-photo-7495615.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "representante comercial CNPJ CORE",
+      "empresa representação comercial CORE",
+      "representante comercial pessoa jurídica"
+    ],
+    "metaDescription": "CNPJ para representante comercial: registro no CORE-RS, CNAEs corretos e tributação para empresa de representação comercial.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "representante-comercial-como-abrir-empresa",
+      "representante-comercial-trocar-de-contador"
+    ]
+  },
+  {
+    "id": 10,
     "slug": "trocar-de-contador-em-sao-leopoldo",
     "title": "Trocar de contador em São Leopoldo — o guia completo para migrar sem risco",
     "subtitle": "Como identificar quando o escritório atual não serve mais para o seu negócio em SL e como fazer a transição corretamente",
@@ -124,7 +247,7 @@
     ]
   },
   {
-    "id": 6,
+    "id": 11,
     "slug": "corretor-de-consorcios-trocar-de-contador",
     "title": "Corretor de consórcios: como identificar se o seu contador está custando caro",
     "subtitle": "Regime tributário errado, CNAE desatualizado e distribuição de lucros mal estruturada são os erros mais comuns",
@@ -148,7 +271,7 @@
     ]
   },
   {
-    "id": 7,
+    "id": 12,
     "slug": "escritorio-de-contabilidade-em-novo-hamburgo",
     "title": "Escritório de contabilidade em Novo Hamburgo — o que avaliar antes de contratar",
     "subtitle": "Como identificar o escritório certo para sua empresa em NH — além do preço e da localização",
@@ -173,7 +296,7 @@
     ]
   },
   {
-    "id": 8,
+    "id": 13,
     "slug": "trocar-de-contador-em-canoas",
     "title": "Trocar de contador em Canoas — guia para empresários da 3ª maior cidade do RS",
     "subtitle": "Polo industrial, universitário e de serviços: como identificar o contador ideal para o seu segmento em Canoas",
@@ -198,7 +321,32 @@
     ]
   },
   {
-    "id": 9,
+    "id": 14,
+    "slug": "psicologo-cnpj-e-crp",
+    "title": "Psicólogo com CNPJ: CRP, CNAEs e tributação no Simples Nacional",
+    "subtitle": "Como funciona a empresa de psicologia — registro no CRP, CNAEs obrigatórios e como o Fator R reduz a carga tributária",
+    "excerpt": "Psicólogo que trabalha como autônomo pode abrir empresa e pagar muito menos imposto. O CRP tem exigências específicas para a PJ, e o Fator R no Simples Nacional é a chave para tributação mínima.",
+    "category": "Abertura de Empresa",
+    "date": "2026-08-20",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/6803529/pexels-photo-6803529.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "psicólogo CNPJ",
+      "empresa psicologia CRP",
+      "psicólogo pessoa jurídica",
+      "CRP CNPJ"
+    ],
+    "metaDescription": "CNPJ para psicólogo: o que o CRP exige, os CNAEs corretos e como o Simples Nacional com Fator R reduz a tributação da empresa de psicologia.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "psicologo-como-abrir-empresa",
+      "psicologo-trocar-de-contador",
+      "fator-r-psicologo"
+    ]
+  },
+  {
+    "id": 15,
     "slug": "escritorio-de-contabilidade-em-sao-leopoldo",
     "title": "Escritório de contabilidade em São Leopoldo — como escolher o parceiro certo",
     "subtitle": "Polo de TI, indústria e comércio: a cidade exige escritórios com especialização setorial, não apenas volume de clientes",
@@ -222,7 +370,32 @@
     ]
   },
   {
-    "id": 10,
+    "id": 16,
+    "slug": "fisioterapeuta-cnpj-e-crefito",
+    "title": "Fisioterapeuta com CNPJ: o que o CREFITO exige e como funciona a empresa",
+    "subtitle": "Registro no CREFITO, CNAEs obrigatórios e por que o Fator R é fundamental para fisioterapeutas no Simples Nacional",
+    "excerpt": "Fisioterapeuta que abre empresa pode pagar 6% de tributação no Simples com Fator R ativo — mas precisa seguir as exigências do CREFITO para o estabelecimento.",
+    "category": "Abertura de Empresa",
+    "date": "2026-08-20",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/7213548/pexels-photo-7213548.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "fisioterapeuta CNPJ",
+      "empresa fisioterapia CREFITO",
+      "fisioterapeuta pessoa jurídica",
+      "CREFITO CNPJ"
+    ],
+    "metaDescription": "CNPJ para fisioterapeuta: exigências do CREFITO, CNAEs corretos e como o Simples Nacional com Fator R funciona para clínicas de fisioterapia.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "fisioterapeuta-como-abrir-empresa",
+      "fisioterapeuta-trocar-de-contador",
+      "fator-r-fisioterapeuta"
+    ]
+  },
+  {
+    "id": 17,
     "slug": "como-abrir-empresa-em-porto-alegre",
     "title": "Como abrir empresa em Porto Alegre — guia completo 2026",
     "subtitle": "JUCRS, alvará municipal e tributação na capital gaúcha — com as particularidades de abrir empresa na maior cidade do RS",
@@ -247,7 +420,7 @@
     ]
   },
   {
-    "id": 11,
+    "id": 18,
     "slug": "contabilidade-em-sao-leopoldo",
     "title": "Contabilidade em São Leopoldo — o que todo empresário local precisa saber",
     "subtitle": "Do maior polo de TI do RS às indústrias históricas: como funciona a contabilidade especializada para empresas de SL",
@@ -272,7 +445,32 @@
     ]
   },
   {
-    "id": 12,
+    "id": 19,
+    "slug": "dentista-cnpj-e-cro",
+    "title": "Dentista com CNPJ: o que o CRO exige e como abrir a empresa odontológica",
+    "subtitle": "Registro no CRO, CNAEs corretos e como o Simples Nacional e o Fator R funcionam para dentistas",
+    "excerpt": "Dentista que abre empresa pode pagar até 6% pelo Simples Nacional com Fator R ativo — contra até 27,5% de IRPF como autônomo. A empresa odontológica tem exigências específicas do CRO.",
+    "category": "Abertura de Empresa",
+    "date": "2026-08-20",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/7495615/pexels-photo-7495615.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "dentista CNPJ",
+      "empresa odontológica CRO",
+      "dentista pessoa jurídica",
+      "CRO CNPJ"
+    ],
+    "metaDescription": "CNPJ para dentistas: CRO, CNAEs, Simples Nacional e Fator R. O que é obrigatório para a empresa odontológica e como otimizar a tributação.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "dentista-como-abrir-empresa",
+      "dentista-trocar-de-contador",
+      "fator-r-dentista"
+    ]
+  },
+  {
+    "id": 20,
     "slug": "como-abrir-empresa-em-novo-hamburgo",
     "title": "Como abrir empresa em Novo Hamburgo — guia prático 2026",
     "subtitle": "Etapas, alvarás e regime tributário para quem vai abrir CNPJ na Capital Nacional do Calçado",
@@ -297,7 +495,7 @@
     ]
   },
   {
-    "id": 13,
+    "id": 21,
     "slug": "como-abrir-empresa-em-canoas",
     "title": "Como abrir empresa em Canoas — guia prático 2026",
     "subtitle": "Etapas, alvarás e tributação para empreender na 3ª maior cidade do RS — polo petroquímico e universitário",
@@ -322,7 +520,7 @@
     ]
   },
   {
-    "id": 14,
+    "id": 22,
     "slug": "contabilidade-em-novo-hamburgo",
     "title": "Contabilidade em Novo Hamburgo — o que empresários locais precisam saber",
     "subtitle": "O perfil das empresas de NH, os serviços contábeis mais demandados e como escolher o escritório certo para o seu negócio",
@@ -347,7 +545,33 @@
     ]
   },
   {
-    "id": 15,
+    "id": 23,
+    "slug": "arquiteto-cnpj-e-cau",
+    "title": "Arquiteto com CNPJ: registro no CAU, RRT e como abrir o escritório de arquitetura",
+    "subtitle": "CAU separado do CREA desde 2010 — empresa de arquitetura tem registro próprio e emite RRT, não ART",
+    "excerpt": "Escritório de arquitetura precisa de Registro de Pessoa Jurídica no CAU além do CNPJ. O RRT (Registro de Responsabilidade Técnica) é o equivalente da ART para arquitetos — emitido pelo CAU, não pelo CREA.",
+    "category": "Abertura de Empresa",
+    "date": "2026-08-20",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/7495615/pexels-photo-7495615.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "arquiteto CNPJ CAU",
+      "empresa arquitetura CAU",
+      "arquiteto pessoa jurídica",
+      "CAU registro empresa",
+      "RRT arquitetura"
+    ],
+    "metaDescription": "CNPJ para arquitetos: Registro de Empresa no CAU, RRT, CNAEs corretos e tributação no Simples Nacional para escritórios de arquitetura.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "arquiteto-como-abrir-empresa",
+      "arquiteto-trocar-de-contador",
+      "fator-r-arquiteto"
+    ]
+  },
+  {
+    "id": 24,
     "slug": "como-abrir-empresa-em-sao-leopoldo",
     "title": "Como abrir empresa em São Leopoldo — guia prático 2026",
     "subtitle": "JUCRS, alvarás e tributação para quem vai empreender na primeira cidade de colonização alemã do Brasil",
@@ -372,7 +596,56 @@
     ]
   },
   {
-    "id": 16,
+    "id": 25,
+    "slug": "designer-grafico-cnpj-pj",
+    "title": "Designer gráfico com CNPJ: como abrir empresa criativa sem conselho obrigatório",
+    "subtitle": "Designer não tem conselho profissional obrigatório — mas o CNPJ como PJ é a forma mais eficiente de trabalhar com clientes e pagar menos imposto",
+    "excerpt": "Designer gráfico não tem conselho regulador obrigatório. Abrir empresa é simples: CNPJ + inscrição municipal. A vantagem é real: Simples Nacional de 6% contra até 27,5% de IRPF como autônomo.",
+    "category": "Abertura de Empresa",
+    "date": "2026-08-20",
+    "readTime": 5,
+    "image": "https://images.pexels.com/photos/7213548/pexels-photo-7213548.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "designer gráfico CNPJ",
+      "empresa design PJ",
+      "designer pessoa jurídica",
+      "CNPJ designer criativo"
+    ],
+    "metaDescription": "CNPJ para designer gráfico: sem conselho obrigatório, CNAEs corretos e como o Simples Nacional funciona para empresa de design.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "designer-grafico-como-abrir-empresa",
+      "designer-grafico-trocar-de-contador"
+    ]
+  },
+  {
+    "id": 26,
+    "slug": "advogado-cnpj-e-oab",
+    "title": "Advogado com CNPJ: como funciona a sociedade de advogados e o registro na OAB",
+    "subtitle": "Advogado não pode ter empresa normal — a sociedade de advogados tem regras próprias da OAB e não é registrada na JUCRS",
+    "excerpt": "Advogado não registra empresa na Junta Comercial — a sociedade de advogados tem registro obrigatório na OAB. Entenda as diferenças, os CNAEs corretos e por que o Fator R é central para advogados no Simples Nacional.",
+    "category": "Abertura de Empresa",
+    "date": "2026-08-20",
+    "readTime": 7,
+    "image": "https://images.pexels.com/photos/6803529/pexels-photo-6803529.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "advogado CNPJ OAB",
+      "sociedade de advogados OAB",
+      "advogado pessoa jurídica",
+      "OAB CNPJ"
+    ],
+    "metaDescription": "Como funciona o CNPJ para advogados: sociedade de advogados registrada na OAB (não na JUCRS), CNAEs corretos e tributação no Simples Nacional com Fator R.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "advogado-como-abrir-empresa",
+      "advogado-trocar-de-contador",
+      "fator-r-advogado"
+    ]
+  },
+  {
+    "id": 27,
     "slug": "correspondente-bancario-trocar-de-contador",
     "title": "Correspondente bancário: por que o contador generalista pode estar te custando caro",
     "subtitle": "Tributação de comissões, CNAE desatualizado e obrigações do setor financeiro que o contador precisa dominar",
@@ -396,7 +669,7 @@
     ]
   },
   {
-    "id": 17,
+    "id": 28,
     "slug": "biomedico-como-abrir-empresa",
     "title": "Biomédico: como abrir empresa e estruturar a PJ com o CFBM",
     "subtitle": "CNAE, Simples Nacional e os passos que o biomédico precisa dar antes de emitir a primeira nota",
@@ -421,7 +694,7 @@
     ]
   },
   {
-    "id": 18,
+    "id": 29,
     "slug": "trocar-de-contador-em-sapucaia-do-sul",
     "title": "Trocar de contador em Sapucaia do Sul — quando e como fazer a migração",
     "subtitle": "Empresa entre Porto Alegre e NH precisa de contador que entenda o perfil regional — não apenas o básico obrigatório",
@@ -446,7 +719,7 @@
     ]
   },
   {
-    "id": 19,
+    "id": 30,
     "slug": "corretor-de-consorcios-como-abrir-empresa",
     "title": "Corretor de consórcios: como abrir empresa e receber comissões via CNPJ",
     "subtitle": "Da representação comercial ao CNAE correto — o que o corretor de consórcios precisa saber para formalizar a PJ",
@@ -471,7 +744,31 @@
     ]
   },
   {
-    "id": 20,
+    "id": 31,
+    "slug": "corretor-imoveis-cnpj-e-creci",
+    "title": "Corretor de imóveis com CNPJ: o que o CRECI exige para a imobiliária ou empresa de corretagem",
+    "subtitle": "Imobiliária e empresa de corretagem precisam de registro no CRECI como pessoa jurídica — além do CNPJ na Junta Comercial",
+    "excerpt": "Corretor de imóveis que quer ter empresa precisa de dois registros: CNPJ na JUCRS e registro da empresa no CRECI. Saiba o que é exigido, quais são os CNAEs corretos e como funciona a tributação.",
+    "category": "Abertura de Empresa",
+    "date": "2026-08-20",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/7213548/pexels-photo-7213548.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "corretor imóveis CNPJ CRECI",
+      "imobiliária CRECI",
+      "corretor imóveis pessoa jurídica",
+      "empresa corretagem imóveis"
+    ],
+    "metaDescription": "CNPJ para corretor de imóveis: registro no CRECI como pessoa jurídica, CNAEs corretos e tributação para imobiliárias e empresas de corretagem.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "corretor-imoveis-como-abrir-empresa",
+      "corretor-imoveis-trocar-de-contador"
+    ]
+  },
+  {
+    "id": 32,
     "slug": "contabilidade-em-canoas",
     "title": "Contabilidade em Canoas — o que empresários da 3ª maior cidade do RS precisam saber",
     "subtitle": "Da REFAP às universidades: o perfil econômico de Canoas e como a contabilidade especializada impacta cada segmento",
@@ -496,7 +793,31 @@
     ]
   },
   {
-    "id": 21,
+    "id": 33,
+    "slug": "biomedico-cnpj-e-cfbm",
+    "title": "Biomédico com CNPJ: o que o CFBM exige e como abrir empresa de biomedicina",
+    "subtitle": "Empresa de biomedicina precisa seguir as normas do CFBM — entenda os CNAEs, o regime tributário e o que é exigido para a PJ",
+    "excerpt": "Biomédico que presta serviços como autônomo pode abrir empresa e reduzir significativamente a tributação. O CFBM regula os estabelecimentos — saiba o que é necessário e como funciona o CNPJ para biomédicos.",
+    "category": "Abertura de Empresa",
+    "date": "2026-08-20",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/6803529/pexels-photo-6803529.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "biomédico CNPJ",
+      "empresa biomedicina CFBM",
+      "biomédico pessoa jurídica",
+      "CFBM CNPJ"
+    ],
+    "metaDescription": "CNPJ para biomédicos: exigências do CFBM, CNAEs corretos para cada área de atuação e tributação no Simples Nacional para empresa de biomedicina.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "biomedico-como-abrir-empresa",
+      "biomedico-trocar-de-contador"
+    ]
+  },
+  {
+    "id": 34,
     "slug": "escritorio-de-contabilidade-em-canoas",
     "title": "Escritório de contabilidade em Canoas — como encontrar o parceiro certo",
     "subtitle": "Polo industrial, universitário e de serviços: Canoas exige escritórios com expertise setorial — não apenas volume de clientes",
@@ -520,7 +841,32 @@
     ]
   },
   {
-    "id": 22,
+    "id": 35,
+    "slug": "fonoaudiologo-cnpj-e-crefono",
+    "title": "Fonoaudiólogo com CNPJ: CREFONO, CNAEs e tributação da empresa de fonoaudiologia",
+    "subtitle": "Como funciona a empresa de fonoaudiologia: registro no CREFONO, CNAEs e por que o Fator R é a maior oportunidade tributária",
+    "excerpt": "Fonoaudiólogo que abre empresa pode reduzir a tributação de até 27,5% (IRPF) para 6% (Simples Nacional + Fator R). O CREFONO tem exigências para estabelecimentos — entenda o que é necessário.",
+    "category": "Abertura de Empresa",
+    "date": "2026-08-20",
+    "readTime": 6,
+    "image": "https://images.pexels.com/photos/7495615/pexels-photo-7495615.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "fonoaudiólogo CNPJ",
+      "empresa fonoaudiologia CREFONO",
+      "fonoaudiólogo pessoa jurídica",
+      "CREFONO CNPJ"
+    ],
+    "metaDescription": "CNPJ para fonoaudiólogo: exigências do CREFONO, CNAEs corretos e como o Simples Nacional com Fator R funciona para clínicas de fonoaudiologia.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "fonoaudiologo-como-abrir-empresa",
+      "fonoaudiologo-trocar-de-contador",
+      "fator-r-fonoaudiologo"
+    ]
+  },
+  {
+    "id": 36,
     "slug": "escritorio-de-contabilidade-em-sapucaia-do-sul",
     "title": "Escritório de contabilidade em Sapucaia do Sul — como contratar bem",
     "subtitle": "Cidade entre dois grandes polos do RS merece escritório que entenda o contexto regional — não apenas o básico de qualquer município",
@@ -544,7 +890,7 @@
     ]
   },
   {
-    "id": 23,
+    "id": 37,
     "slug": "trocar-de-contador-em-porto-alegre",
     "title": "Trocar de contador em Porto Alegre — quando, como e o que exigir",
     "subtitle": "Na capital gaúcha há escritórios para todos os perfis — o desafio é encontrar o que de fato entende o seu negócio",
@@ -569,7 +915,7 @@
     ]
   },
   {
-    "id": 24,
+    "id": 38,
     "slug": "como-abrir-empresa-em-sapucaia-do-sul",
     "title": "Como abrir empresa em Sapucaia do Sul — guia prático 2026",
     "subtitle": "Etapas, alvarás e tributação para quem vai empreender no município estratégico entre Porto Alegre e Vale do Sinos",
@@ -594,7 +940,31 @@
     ]
   },
   {
-    "id": 25,
+    "id": 39,
+    "slug": "consultor-rh-cnpj-pj",
+    "title": "Consultor de RH com CNPJ: como abrir empresa de gestão de pessoas",
+    "subtitle": "Consultor de RH não tem conselho obrigatório — mas o CNPJ como PJ é essencial para atender clientes corporativos e tributar com eficiência",
+    "excerpt": "Consultor de recursos humanos e de gestão de pessoas não tem conselho regulador. Abertura de empresa é simples. O Simples Nacional a partir de 6% é muito mais eficiente do que o IRPF de até 27,5% como autônomo.",
+    "category": "Abertura de Empresa",
+    "date": "2026-08-20",
+    "readTime": 5,
+    "image": "https://images.pexels.com/photos/7213548/pexels-photo-7213548.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "rodrigo-c",
+    "keywords": [
+      "consultor RH CNPJ",
+      "empresa recursos humanos PJ",
+      "consultor gestão pessoas pessoa jurídica",
+      "CNPJ consultoria RH"
+    ],
+    "metaDescription": "CNPJ para consultor de RH: sem conselho obrigatório, CNAEs corretos e como o Simples Nacional funciona para empresa de consultoria em gestão de pessoas.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "consultor-rh-como-abrir-empresa",
+      "consultor-rh-trocar-de-contador"
+    ]
+  },
+  {
+    "id": 40,
     "slug": "contabilidade-em-sapucaia-do-sul",
     "title": "Contabilidade em Sapucaia do Sul — o que todo empresário local precisa saber",
     "subtitle": "Localização estratégica, perfil industrial e comercial: como a contabilidade especializada beneficia empresas de Sapucaia",
@@ -619,7 +989,7 @@
     ]
   },
   {
-    "id": 26,
+    "id": 41,
     "slug": "trocar-de-contador-em-novo-hamburgo",
     "title": "Trocar de contador em Novo Hamburgo — como fazer sem perder nada",
     "subtitle": "Sinais de que o escritório atual não atende mais, como migrar com segurança e o que exigir do novo contador",
@@ -644,7 +1014,31 @@
     ]
   },
   {
-    "id": 27,
+    "id": 42,
+    "slug": "produtor-conteudo-cnpj-pj",
+    "title": "Produtor de conteúdo com CNPJ: como abrir empresa de criação digital",
+    "subtitle": "Creator, influenciador ou produtor de conteúdo sem CNPJ paga IRPF sobre tudo. A empresa PJ é o primeiro passo para tributação eficiente",
+    "excerpt": "Produtor de conteúdo, influenciador e creator não têm conselho regulador. Mas abrir empresa e emitir nota fiscal como PJ pode reduzir a carga tributária para 6% no Simples. Entenda os CNAEs e como funciona.",
+    "category": "Abertura de Empresa",
+    "date": "2026-08-20",
+    "readTime": 5,
+    "image": "https://images.pexels.com/photos/6803529/pexels-photo-6803529.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&fit=crop",
+    "authorSlug": "joao-r",
+    "keywords": [
+      "produtor conteúdo CNPJ",
+      "influenciador digital PJ",
+      "creator empresa CNPJ",
+      "produtor digital pessoa jurídica"
+    ],
+    "metaDescription": "CNPJ para produtor de conteúdo e influenciador: CNAEs corretos, como funciona o Simples Nacional e por que a PJ é essencial para quem monetiza conteúdo.",
+    "ctaTheme": "abertura",
+    "relatedSlugs": [
+      "produtor-conteudo-como-abrir-empresa",
+      "produtor-conteudo-trocar-de-contador"
+    ]
+  },
+  {
+    "id": 43,
     "slug": "terapeuta-ocupacional-trocar-de-contador",
     "title": "Terapeuta ocupacional: por que o contador generalista cobra mais e entrega menos",
     "excerpt": "TOs que precisam de orientação sobre COFFITO, Fator R e tributação de serviços multidisciplinares raramente encontram essas respostas em escritórios generalistas — e acabam pagando mais imposto.",
@@ -668,7 +1062,7 @@
     ]
   },
   {
-    "id": 28,
+    "id": 44,
     "slug": "terapeuta-ocupacional-como-abrir-empresa",
     "title": "Terapeuta ocupacional: como abrir empresa e estruturar o regime tributário",
     "excerpt": "Terapeutas ocupacionais no Simples Nacional podem usar o Fator R para sair do Anexo V (15,5%) e ir para o Anexo III (6%) — desde que o pró-labore esteja bem estruturado desde o início.",
@@ -692,7 +1086,7 @@
     ]
   },
   {
-    "id": 29,
+    "id": 45,
     "slug": "o-que-e-arbitragem",
     "title": "O que é Arbitragem: o que significa e como funciona na prática",
     "excerpt": "É um mecanismo privado de resolução de disputas, com decisão que tem a mesma força de uma sentença judicial.",
@@ -712,7 +1106,7 @@
     ]
   },
   {
-    "id": 30,
+    "id": 46,
     "slug": "fonoaudiologo-trocar-de-contador",
     "title": "Fonoaudiólogo: sinais de que sua empresa precisa de um contador especializado",
     "excerpt": "Fonoaudiólogos que pagam mais imposto do que precisam geralmente têm um contador que não conhece o Fator R, o CRFa ou as particularidades tributárias de clínicas de fonoaudiologia.",
@@ -736,7 +1130,7 @@
     ]
   },
   {
-    "id": 31,
+    "id": 47,
     "slug": "clausula-de-eleicao-de-foro",
     "title": "Cláusula de eleição de foro: por que ela importa mais do que parece",
     "excerpt": "Definir onde uma eventual disputa será julgada evita ter que litigar numa cidade distante e desfavorável.",
@@ -757,7 +1151,7 @@
     ]
   },
   {
-    "id": 32,
+    "id": 48,
     "slug": "mei-ou-slu-qual-escolher",
     "title": "MEI ou SLU: qual é a empresa certa para você",
     "subtitle": "Comparação prática entre os dois regimes mais comuns para quem está formalizando um negócio",
@@ -784,7 +1178,7 @@
     ]
   },
   {
-    "id": 33,
+    "id": 49,
     "slug": "como-emitir-nota-fiscal-de-servico",
     "title": "Como emitir nota fiscal de serviço: guia passo a passo",
     "subtitle": "O documento que comprova, para a Receita e a prefeitura, que sua empresa prestou um serviço",
@@ -809,7 +1203,7 @@
     ]
   },
   {
-    "id": 34,
+    "id": 50,
     "slug": "o-que-e-pro-labore",
     "title": "O que é pró-labore: o que significa e como funciona na prática",
     "subtitle": "A remuneração do sócio pelo trabalho exercido dentro da própria empresa",
@@ -834,7 +1228,7 @@
     ]
   },
   {
-    "id": 35,
+    "id": 51,
     "slug": "o-que-e-fator-r",
     "title": "O que é Fator R: o que significa e como funciona na prática",
     "subtitle": "A fórmula que pode reduzir o imposto de empresas de serviço no Simples Nacional",
@@ -859,7 +1253,7 @@
     ]
   },
   {
-    "id": 36,
+    "id": 52,
     "slug": "transformar-negocio-informal-em-empresa-formal",
     "title": "Como transformar um negócio informal em empresa formal sem perder clientes no processo",
     "excerpt": "A formalização traz custo e burocracia novos — mas, bem conduzida, não precisa assustar a clientela já construída.",
@@ -880,7 +1274,7 @@
     ]
   },
   {
-    "id": 37,
+    "id": 53,
     "slug": "como-calcular-o-das-simples-nacional",
     "title": "Como calcular o DAS do Simples Nacional",
     "subtitle": "Entenda a lógica por trás do boleto único mensal de quem está no Simples",
@@ -905,7 +1299,7 @@
     ]
   },
   {
-    "id": 38,
+    "id": 54,
     "slug": "o-que-e-compliance",
     "title": "O que é Compliance: o que significa e como funciona na prática",
     "excerpt": "O termo em inglês significa, na essência, estar em conformidade com regras — legais e internas.",
@@ -925,7 +1319,7 @@
     ]
   },
   {
-    "id": 39,
+    "id": 55,
     "slug": "exclusao-de-socio-por-justa-causa",
     "title": "Como funciona a exclusão de sócio por justa causa",
     "excerpt": "É um processo formal, com requisitos específicos — não basta os demais sócios decidirem que não querem mais alguém na sociedade.",
@@ -947,7 +1341,7 @@
     ]
   },
   {
-    "id": 40,
+    "id": 56,
     "slug": "preciso-de-socio-para-abrir-empresa",
     "title": "Preciso de sócio para abrir empresa?",
     "subtitle": "Como saber se a decisão certa para você é abrir sozinho ou com sócio",
@@ -972,7 +1366,7 @@
     ]
   },
   {
-    "id": 41,
+    "id": 57,
     "slug": "como-fazer-fluxo-de-caixa-simples",
     "title": "Como fazer fluxo de caixa simples: guia passo a passo",
     "subtitle": "A ferramenta de gestão financeira mais importante para qualquer pequena empresa",
@@ -997,7 +1391,7 @@
     ]
   },
   {
-    "id": 42,
+    "id": 58,
     "slug": "contratos-internacionais-cuidados-ao-negociar",
     "title": "Contratos internacionais: cuidados ao negociar com fornecedor ou cliente estrangeiro",
     "excerpt": "Lei aplicável, idioma e moeda de pagamento são apenas o começo das diferenças em relação a um contrato nacional.",
@@ -1018,7 +1412,7 @@
     ]
   },
   {
-    "id": 43,
+    "id": 59,
     "slug": "fonoaudiologo-como-abrir-empresa",
     "title": "Fonoaudiólogo: como montar CNPJ e tributar corretamente no Simples Nacional",
     "excerpt": "Fonoaudiólogos podem reduzir sua carga tributária de 15,5% para 6% no Simples Nacional usando o Fator R — mas precisam estruturar o pró-labore corretamente desde o início.",
@@ -1042,7 +1436,7 @@
     ]
   },
   {
-    "id": 44,
+    "id": 60,
     "slug": "credito-presumido-de-icms",
     "title": "Crédito presumido de ICMS: o que é e como funciona esse benefício",
     "excerpt": "Em vez de calcular o crédito real, a empresa usa um percentual fixo definido por lei — o que pode ser vantajoso ou não.",
@@ -1064,7 +1458,7 @@
     ]
   },
   {
-    "id": 45,
+    "id": 61,
     "slug": "o-que-e-cnae",
     "title": "O que é CNAE: o que significa e como escolher o certo",
     "subtitle": "O código que identifica oficialmente a atividade da sua empresa",
@@ -1089,7 +1483,7 @@
     ]
   },
   {
-    "id": 46,
+    "id": 62,
     "slug": "como-abrir-loja-online",
     "title": "Como abrir uma loja online: CNAE, regime tributário e nota fiscal",
     "subtitle": "Guia completo para formalizar um e-commerce no Brasil",
@@ -1114,7 +1508,7 @@
     ]
   },
   {
-    "id": 47,
+    "id": 63,
     "slug": "o-que-e-iss",
     "title": "O que é ISS: o que significa e como funciona na prática",
     "subtitle": "O imposto municipal que incide sobre quem presta serviço",
@@ -1139,7 +1533,7 @@
     ]
   },
   {
-    "id": 48,
+    "id": 64,
     "slug": "abertura-de-cooperativa-visao-geral",
     "title": "Abertura de cooperativa: visão geral de como formalizar esse tipo de negócio",
     "excerpt": "Diferente de uma empresa comum, a cooperativa segue uma lógica própria de gestão e divisão de resultado entre cooperados.",
@@ -1160,7 +1554,7 @@
     ]
   },
   {
-    "id": 49,
+    "id": 65,
     "slug": "lucro-presumido-ou-lucro-real",
     "title": "Lucro Presumido ou Lucro Real: qual escolher",
     "subtitle": "A decisão que aparece quando a empresa cresce além do limite do Simples",
@@ -1185,7 +1579,7 @@
     ]
   },
   {
-    "id": 50,
+    "id": 66,
     "slug": "o-que-e-recuperacao-judicial",
     "title": "O que é Recuperação Judicial: o que significa e como funciona na prática",
     "excerpt": "É o instrumento legal para reorganizar dívida e manter a empresa operando, em vez de simplesmente encerrar.",
@@ -1205,7 +1599,7 @@
     ]
   },
   {
-    "id": 51,
+    "id": 67,
     "slug": "como-fazer-folha-de-pagamento-clt",
     "title": "Como fazer a folha de pagamento de um funcionário CLT",
     "subtitle": "O passo a passo de quem vai contratar o primeiro funcionário formal",
@@ -1230,7 +1624,7 @@
     ]
   },
   {
-    "id": 52,
+    "id": 68,
     "slug": "slu-ou-ltda-diferencas-que-importam",
     "title": "SLU ou LTDA: as 3 diferenças que realmente importam na prática",
     "subtitle": "Guia completo para escolher o tipo societário certo ao abrir empresa no Brasil",
@@ -1261,7 +1655,7 @@
     ]
   },
   {
-    "id": 53,
+    "id": 69,
     "slug": "direitos-do-socio-minoritario",
     "title": "Direitos do sócio minoritário: o que protege quem tem menor participação",
     "excerpt": "Ter menos quotas não significa não ter voz — a lei garante proteções específicas para esse perfil de sócio.",
@@ -1282,7 +1676,7 @@
     ]
   },
   {
-    "id": 54,
+    "id": 70,
     "slug": "o-que-e-distribuicao-de-lucros",
     "title": "O que é distribuição de lucros: como funciona na prática",
     "subtitle": "A forma mais eficiente de retirar dinheiro da empresa, quando bem planejada",
@@ -1307,7 +1701,7 @@
     ]
   },
   {
-    "id": 55,
+    "id": 71,
     "slug": "fisioterapeuta-trocar-de-contador",
     "title": "Fisioterapeuta com CNPJ: quando e por que trocar de contador",
     "excerpt": "Fisioterapeutas que pagam Anexo V sem usar o Fator R provavelmente têm o contador errado. Saiba identificar os sinais e como migrar de escritório sem perder o histórico da empresa.",
@@ -1331,7 +1725,7 @@
     ]
   },
   {
-    "id": 56,
+    "id": 72,
     "slug": "como-abrir-clinica-de-estetica",
     "title": "Como abrir uma clínica de estética: CNAE, regime e licenças",
     "subtitle": "O que muda na formalização de um negócio que precisa de alvará sanitário",
@@ -1356,7 +1750,7 @@
     ]
   },
   {
-    "id": 57,
+    "id": 73,
     "slug": "falencia-empresarial-o-que-muda-para-os-socios",
     "title": "Falência empresarial: o que muda para os sócios quando isso acontece",
     "excerpt": "Decretar falência encerra a empresa — mas o que acontece com os sócios depende de como a empresa foi administrada.",
@@ -1376,7 +1770,7 @@
     ]
   },
   {
-    "id": 58,
+    "id": 74,
     "slug": "das-darf-gps-guia-pratico",
     "title": "DAS, DARF, GPS: o guia prático das guias que todo empreendedor vai encontrar",
     "excerpt": "Glossário visual de obrigações mensais para você nunca mais ficar em dúvida do que pagar.",
@@ -1387,7 +1781,7 @@
     "authorSlug": "joao-r"
   },
   {
-    "id": 59,
+    "id": 75,
     "slug": "o-que-e-capital-social",
     "title": "O que é capital social: o que significa e como definir o valor",
     "subtitle": "O valor que os sócios destinam para constituir e operar a empresa",
@@ -1412,7 +1806,7 @@
     ]
   },
   {
-    "id": 60,
+    "id": 76,
     "slug": "reforma-tributaria-para-o-setor-de-servicos",
     "title": "Reforma Tributária para o setor de serviços: o que muda especificamente",
     "excerpt": "O setor de serviços tende a sentir um dos impactos mais relevantes da transição para o novo sistema tributário.",
@@ -1434,7 +1828,7 @@
     ]
   },
   {
-    "id": 61,
+    "id": 77,
     "slug": "como-abrir-restaurante-ou-delivery",
     "title": "Como abrir um restaurante ou delivery: CNAE, regime e vigilância sanitária",
     "subtitle": "O caminho completo para formalizar um negócio de alimentação",
@@ -1459,7 +1853,7 @@
     ]
   },
   {
-    "id": 62,
+    "id": 78,
     "slug": "como-alterar-contrato-social",
     "title": "Como alterar o contrato social: o que muda e como fazer",
     "subtitle": "O processo para atualizar dados, sócios ou atividades da empresa",
@@ -1484,7 +1878,7 @@
     ]
   },
   {
-    "id": 63,
+    "id": 79,
     "slug": "o-que-e-ebitda",
     "title": "O que é EBITDA: o que significa e como interpretar esse indicador",
     "excerpt": "É um dos indicadores financeiros mais usados para avaliar a geração de caixa operacional de um negócio.",
@@ -1506,7 +1900,7 @@
     ]
   },
   {
-    "id": 64,
+    "id": 80,
     "slug": "o-que-e-certidao-negativa",
     "title": "O que é certidão negativa de débitos: para que serve e como emitir",
     "subtitle": "O documento que comprova que a empresa está em dia com o fisco",
@@ -1531,7 +1925,7 @@
     ]
   },
   {
-    "id": 65,
+    "id": 81,
     "slug": "cnpj-para-startup",
     "title": "CNPJ para startup: como abrir e estruturar uma empresa de tecnologia",
     "subtitle": "O que muda na formalização de um negócio de tecnologia em crescimento",
@@ -1556,7 +1950,7 @@
     ]
   },
   {
-    "id": 66,
+    "id": 82,
     "slug": "compliance-o-que-e-e-por-que-pequenas-empresas-precisam",
     "title": "Compliance: o que é e por que pequenas empresas também precisam pensar nisso",
     "excerpt": "Não é assunto exclusivo de grande corporação — é, na essência, sobre seguir regras de forma consistente.",
@@ -1577,7 +1971,7 @@
     ]
   },
   {
-    "id": 67,
+    "id": 83,
     "slug": "mediacao-e-arbitragem-alternativa-ao-processo-judicial",
     "title": "Mediação e arbitragem como alternativa ao processo judicial",
     "excerpt": "Resolver uma disputa fora do tribunal costuma ser mais rápido — e em alguns casos, também mais barato.",
@@ -1598,7 +1992,7 @@
     ]
   },
   {
-    "id": 68,
+    "id": 84,
     "slug": "como-registrar-marca-no-inpi",
     "title": "Como registrar uma marca no INPI: passo a passo",
     "subtitle": "Proteja o nome do seu negócio antes que outra empresa registre primeiro",
@@ -1623,7 +2017,7 @@
     ]
   },
   {
-    "id": 69,
+    "id": 85,
     "slug": "simples-nacional-ou-lucro-presumido",
     "title": "Simples Nacional ou Lucro Presumido: a diferença que mais pesa no bolso",
     "excerpt": "Entenda qual regime tributário vai fazer você pagar menos imposto — e quando trocar.",
@@ -1634,7 +2028,7 @@
     "authorSlug": "joao-r"
   },
   {
-    "id": 70,
+    "id": 86,
     "slug": "regime-de-caixa-ou-competencia",
     "title": "Regime de caixa ou regime de competência: qual usar",
     "subtitle": "Duas formas diferentes de registrar quando uma receita ou despesa 'aconteceu'",
@@ -1659,7 +2053,7 @@
     ]
   },
   {
-    "id": 71,
+    "id": 87,
     "slug": "fisioterapeuta-como-abrir-empresa",
     "title": "Fisioterapeuta: como abrir empresa no modelo certo e pagar menos imposto",
     "excerpt": "Fisioterapeutas que atuam via PJ podem pagar entre 6% e 15,5% no Simples Nacional — a diferença está no Fator R e em como o pró-labore é estruturado desde o primeiro mês.",
@@ -1683,7 +2077,7 @@
     ]
   },
   {
-    "id": 72,
+    "id": 88,
     "slug": "como-funciona-recuperacao-judicial",
     "title": "Como funciona uma recuperação judicial e quando ela é necessária",
     "excerpt": "É um instrumento para reorganizar dívida e manter a empresa funcionando — não é sinônimo de falência.",
@@ -1703,7 +2097,7 @@
     ]
   },
   {
-    "id": 73,
+    "id": 89,
     "slug": "regimes-especiais-de-tributacao-por-setor",
     "title": "Regimes especiais de tributação por setor: quando seu negócio se enquadra em um deles",
     "excerpt": "Alguns setores têm tributação própria, fora da lógica padrão do Simples, Presumido ou Real.",
@@ -1724,7 +2118,7 @@
     ]
   },
   {
-    "id": 74,
+    "id": 90,
     "slug": "reforma-tributaria-2026-pmes",
     "title": "Reforma Tributária 2026: o que muda de verdade para PMEs",
     "excerpt": "Sem o juridiquês: o que a reforma significa na prática para quem tem uma pequena ou média empresa.",
@@ -1735,7 +2129,7 @@
     "authorSlug": "joao-r"
   },
   {
-    "id": 75,
+    "id": 91,
     "slug": "o-que-e-sped",
     "title": "O que é SPED: o que significa e como funciona",
     "subtitle": "O sistema que unificou as obrigações fiscais digitais das empresas brasileiras",
@@ -1760,7 +2154,7 @@
     ]
   },
   {
-    "id": 76,
+    "id": 92,
     "slug": "quanto-custa-funcionario-clt-na-pratica",
     "title": "Quanto custa um funcionário CLT na prática: a conta completa",
     "subtitle": "O salário é só a ponta do iceberg do custo real de contratar",
@@ -1785,7 +2179,7 @@
     ]
   },
   {
-    "id": 77,
+    "id": 93,
     "slug": "como-abrir-empresa-de-construcao",
     "title": "Como abrir uma empresa de construção ou reforma: CNAE e regime tributário",
     "subtitle": "O que muda na formalização de quem presta serviço de obra",
@@ -1810,7 +2204,7 @@
     ]
   },
   {
-    "id": 78,
+    "id": 94,
     "slug": "gps-inss-autonomos-contratados",
     "title": "Como funciona a guia GPS e o recolhimento de INSS de autônomos contratados",
     "excerpt": "Contratar autônomo (pessoa física) traz uma obrigação de recolhimento que muita empresa esquece de considerar.",
@@ -1831,7 +2225,7 @@
     ]
   },
   {
-    "id": 79,
+    "id": 95,
     "slug": "limite-mei-2026-mudancas",
     "title": "Limite do MEI em 2026: o que está mudando e como se preparar",
     "excerpt": "O teto do MEI não é mais o mesmo de sempre — e ignorar isso pode custar caro.",
@@ -1842,7 +2236,7 @@
     "authorSlug": "joao-r"
   },
   {
-    "id": 80,
+    "id": 96,
     "slug": "mei-quais-atividades-sao-permitidas-e-vedadas",
     "title": "MEI: quais atividades são permitidas e quais são vedadas",
     "excerpt": "Antes de formalizar, vale conferir se a atividade pretendida realmente consta na lista oficial do MEI.",
@@ -1863,7 +2257,7 @@
     ]
   },
   {
-    "id": 81,
+    "id": 97,
     "slug": "diferenca-entre-elisao-e-evasao-fiscal",
     "title": "Diferença entre elisão e evasão fiscal: uma é legal, a outra é crime",
     "excerpt": "Os dois termos são frequentemente confundidos, mas a diferença entre eles é exatamente a linha entre planejamento e fraude.",
@@ -1884,7 +2278,7 @@
     ]
   },
   {
-    "id": 82,
+    "id": 98,
     "slug": "personal-trainer-como-abrir-empresa",
     "title": "Personal trainer: como abrir empresa e sair do autônomo",
     "subtitle": "CREF, CNAE, Simples Nacional e quando a PJ do educador físico faz sentido",
@@ -1909,7 +2303,7 @@
     ]
   },
   {
-    "id": 83,
+    "id": 99,
     "slug": "planejamento-tributario-para-filial-em-outro-estado",
     "title": "Planejamento tributário para abertura de filial em outro estado",
     "excerpt": "Cada estado tem sua própria regra de ICMS e seus próprios incentivos — ignorar isso no planejamento custa caro.",
@@ -1930,7 +2324,7 @@
     ]
   },
   {
-    "id": 84,
+    "id": 100,
     "slug": "marco-legal-das-garantias-acesso-a-credito",
     "title": "Marco legal das garantias: o que muda no acesso a crédito empresarial",
     "excerpt": "Novas regras sobre garantias de empréstimo podem facilitar o acesso a crédito com taxas mais competitivas.",
@@ -1951,7 +2345,7 @@
     ]
   },
   {
-    "id": 85,
+    "id": 101,
     "slug": "beneficios-fiscais-municipais-e-estaduais",
     "title": "Benefícios fiscais municipais e estaduais: como descobrir os disponíveis para sua empresa",
     "excerpt": "Muitos incentivos fiscais existem silenciosamente, sem grande divulgação, e dependem de a empresa buscar ativamente.",
@@ -1972,7 +2366,7 @@
     ]
   },
   {
-    "id": 86,
+    "id": 102,
     "slug": "pro-labore-vs-lucros",
     "title": "Pro-labore vs. lucros: como se pagar sem pagar mais imposto",
     "excerpt": "A decisão de como os sócios retiram dinheiro da empresa tem impacto direto na carga tributária.",
@@ -1983,7 +2377,7 @@
     "authorSlug": "marcelo-w"
   },
   {
-    "id": 87,
+    "id": 103,
     "slug": "nota-fiscal-de-exportacao-de-servicos",
     "title": "Nota fiscal de exportação de serviços: como funciona na prática",
     "excerpt": "Vender serviço para cliente no exterior tem tratamento tributário próprio, diferente da nota fiscal nacional comum.",
@@ -2004,7 +2398,7 @@
     ]
   },
   {
-    "id": 88,
+    "id": 104,
     "slug": "transicao-de-mei-para-microempresa",
     "title": "Transição de MEI para Microempresa (ME): quando e como fazer",
     "excerpt": "Crescer além dos limites do MEI é um bom problema — desde que a transição seja feita no momento certo.",
@@ -2025,7 +2419,7 @@
     ]
   },
   {
-    "id": 89,
+    "id": 105,
     "slug": "como-abrir-imobiliaria",
     "title": "Como abrir uma imobiliária: CNAE, regime tributário e o registro no CRECI",
     "excerpt": "Intermediar imóveis exige registro profissional específico, além da formalização padrão de empresa.",
@@ -2049,7 +2443,7 @@
     ]
   },
   {
-    "id": 90,
+    "id": 106,
     "slug": "tributacao-de-dividendos-o-que-esta-em-discussao",
     "title": "Tributação de dividendos: o que está em discussão e o que muda se aprovada",
     "excerpt": "A isenção de Imposto de Renda sobre distribuição de lucros está sob debate — entenda o que está em jogo.",
@@ -2072,7 +2466,7 @@
     ]
   },
   {
-    "id": 91,
+    "id": 107,
     "slug": "nutricionista-trocar-de-contador",
     "title": "Nutricionista: como trocar de contador e o que exigir do novo",
     "subtitle": "Fator R, atendimento online e presencial, planos de saúde e o que o contador precisa entender",
@@ -2097,7 +2491,7 @@
     ]
   },
   {
-    "id": 92,
+    "id": 108,
     "slug": "iss-fixo-vs-iss-variavel",
     "title": "ISS fixo versus ISS variável: o que muda para pequenas empresas de serviço",
     "excerpt": "Algumas atividades de serviço podem pagar um valor fixo mensal de ISS, em vez de percentual sobre faturamento.",
@@ -2118,7 +2512,7 @@
     ]
   },
   {
-    "id": 93,
+    "id": 109,
     "slug": "quando-contratar-um-gerente",
     "title": "Como avaliar se está na hora de contratar um gerente para a operação",
     "excerpt": "Continuar fazendo tudo sozinho depois que o negócio já cresceu costuma ser o maior limitador de crescimento.",
@@ -2139,7 +2533,7 @@
     ]
   },
   {
-    "id": 94,
+    "id": 110,
     "slug": "fornecedores-unicos-vs-diversificacao-risco",
     "title": "Fornecedor único ou diversificação: como avaliar o risco de dependência",
     "excerpt": "Concentrar compras em um só fornecedor melhora a negociação, mas expõe o negócio a um risco que poucos calculam.",
@@ -2160,7 +2554,7 @@
     ]
   },
   {
-    "id": 95,
+    "id": 111,
     "slug": "abrir-empresa-o-que-ninguem-conta",
     "title": "O que ninguém te conta antes de abrir empresa no Brasil",
     "excerpt": "Custos ocultos, obrigações mensais e armadilhas comuns que pegam todo mundo de surpresa.",
@@ -2171,7 +2565,7 @@
     "authorSlug": "marcelo-w"
   },
   {
-    "id": 96,
+    "id": 112,
     "slug": "programa-de-fidelidade-sem-prejudicar-margem",
     "title": "Como estruturar um programa de fidelidade sem prejudicar a margem",
     "excerpt": "Fidelizar cliente custa menos do que conquistar um novo — mas o programa precisa ser desenhado com a conta fechando no fim do mês.",
@@ -2193,7 +2587,7 @@
     ]
   },
   {
-    "id": 97,
+    "id": 113,
     "slug": "como-a-reforma-tributaria-afeta-pmes",
     "title": "Como a Reforma Tributária afeta pequenas e médias empresas",
     "excerpt": "Nem tudo muda igual para quem está no Simples Nacional — veja o que de fato importa para o seu porte.",
@@ -2216,7 +2610,7 @@
     ]
   },
   {
-    "id": 98,
+    "id": 114,
     "slug": "mei-livro-caixa-vale-a-pena-manter",
     "title": "MEI: livro caixa, vale a pena manter mesmo não sendo obrigatório?",
     "excerpt": "Não é exigido por lei na maioria dos casos, mas a ausência dele complica decisões simples do dia a dia.",
@@ -2237,7 +2631,7 @@
     ]
   },
   {
-    "id": 99,
+    "id": 115,
     "slug": "nutricionista-como-abrir-empresa",
     "title": "Nutricionista: como abrir empresa e formalizar o consultório",
     "subtitle": "CFN, CNAE, Simples Nacional e o que muda quando o nutricionista opera via PJ",
@@ -2262,7 +2656,7 @@
     ]
   },
   {
-    "id": 100,
+    "id": 116,
     "slug": "gestao-de-multiplos-canais-de-venda",
     "title": "Gestão de múltiplos canais de venda: loja física, online e marketplace ao mesmo tempo",
     "excerpt": "Vender em vários canais multiplica oportunidade, mas também multiplica complexidade de estoque e preço.",
@@ -2283,7 +2677,7 @@
     ]
   },
   {
-    "id": 101,
+    "id": 117,
     "slug": "cronograma-reforma-tributaria-2026-2033",
     "title": "Cronograma da Reforma Tributária: o que acontece a cada ano",
     "excerpt": "A transição é longa e gradual — veja o que muda ano a ano, sem precisar acompanhar cada notícia.",
@@ -2306,7 +2700,7 @@
     ]
   },
   {
-    "id": 102,
+    "id": 118,
     "slug": "como-calcular-custo-de-aquisicao-de-cliente-cac",
     "title": "Como calcular o custo de aquisição de cliente (CAC) e por que isso importa",
     "excerpt": "Gastar em marketing sem saber quanto custa trazer cada cliente novo é decidir no escuro.",
@@ -2327,7 +2721,7 @@
     ]
   },
   {
-    "id": 103,
+    "id": 119,
     "slug": "pix-automatico-cobranca-recorrente-empresas",
     "title": "PIX automático: o que muda na cobrança recorrente para empresas",
     "excerpt": "Cobranças mensais recorrentes ganham uma alternativa ao boleto e ao cartão de crédito.",
@@ -2348,7 +2742,7 @@
     ]
   },
   {
-    "id": 104,
+    "id": 120,
     "slug": "plano-de-sucessao-para-socio-fundador-se-afastar",
     "title": "Plano de sucessão para sócio fundador que quer se afastar da operação",
     "excerpt": "Sair do dia a dia sem um plano estruturado costuma comprometer tanto a operação quanto a tranquilidade do próprio fundador.",
@@ -2370,7 +2764,7 @@
     ]
   },
   {
-    "id": 105,
+    "id": 121,
     "slug": "contrato-social-o-que-nao-pode-faltar",
     "title": "Contrato social: o que não pode faltar e o que você provavelmente esqueceu",
     "excerpt": "O documento que funda sua empresa também protege você — se for bem feito.",
@@ -2381,7 +2775,7 @@
     "authorSlug": "marcelo-h"
   },
   {
-    "id": 106,
+    "id": 122,
     "slug": "reforma-tributaria-imposto-seletivo",
     "title": "Reforma Tributária: o que é o Imposto Seletivo",
     "excerpt": "O novo imposto sobre produtos considerados nocivos à saúde ou ao meio ambiente.",
@@ -2404,7 +2798,7 @@
     ]
   },
   {
-    "id": 107,
+    "id": 123,
     "slug": "gestao-de-fluxo-de-caixa-sazonal",
     "title": "Gestão de fluxo de caixa sazonal: como sustentar os meses de baixa",
     "excerpt": "Negócios com pico de venda concentrado em poucos meses precisam de uma lógica de caixa diferente do resto do ano.",
@@ -2426,7 +2820,7 @@
     ]
   },
   {
-    "id": 108,
+    "id": 124,
     "slug": "como-precificar-servico-por-hora-vs-por-projeto",
     "title": "Como precificar serviço por hora versus por projeto fechado",
     "excerpt": "Cada modelo transfere o risco para um lado diferente — entender isso evita prejuízo em projetos que fogem do escopo.",
@@ -2447,7 +2841,7 @@
     ]
   },
   {
-    "id": 109,
+    "id": 125,
     "slug": "mei-como-abrir-conta-bancaria-empresarial",
     "title": "MEI: como abrir conta bancária empresarial e por que isso importa",
     "excerpt": "Usar a conta pessoal para o MEI parece prático no início, mas cria confusão financeira que cresce com o tempo.",
@@ -2468,7 +2862,7 @@
     ]
   },
   {
-    "id": 110,
+    "id": 126,
     "slug": "reforma-tributaria-ibs-o-que-muda",
     "title": "Reforma Tributária: o que é o IBS e o que muda para sua empresa",
     "excerpt": "O Imposto sobre Bens e Serviços substitui ICMS e ISS — entenda o impacto dessa unificação.",
@@ -2491,7 +2885,7 @@
     ]
   },
   {
-    "id": 111,
+    "id": 127,
     "slug": "desenvolvedor-freelancer-trocar-de-contador",
     "title": "Desenvolvedor freelancer: como trocar de contador",
     "subtitle": "Fator R, clientes estrangeiros e o que o contador de empresa de tecnologia precisa dominar",
@@ -2516,7 +2910,7 @@
     ]
   },
   {
-    "id": 112,
+    "id": 128,
     "slug": "gestao-de-turnover-rotatividade-de-funcionarios",
     "title": "Gestão de turnover: causas comuns da rotatividade e como reduzi-la",
     "excerpt": "Substituir funcionário tem custo invisível alto — recrutar, treinar e a queda de produtividade no meio do caminho.",
@@ -2537,7 +2931,7 @@
     ]
   },
   {
-    "id": 113,
+    "id": 129,
     "slug": "programa-de-regularizacao-fiscal-2026",
     "title": "Programa de regularização fiscal 2026: o que esperar",
     "excerpt": "Programas especiais de parcelamento surgem periodicamente — entender o padrão ajuda a se preparar para aproveitar.",
@@ -2558,7 +2952,7 @@
     ]
   },
   {
-    "id": 114,
+    "id": 130,
     "slug": "reforma-tributaria-cbs-o-que-muda",
     "title": "Reforma Tributária: o que é a CBS e o que muda para sua empresa",
     "excerpt": "A Contribuição sobre Bens e Serviços substitui PIS e COFINS — entenda o que muda na prática.",
@@ -2581,7 +2975,7 @@
     ]
   },
   {
-    "id": 115,
+    "id": 131,
     "slug": "mei-de-comercio-o-que-pode-e-nao-pode-vender",
     "title": "MEI de comércio: o que pode e não pode vender",
     "excerpt": "Nem todo produto pode ser comercializado por um MEI — alguns exigem estrutura tributária diferente.",
@@ -2602,7 +2996,7 @@
     ]
   },
   {
-    "id": 116,
+    "id": 132,
     "slug": "desenvolvedor-freelancer-como-abrir-empresa",
     "title": "Desenvolvedor freelancer: como abrir empresa e sair do autônomo",
     "subtitle": "CNAE, Simples Nacional e por que o desenvolvedor PJ pode pagar menos da metade do imposto do autônomo",
@@ -2627,7 +3021,7 @@
     ]
   },
   {
-    "id": 117,
+    "id": 133,
     "slug": "quando-contratar-funcionario-clt",
     "title": "Quando contratar um funcionário de verdade — e quando a CLT vai custar mais do que o negócio vale",
     "excerpt": "O custo real de uma contratação CLT vai muito além do salário que você combina.",
@@ -2638,7 +3032,7 @@
     "authorSlug": "marcelo-w"
   },
   {
-    "id": 118,
+    "id": 134,
     "slug": "simples-nacional-mudancas-recentes",
     "title": "Simples Nacional: mudanças recentes que todo empreendedor deveria conhecer",
     "excerpt": "O regime passa por ajustes frequentes — veja o que mudou e o que ainda está em discussão.",
@@ -2661,7 +3055,7 @@
     ]
   },
   {
-    "id": 119,
+    "id": 135,
     "slug": "inteligencia-artificial-na-gestao-de-pequenas-empresas",
     "title": "Inteligência artificial na gestão de pequenas empresas: tendência ou necessidade?",
     "excerpt": "Ferramentas de IA já estão acessíveis para negócios pequenos — a questão não é mais 'se', mas 'onde' aplicar primeiro.",
@@ -2682,7 +3076,7 @@
     ]
   },
   {
-    "id": 120,
+    "id": 136,
     "slug": "como-abrir-barbearia",
     "title": "Como abrir uma barbearia: CNAE, regime tributário e licenças",
     "excerpt": "Um dos setores que mais cresce no MEI — veja quando vale a pena formalizar como empresa maior.",
@@ -2706,7 +3100,7 @@
     ]
   },
   {
-    "id": 121,
+    "id": 137,
     "slug": "irpj-pessoa-juridica-regimes",
     "title": "O imposto de renda da pessoa jurídica: o que varia conforme o regime e como planejar",
     "excerpt": "IRPJ não é bicho de sete cabeças — mas ignorá-lo tem consequências sérias.",
@@ -2717,7 +3111,7 @@
     "authorSlug": "joao-r"
   },
   {
-    "id": 122,
+    "id": 138,
     "slug": "mei-aposentadoria-e-beneficios-inss",
     "title": "MEI: aposentadoria e benefícios do INSS — o que você precisa saber",
     "excerpt": "O valor fixo pago pelo MEI já garante alguns direitos previdenciários, mas não todos — entenda os limites.",
@@ -2738,7 +3132,7 @@
     ]
   },
   {
-    "id": 123,
+    "id": 139,
     "slug": "veterinario-trocar-de-contabilidade",
     "title": "Veterinário: como trocar de contabilidade e o que exigir do novo escritório",
     "subtitle": "Simples Nacional para veterinário, CRMV e o que o contador precisa entender sobre clínica veterinária",
@@ -2763,7 +3157,7 @@
     ]
   },
   {
-    "id": 124,
+    "id": 140,
     "slug": "o-que-e-eireli",
     "title": "O que é EIRELI: o que significa e por que não existe mais",
     "excerpt": "Se você já ouviu esse termo, é porque a empresa foi aberta antes de 2021 — entenda o que mudou.",
@@ -2787,7 +3181,7 @@
     ]
   },
   {
-    "id": 125,
+    "id": 141,
     "slug": "novas-regras-esocial-pequenos-empregadores",
     "title": "Novas regras do eSocial: o que muda para pequenos empregadores",
     "excerpt": "O sistema que unifica obrigações trabalhistas digitais continua evoluindo — e isso afeta quem tem até um único funcionário.",
@@ -2808,7 +3202,7 @@
     ]
   },
   {
-    "id": 126,
+    "id": 142,
     "slug": "como-dissolver-uma-empresa",
     "title": "Como dissolver uma empresa: o processo de encerramento correto",
     "excerpt": "Fechar empresa errado deixa pendências que voltam para o sócio anos depois — veja o caminho certo.",
@@ -2831,7 +3225,7 @@
     ]
   },
   {
-    "id": 127,
+    "id": 143,
     "slug": "cnae-errado-simples-nacional",
     "title": "CNAE errado: o erro silencioso que pode inviabilizar seu enquadramento no Simples Nacional",
     "excerpt": "Um código de 7 dígitos que define sua tributação, suas licenças e até se você pode ser MEI.",
@@ -2842,7 +3236,7 @@
     "authorSlug": "joao-r"
   },
   {
-    "id": 128,
+    "id": 144,
     "slug": "mei-pode-ter-socio",
     "title": "MEI pode ter sócio? Entenda por que a resposta é não",
     "excerpt": "Quem quer empreender com outra pessoa precisa de outro tipo de empresa desde o início.",
@@ -2863,7 +3257,7 @@
     ]
   },
   {
-    "id": 129,
+    "id": 145,
     "slug": "veterinario-como-abrir-clinica",
     "title": "Veterinário: como abrir clínica ou empresa de serviços veterinários",
     "subtitle": "CRMV, alvará sanitário, CNAE e tributação para o veterinário que quer operar via PJ",
@@ -2888,7 +3282,7 @@
     ]
   },
   {
-    "id": 130,
+    "id": 146,
     "slug": "o-que-e-junta-comercial",
     "title": "O que é Junta Comercial: o que significa e como funciona na prática",
     "excerpt": "O órgão estadual onde toda empresa precisa se registrar para existir oficialmente.",
@@ -2911,7 +3305,7 @@
     ]
   },
   {
-    "id": 131,
+    "id": 147,
     "slug": "open-finance-beneficios-para-pequenas-empresas",
     "title": "Open Finance: o que é e como pode beneficiar pequenas empresas",
     "excerpt": "Compartilhar dados financeiros de forma segura e consentida pode facilitar acesso a crédito mais barato.",
@@ -2932,7 +3326,7 @@
     ]
   },
   {
-    "id": 132,
+    "id": 148,
     "slug": "pessoa-fisica-ou-juridica-para-prestar-servico",
     "title": "Pessoa física ou jurídica para prestar serviço: qual a diferença real",
     "excerpt": "A decisão mais básica de quem está começando a prestar serviço de forma recorrente.",
@@ -2955,7 +3349,7 @@
     ]
   },
   {
-    "id": 133,
+    "id": 149,
     "slug": "mei-como-emitir-das-e-o-que-fazer-em-atraso",
     "title": "MEI: como emitir o DAS e o que fazer em caso de atraso",
     "excerpt": "O DAS-MEI é o boleto mensal que mantém a empresa regularizada — pagar em atraso tem solução simples, mas não deveria ser hábito.",
@@ -2976,7 +3370,7 @@
     ]
   },
   {
-    "id": 134,
+    "id": 150,
     "slug": "como-abrir-papelaria-ou-livraria",
     "title": "Como abrir uma papelaria ou livraria: CNAE e regime tributário",
     "excerpt": "Comércio tradicional com particularidades próprias de tributação — veja o que considerar.",
@@ -3000,7 +3394,7 @@
     ]
   },
   {
-    "id": 135,
+    "id": 151,
     "slug": "psicologo-trocar-de-contador",
     "title": "Psicólogo: como trocar de contador e o que exigir do novo",
     "subtitle": "Fator R, atendimento online, planos de saúde e o que o contador de clínica de psicologia precisa dominar",
@@ -3025,7 +3419,7 @@
     ]
   },
   {
-    "id": 136,
+    "id": 152,
     "slug": "imposto-de-renda-2026-pessoa-juridica",
     "title": "Imposto de Renda 2026: o que muda para pessoa jurídica",
     "excerpt": "Ajustes anuais de tabela e regra costumam passar despercebidos, mas afetam diretamente o cálculo do tributo devido.",
@@ -3046,7 +3440,7 @@
     ]
   },
   {
-    "id": 137,
+    "id": 153,
     "slug": "mei-declaracao-anual-dasn-simei-passo-a-passo",
     "title": "MEI: declaração anual (DASN-SIMEI) passo a passo",
     "excerpt": "É a única declaração anual obrigatória do MEI — simples, mas que não pode ser esquecida.",
@@ -3067,7 +3461,7 @@
     ]
   },
   {
-    "id": 138,
+    "id": 154,
     "slug": "o-que-e-balanco-patrimonial",
     "title": "O que é balanço patrimonial: o que significa e como funciona na prática",
     "excerpt": "A fotografia financeira da empresa em um determinado momento — ativo, passivo e patrimônio líquido.",
@@ -3090,7 +3484,7 @@
     ]
   },
   {
-    "id": 139,
+    "id": 155,
     "slug": "psicologo-como-abrir-empresa",
     "title": "Psicólogo: como abrir empresa e sair do autônomo",
     "subtitle": "CRP, CNAE, Simples Nacional e o que muda na tributação quando o psicólogo opera via CNPJ",
@@ -3115,7 +3509,7 @@
     ]
   },
   {
-    "id": 140,
+    "id": 156,
     "slug": "selic-em-2026-credito-empresarial",
     "title": "Selic em 2026: como as mudanças de juros afetam o crédito empresarial",
     "excerpt": "A taxa básica de juros influencia diretamente o custo de qualquer linha de crédito que sua empresa venha a buscar.",
@@ -3136,7 +3530,7 @@
     ]
   },
   {
-    "id": 141,
+    "id": 157,
     "slug": "como-abrir-agencia-de-marketing",
     "title": "Como abrir uma agência de marketing: CNAE e regime tributário",
     "excerpt": "Do freelancer solo à agência com equipe — veja a estrutura certa para cada fase do negócio.",
@@ -3160,7 +3554,7 @@
     ]
   },
   {
-    "id": 142,
+    "id": 158,
     "slug": "toda-empresa-comeca-com-uma-contabilidade",
     "title": "Toda empresa começa com uma contabilidade. Nem toda contabilidade acompanha o que a empresa se torna.",
     "excerpt": "A contabilidade é uma das primeiras decisões estratégicas de um negócio — mas raramente acompanha a evolução da empresa.",
@@ -3182,7 +3576,7 @@
     ]
   },
   {
-    "id": 143,
+    "id": 159,
     "slug": "documentos-necessarios-para-abrir-uma-empresa",
     "title": "Documentos necessários para abrir uma empresa: checklist completo",
     "excerpt": "Reunir tudo antes de começar o processo evita ida e volta entre órgãos e atraso na abertura.",
@@ -3202,7 +3596,7 @@
     ]
   },
   {
-    "id": 144,
+    "id": 160,
     "slug": "desenquadramento-de-mei-como-migrar",
     "title": "Desenquadramento de MEI: como migrar para outro tipo de empresa",
     "excerpt": "Migrar do MEI para uma estrutura maior é um processo formal — não basta simplesmente faturar mais.",
@@ -3223,7 +3617,7 @@
     ]
   },
   {
-    "id": 145,
+    "id": 161,
     "slug": "advogado-trocar-de-contador",
     "title": "Advogado: como trocar de contador e o que o novo precisa entender",
     "subtitle": "Honorários de êxito, Anexo IV do Simples e as obrigações específicas da sociedade de advogados",
@@ -3248,7 +3642,7 @@
     ]
   },
   {
-    "id": 146,
+    "id": 162,
     "slug": "sociedade-de-fato-riscos-de-empreender-sem-contrato",
     "title": "Sociedade de fato: os riscos de empreender com outra pessoa sem contrato formal",
     "excerpt": "Mesmo sem contrato escrito, a Justiça pode reconhecer uma sociedade — e isso traz consequências para quem nunca formalizou nada.",
@@ -3269,7 +3663,7 @@
     ]
   },
   {
-    "id": 147,
+    "id": 163,
     "slug": "o-que-e-livro-caixa",
     "title": "O que é livro caixa: o que significa e quem precisa ter",
     "excerpt": "Um controle simples, mas exigido em situações específicas de fiscalização e comprovação de renda.",
@@ -3292,7 +3686,7 @@
     ]
   },
   {
-    "id": 148,
+    "id": 164,
     "slug": "como-reduzir-custos-fixos-da-empresa",
     "title": "Como reduzir custos fixos da empresa sem comprometer a operação",
     "excerpt": "Cortar custo errado prejudica o negócio — veja onde geralmente existe gordura para reduzir com segurança.",
@@ -3315,7 +3709,7 @@
     ]
   },
   {
-    "id": 149,
+    "id": 165,
     "slug": "existe-um-momento-em-que-o-negocio-cresce",
     "title": "Existe um momento em que o negócio cresce. Existe outro em que o empresário precisa crescer junto.",
     "excerpt": "Empresas crescem em ritmo diferente de seus fundadores — e nesse descompasso muitas empresas perdem o eixo sem perceber.",
@@ -3337,7 +3731,7 @@
     ]
   },
   {
-    "id": 150,
+    "id": 166,
     "slug": "mei-faturamento-passou-do-limite-o-que-acontece",
     "title": "MEI: o que acontece quando o faturamento passa do limite anual",
     "excerpt": "Passar do limite não é necessariamente um problema — desde que a empresa saiba o que fazer a seguir.",
@@ -3358,7 +3752,7 @@
     ]
   },
   {
-    "id": 151,
+    "id": 167,
     "slug": "advogado-como-abrir-sociedade-de-advogados",
     "title": "Advogado: como abrir sociedade de advogados ou empresa de serviços jurídicos",
     "subtitle": "OAB, CNPJ, Simples Nacional e as regras específicas para PJ advocatícia",
@@ -3383,7 +3777,7 @@
     ]
   },
   {
-    "id": 152,
+    "id": 168,
     "slug": "contratos-de-parceria-e-comissao",
     "title": "Contratos de parceria e comissão: como estruturar sem ambiguidade",
     "excerpt": "Parceria comercial sem contrato claro sobre comissão é terreno fértil para mal-entendido e disputa.",
@@ -3404,7 +3798,7 @@
     ]
   },
   {
-    "id": 153,
+    "id": 169,
     "slug": "o-que-e-dre",
     "title": "O que é DRE: o que significa e como funciona na prática",
     "excerpt": "O relatório que mostra se a empresa deu lucro ou prejuízo no período — e como lê-lo sem ser contador.",
@@ -3428,7 +3822,7 @@
     ]
   },
   {
-    "id": 154,
+    "id": 170,
     "slug": "novas-regras-de-ecommerce-2026",
     "title": "Novas regras de e-commerce: o que muda para quem vende online em 2026",
     "excerpt": "A regulação do comércio eletrônico tem evoluído rápido — acompanhar essas mudanças evita surpresa fiscal e operacional.",
@@ -3449,7 +3843,7 @@
     ]
   },
   {
-    "id": 155,
+    "id": 171,
     "slug": "boa-contabilidade-nao-aparece-quando-tudo-vai-bem",
     "title": "Boa contabilidade não aparece quando tudo vai bem, mas ela deve sempre estar presente ainda assim.",
     "excerpt": "A experiência do cliente em contabilidade é construída na constância, não na crise.",
@@ -3470,7 +3864,7 @@
     ]
   },
   {
-    "id": 156,
+    "id": 172,
     "slug": "contador-tradicional-ou-online-qual-escolher",
     "title": "Contador tradicional ou online: qual escolher para sua empresa",
     "excerpt": "O modelo de contabilidade mudou nos últimos anos — veja o que considerar além do preço.",
@@ -3493,7 +3887,7 @@
     ]
   },
   {
-    "id": 157,
+    "id": 173,
     "slug": "abertura-de-empresa-para-estrangeiros-no-brasil",
     "title": "Abertura de empresa para estrangeiros residentes no Brasil: o que muda no processo",
     "excerpt": "Estrangeiro residente pode abrir empresa no Brasil, mas alguns documentos adicionais entram no processo.",
@@ -3514,7 +3908,7 @@
     ]
   },
   {
-    "id": 158,
+    "id": 174,
     "slug": "mei-pode-ter-funcionario-regras-e-limites",
     "title": "MEI pode ter funcionário? Regras e limites dessa contratação",
     "excerpt": "O MEI pode contratar, mas só um funcionário — e com regras específicas que diferem da CLT comum.",
@@ -3535,7 +3929,7 @@
     ]
   },
   {
-    "id": 159,
+    "id": 175,
     "slug": "dentista-trocar-de-contabilidade",
     "title": "Dentista: como trocar de contabilidade e o que exigir do novo contador",
     "subtitle": "Fator R, convênios odontológicos e o que o escritório precisa entender sobre clínica odontológica",
@@ -3560,7 +3954,7 @@
     ]
   },
   {
-    "id": 160,
+    "id": 176,
     "slug": "marca-registrada-uso-indevido-por-terceiros",
     "title": "Marca registrada: o que fazer em caso de uso indevido por terceiros",
     "excerpt": "Descobrir que outra empresa está usando sua marca não resolve sozinho — existe um caminho formal a seguir.",
@@ -3581,7 +3975,7 @@
     ]
   },
   {
-    "id": 161,
+    "id": 177,
     "slug": "como-abrir-petshop",
     "title": "Como abrir um petshop: CNAE, regime tributário e licenças",
     "excerpt": "Venda de produtos e prestação de serviço (banho, tosa) no mesmo negócio — veja como formalizar os dois.",
@@ -3605,7 +3999,7 @@
     ]
   },
   {
-    "id": 162,
+    "id": 178,
     "slug": "economia-para-pequenas-empresas-segundo-semestre-2026",
     "title": "O que esperar da economia para pequenas empresas no segundo semestre de 2026",
     "excerpt": "Juros, inflação e crédito devem seguir pautando o planejamento financeiro de quem tem pequeno negócio.",
@@ -3626,7 +4020,7 @@
     ]
   },
   {
-    "id": 163,
+    "id": 179,
     "slug": "confianca-nao-e-estrategia-e-ponto-de-partida",
     "title": "Confiança não é estratégia. É ponto de partida.",
     "excerpt": "Pequenos empresários frequentemente confundem confiança pessoal com competência técnica ao delegar áreas como financeiro e contabilidade.",
@@ -3647,7 +4041,7 @@
     ]
   },
   {
-    "id": 164,
+    "id": 180,
     "slug": "como-abrir-uma-holding-patrimonial-passo-a-passo",
     "title": "Como abrir uma holding patrimonial: passo a passo",
     "excerpt": "Organizar o patrimônio familiar numa estrutura própria exige planejamento, não só vontade de 'economizar imposto'.",
@@ -3669,7 +4063,7 @@
     ]
   },
   {
-    "id": 165,
+    "id": 181,
     "slug": "mei-como-emitir-nota-fiscal-corretamente",
     "title": "MEI: como emitir nota fiscal corretamente",
     "excerpt": "Mesmo no regime mais simples do país, emitir nota errada gera dor de cabeça depois.",
@@ -3690,7 +4084,7 @@
     ]
   },
   {
-    "id": 166,
+    "id": 182,
     "slug": "dentista-como-abrir-clinica-propria",
     "title": "Dentista: como abrir clínica odontológica e estruturar a PJ",
     "subtitle": "CRO, alvará sanitário, Simples Nacional e o que muda quando o dentista opera via CNPJ",
@@ -3715,7 +4109,7 @@
     ]
   },
   {
-    "id": 167,
+    "id": 183,
     "slug": "o-que-e-nota-fiscal-eletronica",
     "title": "O que é nota fiscal eletrônica: o que significa e como funciona na prática",
     "excerpt": "NF-e, NFS-e, NFC-e — entenda as diferenças entre as siglas mais comuns de nota fiscal.",
@@ -3738,7 +4132,7 @@
     ]
   },
   {
-    "id": 168,
+    "id": 184,
     "slug": "como-funciona-um-processo-trabalhista",
     "title": "Como funciona um processo trabalhista: visão geral para o empregador",
     "excerpt": "Entender as etapas do processo ajuda a reagir com mais calma e menos improviso quando ele acontece.",
@@ -3759,7 +4153,7 @@
     ]
   },
   {
-    "id": 169,
+    "id": 185,
     "slug": "o-que-e-darf",
     "title": "O que é DARF: o que significa e para que serve",
     "excerpt": "O documento usado para pagar tributos federais fora do DAS unificado.",
@@ -3782,7 +4176,7 @@
     ]
   },
   {
-    "id": 170,
+    "id": 186,
     "slug": "sociedade-entre-amigos-o-que-avaliar",
     "title": "Sociedade entre amigos: o que avaliar antes de formalizar o negócio",
     "excerpt": "Amizade não é garantia de boa sociedade — e sociedade malfeita costuma custar tanto o negócio quanto a amizade.",
@@ -3804,7 +4198,7 @@
     ]
   },
   {
-    "id": 171,
+    "id": 187,
     "slug": "a-diferenca-entre-ter-contabilidade-e-ser-bem-atendido",
     "title": "A diferença entre ter uma contabilidade e ser bem atendido por ela.",
     "excerpt": "Muitas contabilidades se refugiam na burocracia e no distanciamento técnico, cumprindo obrigações sem se envolver com a realidade do cliente.",
@@ -3826,7 +4220,7 @@
     ]
   },
   {
-    "id": 172,
+    "id": 188,
     "slug": "medico-trocar-de-contabilidade",
     "title": "Médico: como trocar de contabilidade e o que exigir do novo escritório",
     "subtitle": "Fator R, plantões, notas para planos de saúde e o que o contador médico precisa dominar",
@@ -3851,7 +4245,7 @@
     ]
   },
   {
-    "id": 173,
+    "id": 189,
     "slug": "direito-trabalhista-basico-para-empregadores",
     "title": "Direito trabalhista básico que todo empregador precisa saber",
     "excerpt": "Desconhecer regras trabalhistas básicas é a porta de entrada mais comum para processos evitáveis.",
@@ -3873,7 +4267,7 @@
     ]
   },
   {
-    "id": 174,
+    "id": 190,
     "slug": "como-abrir-academia-ou-estudio-fitness",
     "title": "Como abrir uma academia ou estúdio fitness: CNAE e regime tributário",
     "excerpt": "Do personal trainer autônomo ao estúdio com equipe — veja a estrutura certa para cada porte.",
@@ -3897,7 +4291,7 @@
     ]
   },
   {
-    "id": 175,
+    "id": 191,
     "slug": "mentiras-bem-contadas-custam-caro",
     "title": "Mentiras bem contadas custam caro para quem acredita em fórmulas prontas.",
     "excerpt": "Promessas universais aliviam no curto prazo, mas falham diante da realidade de empresas reais.",
@@ -3918,7 +4312,7 @@
     ]
   },
   {
-    "id": 176,
+    "id": 192,
     "slug": "como-escolher-o-nome-da-empresa",
     "title": "Como escolher o nome da empresa: verificação de disponibilidade e registro",
     "excerpt": "Um nome bonito que já está registrado por outra empresa pode forçar uma mudança cara meses depois de abrir.",
@@ -3940,7 +4334,7 @@
     ]
   },
   {
-    "id": 177,
+    "id": 193,
     "slug": "lgpd-para-pequenas-empresas",
     "title": "LGPD para pequenas empresas: o que realmente se aplica ao seu negócio",
     "excerpt": "Não é só para big techs — qualquer empresa que coleta dado de cliente precisa se atentar à lei.",
@@ -3964,7 +4358,7 @@
     ]
   },
   {
-    "id": 178,
+    "id": 194,
     "slug": "o-que-e-inscricao-estadual",
     "title": "O que é inscrição estadual: o que significa e quando é necessária",
     "excerpt": "Obrigatória para quem vende produto — e frequentemente esquecida por quem abre empresa de serviço puro.",
@@ -3987,7 +4381,7 @@
     ]
   },
   {
-    "id": 179,
+    "id": 195,
     "slug": "medico-como-abrir-clinica-propria",
     "title": "Médico: como abrir clínica própria ou empresa de prestação de serviços",
     "subtitle": "CRM, alvará sanitário, CNAE e tributação — o que o médico precisa saber antes de protocolar",
@@ -4012,7 +4406,7 @@
     ]
   },
   {
-    "id": 180,
+    "id": 196,
     "slug": "clausula-de-multa-contratual",
     "title": "Cláusula de multa contratual: como definir um valor justo e que realmente protege",
     "excerpt": "Multa baixa demais não desestimula descumprimento; multa alta demais pode ser revisada judicialmente.",
@@ -4033,7 +4427,7 @@
     ]
   },
   {
-    "id": 181,
+    "id": 197,
     "slug": "autonomo-ou-mei-qual-a-diferenca",
     "title": "Autônomo ou MEI: qual a diferença e quando formalizar",
     "excerpt": "Trabalhar como autônomo sem CNPJ é diferente de ser MEI — entenda as implicações de cada formato.",
@@ -4056,7 +4450,7 @@
     ]
   },
   {
-    "id": 182,
+    "id": 198,
     "slug": "vazamento-de-dados-responsabilidade-da-empresa",
     "title": "Vazamento de dados: qual a responsabilidade da empresa quando isso acontece",
     "excerpt": "A LGPD prevê consequências específicas para empresas que não protegem adequadamente os dados que coletam.",
@@ -4077,7 +4471,7 @@
     ]
   },
   {
-    "id": 183,
+    "id": 199,
     "slug": "fazer-da-contabilidade-um-caminho-nunca-um-obstaculo",
     "title": "Fazer da contabilidade um caminho — nunca um obstáculo.",
     "excerpt": "Para muitos empresários, a contabilidade virou um obstáculo: confunde, gera dependência e pouco orienta.",
@@ -4098,7 +4492,7 @@
     ]
   },
   {
-    "id": 184,
+    "id": 200,
     "slug": "assessor-de-investimentos-trocar-de-contador",
     "title": "Assessor de investimentos: como trocar de contador",
     "subtitle": "O que o novo escritório precisa entender sobre receita de AAI — comissões, rebate e regulação CVM",
@@ -4123,7 +4517,7 @@
     ]
   },
   {
-    "id": 185,
+    "id": 201,
     "slug": "como-abrir-estudio-fotografico",
     "title": "Como abrir um estúdio fotográfico: CNAE e regime tributário",
     "excerpt": "Da foto de casamento ao still para e-commerce — veja como formalizar a atividade fotográfica.",
@@ -4147,7 +4541,7 @@
     ]
   },
   {
-    "id": 186,
+    "id": 202,
     "slug": "lgpd-aplicada-a-contratos-com-clientes",
     "title": "LGPD aplicada a contratos com clientes: o que incluir na prática",
     "excerpt": "Toda empresa que coleta dado de cliente precisa de cláusulas específicas sobre como esses dados são tratados.",
@@ -4169,7 +4563,7 @@
     ]
   },
   {
-    "id": 187,
+    "id": 203,
     "slug": "indicadores-financeiros-essenciais-para-pme",
     "title": "Indicadores financeiros essenciais para PME acompanhar",
     "excerpt": "Você não precisa de dezenas de métricas — só das certas, acompanhadas com regularidade.",
@@ -4192,7 +4586,7 @@
     ]
   },
   {
-    "id": 188,
+    "id": 204,
     "slug": "quanto-tempo-leva-para-abrir-uma-empresa-no-brasil",
     "title": "Quanto tempo realmente leva para abrir uma empresa no Brasil",
     "excerpt": "O prazo varia muito mais por tipo de atividade e município do que muita gente imagina.",
@@ -4213,7 +4607,7 @@
     ]
   },
   {
-    "id": 189,
+    "id": 205,
     "slug": "o-empresario-brasileiro-trabalha-dobrado-para-compensar-o-sistema",
     "title": "O empresário brasileiro trabalha dobrado para compensar o sistema.",
     "excerpt": "O empresário brasileiro trabalha mais não por ambição, mas para compensar um sistema complexo e disfuncional.",
@@ -4234,7 +4628,7 @@
     ]
   },
   {
-    "id": 190,
+    "id": 206,
     "slug": "o-que-e-alvara-de-funcionamento",
     "title": "O que é alvará de funcionamento: o que significa e como obter",
     "excerpt": "A autorização municipal que toda empresa com endereço físico precisa ter.",
@@ -4257,7 +4651,7 @@
     ]
   },
   {
-    "id": 191,
+    "id": 207,
     "slug": "assessor-de-investimentos-como-abrir-empresa",
     "title": "Assessor de investimentos: como abrir empresa sendo AAI",
     "subtitle": "B3, CVM, CNPJ e o enquadramento tributário para o agente autônomo de investimentos",
@@ -4282,7 +4676,7 @@
     ]
   },
   {
-    "id": 192,
+    "id": 208,
     "slug": "como-vender-sua-empresa-passo-a-passo-juridico",
     "title": "Como vender sua empresa: o passo a passo jurídico do processo",
     "excerpt": "Vender uma empresa vai muito além de combinar um preço — exige uma sequência formal de etapas para proteger ambas as partes.",
@@ -4304,7 +4698,7 @@
     ]
   },
   {
-    "id": 193,
+    "id": 209,
     "slug": "planejamento-tributario-anual-o-que-revisar",
     "title": "Planejamento tributário anual: o que revisar todo início de ano",
     "excerpt": "Um checklist simples para começar o ano pagando o imposto certo, não o imposto de inércia.",
@@ -4327,7 +4721,7 @@
     ]
   },
   {
-    "id": 194,
+    "id": 210,
     "slug": "descomplicar-a-contabilidade-e-um-ato-de-respeito",
     "title": "Descomplicar a contabilidade é um ato de respeito com o empresário brasileiro",
     "excerpt": "Somos um país onde falar difícil virou sinônimo de saber muito — e confusão, no Brasil, muitas vezes passa por competência.",
@@ -4348,7 +4742,7 @@
     ]
   },
   {
-    "id": 195,
+    "id": 211,
     "slug": "empresa-individual-slu-vs-sociedade",
     "title": "Empresa individual (SLU) vs sociedade: como decidir na prática",
     "excerpt": "A decisão não é só sobre ter ou não sócio — envolve capital, responsabilidade e o tipo de negócio que você quer construir.",
@@ -4371,7 +4765,7 @@
     ]
   },
   {
-    "id": 196,
+    "id": 212,
     "slug": "como-abrir-empresa-rural",
     "title": "Como abrir uma empresa rural: CNAE, regime e particularidades do agronegócio",
     "excerpt": "Produtor rural tem regras tributárias próprias, diferentes do restante das empresas brasileiras.",
@@ -4395,7 +4789,7 @@
     ]
   },
   {
-    "id": 197,
+    "id": 213,
     "slug": "corretor-de-seguros-trocar-de-contador",
     "title": "Corretor de seguros: como trocar de contador",
     "subtitle": "O que o novo escritório precisa entender sobre comissões, SUSEP e tributação do setor",
@@ -4420,7 +4814,7 @@
     ]
   },
   {
-    "id": 198,
+    "id": 214,
     "slug": "regularizacao-de-imovel-comercial",
     "title": "Regularização de imóvel comercial: o que verificar antes de assinar o contrato de locação",
     "excerpt": "Alugar um imóvel sem a documentação certa pode impedir a emissão do alvará — mesmo com tudo pronto para operar.",
@@ -4441,7 +4835,7 @@
     ]
   },
   {
-    "id": 199,
+    "id": 215,
     "slug": "posso-ter-empresa-e-ser-clt-ao-mesmo-tempo",
     "title": "Posso ter empresa aberta e ser CLT ao mesmo tempo?",
     "excerpt": "É possível na maioria dos casos, mas existem situações específicas em que isso gera conflito real.",
@@ -4462,7 +4856,7 @@
     ]
   },
   {
-    "id": 200,
+    "id": 216,
     "slug": "o-que-e-inss-patronal",
     "title": "O que é INSS patronal: o que significa e como funciona na prática",
     "excerpt": "A parte da contribuição previdenciária que é custo da empresa, não do funcionário.",
@@ -4485,7 +4879,7 @@
     ]
   },
   {
-    "id": 201,
+    "id": 217,
     "slug": "quem-quer-empreender-de-verdade-precisa-tratar-a-empresa-como-empresa",
     "title": "Quem quer empreender de verdade precisa tratar a empresa como empresa.",
     "subtitle": "Muitos empresários tratam a empresa como extensão da renda pessoal",
@@ -4508,7 +4902,7 @@
     ]
   },
   {
-    "id": 202,
+    "id": 218,
     "slug": "corretor-de-seguros-como-abrir-empresa",
     "title": "Corretor de seguros: como abrir empresa e estruturar a PJ",
     "subtitle": "SUSEP, CNAE, regime tributário e o que muda quando o corretor opera via CNPJ",
@@ -4533,7 +4927,7 @@
     ]
   },
   {
-    "id": 203,
+    "id": 219,
     "slug": "clausula-de-confidencialidade-nda",
     "title": "Cláusula de confidencialidade (NDA): quando usar e o que ela protege de fato",
     "excerpt": "Um NDA mal redigido dá a sensação de proteção, mas pode não ter força nenhuma se a informação não for tratada como confidencial.",
@@ -4554,7 +4948,7 @@
     ]
   },
   {
-    "id": 204,
+    "id": 220,
     "slug": "o-que-e-substituicao-tributaria",
     "title": "O que é substituição tributária: o que significa e como funciona na prática",
     "excerpt": "Quando outra empresa da cadeia já paga o imposto por você — entenda essa lógica do ICMS.",
@@ -4577,7 +4971,7 @@
     ]
   },
   {
-    "id": 205,
+    "id": 221,
     "slug": "acao-de-cobranca-contra-cliente-inadimplente",
     "title": "Ação de cobrança contra cliente inadimplente: quando vale a pena judicializar",
     "excerpt": "Processar um cliente tem custo e tempo — entenda quando essa é realmente a melhor estratégia de recuperação de crédito.",
@@ -4598,7 +4992,7 @@
     ]
   },
   {
-    "id": 206,
+    "id": 222,
     "slug": "engenheiro-trocar-de-contador",
     "title": "Engenheiro: como trocar de contador e o que o novo precisa entender",
     "subtitle": "ART, CREA, Fator R e Anexo IV — o que difere a contabilidade de empresa de engenharia",
@@ -4623,7 +5017,7 @@
     ]
   },
   {
-    "id": 207,
+    "id": 223,
     "slug": "simples-ou-lucro-presumido-para-clinica",
     "title": "Simples ou Lucro Presumido para clínica: qual escolher",
     "excerpt": "Clínicas com faturamento mais alto frequentemente encontram essa decisão — veja os critérios.",
@@ -4646,7 +5040,7 @@
     ]
   },
   {
-    "id": 208,
+    "id": 224,
     "slug": "responsabilidade-civil-do-empresario",
     "title": "Responsabilidade civil do empresário: quando o patrimônio pessoal entra em risco",
     "excerpt": "Ter empresa não significa estar automaticamente protegido — entenda os limites reais dessa separação.",
@@ -4666,7 +5060,7 @@
     ]
   },
   {
-    "id": 209,
+    "id": 225,
     "slug": "como-abrir-empresa-de-servico-online-digital",
     "title": "Como abrir uma empresa de prestação de serviço online ou digital",
     "excerpt": "Sem ponto físico, o processo de formalização tem suas próprias particularidades — e algumas armadilhas específicas.",
@@ -4687,7 +5081,7 @@
     ]
   },
   {
-    "id": 210,
+    "id": 226,
     "slug": "clausulas-abusivas-em-contratos",
     "title": "Cláusulas abusivas em contratos: o que evitar ao redigir o seu",
     "excerpt": "Uma cláusula abusiva pode ser anulada judicialmente, fazendo o contrato perder justamente a proteção que deveria oferecer.",
@@ -4708,7 +5102,7 @@
     ]
   },
   {
-    "id": 211,
+    "id": 227,
     "slug": "o-que-e-esocial",
     "title": "O que é eSocial: o que significa e como funciona na prática",
     "excerpt": "O sistema que centraliza as obrigações trabalhistas de qualquer empresa com empregado.",
@@ -4731,7 +5125,7 @@
     ]
   },
   {
-    "id": 212,
+    "id": 228,
     "slug": "piloto-de-drone-trocar-de-contador",
     "title": "Piloto de drone PJ: quando trocar de contador e como tributar serviços de filmagem e mapeamento",
     "excerpt": "Pilotos de drone com CNPJ que atendem clientes de construção civil, agronegócio e produção audiovisual sem separação de CNAEs e sem análise de Fator R estão provavelmente no regime tributário errado.",
@@ -4755,7 +5149,7 @@
     ]
   },
   {
-    "id": 213,
+    "id": 229,
     "slug": "engenheiro-como-abrir-empresa",
     "title": "Engenheiro: como abrir empresa e regularizar a atuação via PJ",
     "subtitle": "CREA, ART, CNAE e o regime tributário certo para engenheiro que presta serviço",
@@ -4780,7 +5174,7 @@
     ]
   },
   {
-    "id": 214,
+    "id": 230,
     "slug": "blindagem-patrimonial-legal",
     "title": "Blindagem patrimonial legal: o que realmente funciona e o que é mito",
     "excerpt": "Boa parte do que circula sobre 'proteger o patrimônio' não tem efeito jurídico real — e pode até gerar problema.",
@@ -4802,7 +5196,7 @@
     ]
   },
   {
-    "id": 215,
+    "id": 231,
     "slug": "agenda-fiscal-anual-o-que-nao-esquecer",
     "title": "Agenda fiscal anual: o que toda empresa não pode esquecer",
     "excerpt": "Um calendário simples das obrigações que se repetem todo ano — e que geram multa quando esquecidas.",
@@ -4825,7 +5219,7 @@
     ]
   },
   {
-    "id": 216,
+    "id": 232,
     "slug": "cerimonialista-trocar-de-contador",
     "title": "Cerimonialista PJ: quando trocar de contador e como tributar corretamente pacotes de eventos",
     "excerpt": "Cerimonialistas com empresa que faturam pacotes fechados (buffet + decoração + coordenação) e pagam DAS sobre o valor bruto sem análise de margem real estão pagando imposto sobre dinheiro que repassam para fornecedores.",
@@ -4849,7 +5243,7 @@
     ]
   },
   {
-    "id": 217,
+    "id": 233,
     "slug": "como-precificar-produtos-ou-servicos",
     "title": "Como precificar produtos ou serviços: guia passo a passo",
     "excerpt": "Preço baseado só na concorrência é um dos erros mais caros de pequenas empresas — veja a abordagem certa.",
@@ -4873,7 +5267,7 @@
     ]
   },
   {
-    "id": 218,
+    "id": 234,
     "slug": "sindico-profissional-trocar-de-contador",
     "title": "Síndico profissional PJ: quando trocar de contador e como escalar a operação condominial",
     "excerpt": "Síndicos profissionais que administram 3 ou mais condomínios e ainda não otimizaram a tributação da empresa — ou que misturam contas do condomínio com as da PJ — precisam de um contador especializado.",
@@ -4897,7 +5291,7 @@
     ]
   },
   {
-    "id": 219,
+    "id": 235,
     "slug": "arquiteto-trocar-de-contador",
     "title": "Arquiteto: como trocar de contador e o que exigir do novo escritório",
     "subtitle": "Fator R, RRTs, ART e o que o contador de arquiteto precisa saber — e muitos não sabem",
@@ -4922,7 +5316,7 @@
     ]
   },
   {
-    "id": 220,
+    "id": 236,
     "slug": "perito-judicial-trocar-de-contador",
     "title": "Perito judicial PJ: quando trocar de contador e como estruturar o recebimento de honorários",
     "excerpt": "Peritos judiciais que recebem honorários do tribunal direto no CPF sem CNPJ, ou que têm empresa mas pagam DAS sem análise de Fator R, estão deixando uma oportunidade tributária significativa na mesa.",
@@ -4946,7 +5340,7 @@
     ]
   },
   {
-    "id": 221,
+    "id": 237,
     "slug": "como-abrir-clinica-medica",
     "title": "Como abrir uma clínica médica: CNAE, regime e licenças sanitárias",
     "excerpt": "Diferente do médico autônomo PJ, a clínica tem exigências próprias de estrutura e responsabilidade técnica.",
@@ -4970,7 +5364,7 @@
     ]
   },
   {
-    "id": 222,
+    "id": 238,
     "slug": "tradutor-interprete-trocar-de-contador",
     "title": "Tradutor e intérprete PJ: quando trocar de contador e como aproveitar isenção de ISS",
     "excerpt": "Tradutores técnicos com clientes no exterior que nunca discutiram exportação de serviços com o contador estão pagando ISS sobre receita internacional indevidamente — e podem recuperar o que foi pago.",
@@ -4994,7 +5388,7 @@
     ]
   },
   {
-    "id": 223,
+    "id": 239,
     "slug": "compensacao-tributaria-o-que-e",
     "title": "Compensação tributária: o que é e como funciona na prática",
     "excerpt": "Em vez de pedir restituição em dinheiro, a empresa pode usar um crédito tributário para abater um débito futuro.",
@@ -5015,7 +5409,7 @@
     ]
   },
   {
-    "id": 224,
+    "id": 240,
     "slug": "arquiteto-como-abrir-empresa",
     "title": "Arquiteto: como abrir empresa e sair do autônomo com segurança",
     "subtitle": "CAU, CNAE, Fator R e o que muda na tributação quando o arquiteto passa para PJ",
@@ -5040,7 +5434,7 @@
     ]
   },
   {
-    "id": 225,
+    "id": 241,
     "slug": "o-que-e-pis-cofins",
     "title": "O que é PIS/COFINS: o que significa e como funciona na prática",
     "excerpt": "Duas contribuições federais que aparecem juntas — e que têm lógica de cálculo diferente conforme o regime.",
@@ -5063,7 +5457,7 @@
     ]
   },
   {
-    "id": 226,
+    "id": 242,
     "slug": "musico-profissional-trocar-de-contador",
     "title": "Músico PJ: quando trocar de contador e como organizar royalties, cachets e produção",
     "excerpt": "Músicos e produtores musicais com CNPJ que misturam royalties de streaming, cachets de show e fees de produção no mesmo DAS sem separação fiscal estão pagando mais do que deveriam.",
@@ -5087,7 +5481,7 @@
     ]
   },
   {
-    "id": 227,
+    "id": 243,
     "slug": "como-parcelar-dividas-tributarias",
     "title": "Como parcelar dívidas tributárias da empresa",
     "excerpt": "Débito em aberto com o fisco não precisa ser pago de uma vez — veja como funciona o parcelamento.",
@@ -5110,7 +5504,7 @@
     ]
   },
   {
-    "id": 228,
+    "id": 244,
     "slug": "o-que-e-holding",
     "title": "O que é Holding: o que significa e por que empresas usam essa estrutura",
     "excerpt": "Não é só para grandes grupos econômicos — pequenas e médias empresas também usam holding para organizar patrimônio.",
@@ -5132,7 +5526,7 @@
     ]
   },
   {
-    "id": 229,
+    "id": 245,
     "slug": "o-que-e-regime-tributario",
     "title": "O que é regime tributário: o que significa e quais existem no Brasil",
     "excerpt": "A decisão que define quanto e como a empresa paga imposto — entenda as opções disponíveis.",
@@ -5155,7 +5549,7 @@
     ]
   },
   {
-    "id": 230,
+    "id": 246,
     "slug": "corretor-de-imoveis-trocar-de-contador",
     "title": "Corretor de imóveis: como trocar de contador e o que exigir do novo",
     "subtitle": "O que o escritório contábil precisa entender sobre corretagem imobiliária para atender bem",
@@ -5180,7 +5574,7 @@
     ]
   },
   {
-    "id": 231,
+    "id": 247,
     "slug": "engenheiro-de-software-trocar-de-contador",
     "title": "Engenheiro de software PJ: quando trocar de contador e como maximizar o Fator R",
     "excerpt": "Engenheiros de software com faturamento de R$ 20.000/mês que nunca tiveram Fator R calculado pelo contador estão perdendo R$ 1.900/mês — e a troca de contador pode resolver isso em 30 dias.",
@@ -5204,7 +5598,7 @@
     ]
   },
   {
-    "id": 232,
+    "id": 248,
     "slug": "mei-ou-slu-para-comercio",
     "title": "MEI ou SLU para comércio: qual escolher",
     "excerpt": "No varejo, a decisão entre os dois regimes tem particularidades próprias — veja o que considerar.",
@@ -5227,7 +5621,7 @@
     ]
   },
   {
-    "id": 233,
+    "id": 249,
     "slug": "desenvolvedor-mobile-trocar-de-contador",
     "title": "Desenvolvedor mobile PJ: quando trocar de contador e como otimizar tributação de apps",
     "excerpt": "Devs mobile (Flutter, React Native, Swift, Kotlin) que nunca tiveram Fator R calculado pelo contador e que têm receita da App Store ou Play Store sem orientação fiscal específica estão pagando imposto desnecessário.",
@@ -5251,7 +5645,7 @@
     ]
   },
   {
-    "id": 234,
+    "id": 250,
     "slug": "juros-e-multa-em-atraso-de-tributo",
     "title": "Cálculo de juros e multa em atraso de tributo: como funciona na prática",
     "excerpt": "O valor da dívida cresce mais rápido do que parece — entender a fórmula ajuda a decidir entre pagar logo ou parcelar.",
@@ -5272,7 +5666,7 @@
     ]
   },
   {
-    "id": 235,
+    "id": 251,
     "slug": "o-que-e-icms",
     "title": "O que é ICMS: o que significa e como funciona na prática",
     "excerpt": "O imposto estadual que incide sobre a circulação de mercadorias — e que varia de estado para estado.",
@@ -5296,7 +5690,7 @@
     ]
   },
   {
-    "id": 236,
+    "id": 252,
     "slug": "corretor-de-imoveis-como-abrir-empresa",
     "title": "Corretor de imóveis: como abrir empresa e sair do autônomo",
     "subtitle": "CRECI, CNAE, regime tributário e por que a PJ pode reduzir muito o imposto do corretor",
@@ -5321,7 +5715,7 @@
     ]
   },
   {
-    "id": 237,
+    "id": 253,
     "slug": "analista-de-dados-trocar-de-contador",
     "title": "Analista de dados PJ: quando trocar de contador e otimizar tributação de BI e data science",
     "excerpt": "Analistas de dados e cientistas de dados que pagam mais de 10% de DAS no Simples ou que nunca discutiram exportação de serviços com clientes no exterior estão deixando dinheiro na mesa.",
@@ -5345,7 +5739,7 @@
     ]
   },
   {
-    "id": 238,
+    "id": 254,
     "slug": "contabilidade-consultiva-vs-operacional",
     "title": "Contabilidade consultiva vs operacional: qual a diferença",
     "subtitle": "E por que entender essa distinção muda o que você espera do seu escritório",
@@ -5370,7 +5764,7 @@
     ]
   },
   {
-    "id": 239,
+    "id": 255,
     "slug": "o-que-e-razao-social",
     "title": "O que é razão social: o que significa e a diferença com nome fantasia",
     "excerpt": "Razão social, nome fantasia e marca são três coisas diferentes — e a confusão entre elas é comum.",
@@ -5393,7 +5787,7 @@
     ]
   },
   {
-    "id": 240,
+    "id": 256,
     "slug": "simples-nacional-exclusao-do-regime",
     "title": "Simples Nacional: motivos de exclusão do regime e como evitar",
     "excerpt": "A exclusão pode ser por opção da empresa ou de ofício pela Receita — e a segunda costuma pegar o empresário de surpresa.",
@@ -5414,7 +5808,7 @@
     ]
   },
   {
-    "id": 241,
+    "id": 257,
     "slug": "economista-trocar-de-contador",
     "title": "Economista PJ: quando trocar de contador e como otimizar a tributação da consultoria econômica",
     "excerpt": "Economistas consultores que pagam alíquota acima de 13% sobre honorários provavelmente estão no regime errado — Simples com Fator R ou Lucro Presumido podem fazer diferença de R$ 2.000/mês.",
@@ -5438,7 +5832,7 @@
     ]
   },
   {
-    "id": 242,
+    "id": 258,
     "slug": "como-calcular-ponto-de-equilibrio",
     "title": "Como calcular o ponto de equilíbrio do seu negócio",
     "excerpt": "O número que mostra exatamente quanto você precisa vender para não ter prejuízo nem lucro.",
@@ -5461,7 +5855,7 @@
     ]
   },
   {
-    "id": 243,
+    "id": 259,
     "slug": "farmaceutico-trocar-de-contador",
     "title": "Farmacêutico PJ: quando trocar de contador e como garantir eficiência fiscal",
     "excerpt": "Farmacêuticos que prestam consultoria regulatória ou atenção farmacêutica via CNPJ e pagam mais de 10% de DAS provavelmente estão no regime errado — e a culpa é do contador.",
@@ -5485,7 +5879,7 @@
     ]
   },
   {
-    "id": 244,
+    "id": 260,
     "slug": "o-que-e-simples-nacional",
     "title": "O que é Simples Nacional: o que significa e como funciona na prática",
     "excerpt": "O regime tributário mais usado por pequenas empresas no Brasil — entenda a lógica por trás do nome.",
@@ -5508,7 +5902,7 @@
     ]
   },
   {
-    "id": 245,
+    "id": 261,
     "slug": "endereco-fiscal-sede-propria-alugada-ou-compartilhada",
     "title": "Endereço fiscal: sede própria, alugada ou compartilhada",
     "subtitle": "Como cada opção impacta o alvará, o custo e as exigências do município",
@@ -5533,7 +5927,7 @@
     ]
   },
   {
-    "id": 246,
+    "id": 262,
     "slug": "clt-ou-pj-para-designer",
     "title": "CLT ou PJ para designer: qual vale mais a pena",
     "excerpt": "Designer é uma das profissões com maior diferença de tributação entre os dois regimes — veja a conta.",
@@ -5556,7 +5950,7 @@
     ]
   },
   {
-    "id": 247,
+    "id": 263,
     "slug": "enfermeiro-trocar-de-contador",
     "title": "Enfermeiro PJ: quando trocar de contador e o que exigir do novo",
     "excerpt": "Enfermeiros com empresa que pagam DAS sem Fator R ativo, que nunca viram o contador calcular pró-labore ou que enfrentam atrasos constantes têm sinal claro de que é hora de trocar.",
@@ -5580,7 +5974,7 @@
     ]
   },
   {
-    "id": 248,
+    "id": 264,
     "slug": "o-que-e-nire",
     "title": "O que é NIRE: o que significa e para que serve esse número",
     "excerpt": "Esse número de registro é tão importante quanto o CNPJ, mas costuma ser bem menos conhecido pelo empresário.",
@@ -5601,7 +5995,7 @@
     ]
   },
   {
-    "id": 249,
+    "id": 265,
     "slug": "migracao-de-sistema-contabil-o-que-muda",
     "title": "Migração de sistema contábil: o que muda para a empresa",
     "subtitle": "Quando o novo escritório usa um sistema diferente, o que isso significa para as suas notas fiscais e relatórios",
@@ -5626,7 +6020,7 @@
     ]
   },
   {
-    "id": 250,
+    "id": 266,
     "slug": "como-abrir-escola-ou-curso-livre",
     "title": "Como abrir uma escola ou curso livre: CNAE, regime e licenças",
     "excerpt": "Da escola de idiomas ao curso técnico livre — veja o que muda na formalização do setor educacional.",
@@ -5650,7 +6044,7 @@
     ]
   },
   {
-    "id": 251,
+    "id": 267,
     "slug": "icms-na-importacao",
     "title": "ICMS na importação: o que muda quando sua empresa compra do exterior",
     "excerpt": "Importar gera obrigações tributárias adicionais que vão além do imposto de importação federal.",
@@ -5671,7 +6065,7 @@
     ]
   },
   {
-    "id": 252,
+    "id": 268,
     "slug": "personal-organizer-como-abrir-empresa",
     "title": "Personal organizer: como abrir empresa e cobrar pelos serviços de organização de ambientes",
     "excerpt": "Personal organizers que atendem clientes residenciais e corporativos precisam de CNPJ para emitir NFS-e — e a estrutura certa permite faturamento recorrente via pacotes mensais com tributação mínima.",
@@ -5695,7 +6089,7 @@
     ]
   },
   {
-    "id": 253,
+    "id": 269,
     "slug": "o-que-e-mei",
     "title": "O que é MEI: o que significa e como funciona na prática",
     "excerpt": "O regime de formalização mais simples do Brasil — entenda como funciona antes de abrir o seu.",
@@ -5719,7 +6113,7 @@
     ]
   },
   {
-    "id": 254,
+    "id": 270,
     "slug": "plano-de-expansao-quando-e-hora-de-crescer",
     "title": "Plano de expansão: como saber se é realmente hora de crescer",
     "excerpt": "Crescer por crescer, sem capacidade de sustentar a operação maior, é uma das formas mais comuns de quebrar um negócio saudável.",
@@ -5740,7 +6134,7 @@
     ]
   },
   {
-    "id": 255,
+    "id": 271,
     "slug": "abertura-de-empresa-com-socio-o-que-definir",
     "title": "Abertura de empresa com sócio: o que definir antes de assinar",
     "subtitle": "As conversas difíceis que evitam conflitos futuros — e o que precisa estar no papel",
@@ -5765,7 +6159,7 @@
     ]
   },
   {
-    "id": 256,
+    "id": 272,
     "slug": "piloto-de-drone-como-abrir-empresa",
     "title": "Piloto de drone: como abrir empresa para filmagem aérea e serviços comerciais com VANT",
     "excerpt": "Pilotos de drone que prestam serviços comerciais de filmagem, mapeamento ou inspeção precisam de CNPJ, homologação ANAC e autorização DECEA — e a empresa organiza tudo com tributação eficiente.",
@@ -5789,7 +6183,7 @@
     ]
   },
   {
-    "id": 257,
+    "id": 273,
     "slug": "gestao-de-contratos-com-clientes",
     "title": "Gestão de contratos com clientes: SLA, renovação e o que monitorar",
     "excerpt": "Um contrato bem redigido perde valor se ninguém acompanha prazos de renovação e cumprimento de cláusulas.",
@@ -5810,7 +6204,7 @@
     ]
   },
   {
-    "id": 258,
+    "id": 274,
     "slug": "cerimonialista-como-abrir-empresa",
     "title": "Cerimonialista e wedding planner: como abrir empresa para eventos e casamentos",
     "excerpt": "Cerimonialistas que coordenam casamentos e eventos corporativos com orçamento acima de R$ 20.000 precisam de CNPJ — e a diferença tributária em relação ao autônomo pode financiar mais de dois eventos por ano.",
@@ -5834,7 +6228,7 @@
     ]
   },
   {
-    "id": 259,
+    "id": 275,
     "slug": "trocar-de-contador-durante-o-ano-fiscal",
     "title": "Trocar de contador durante o ano fiscal: o que muda na prática",
     "subtitle": "Como garantir continuidade das obrigações quando a migração acontece no meio do ano",
@@ -5859,7 +6253,7 @@
     ]
   },
   {
-    "id": 260,
+    "id": 276,
     "slug": "o-que-e-anexo-simples-nacional",
     "title": "O que é Anexo do Simples Nacional: o que significa e como saber o seu",
     "excerpt": "A atividade da sua empresa determina qual dos cinco anexos define sua tabela de alíquotas.",
@@ -5881,7 +6275,7 @@
     ]
   },
   {
-    "id": 261,
+    "id": 277,
     "slug": "sindico-profissional-como-abrir-empresa",
     "title": "Síndico profissional: como abrir empresa e cobrar honorários de administração condominial",
     "excerpt": "Síndicos profissionais que administram múltiplos condomínios precisam de CNPJ para contratar funcionários, emitir NFS-e e se proteger juridicamente — com alíquota acessível no Simples Nacional.",
@@ -5905,7 +6299,7 @@
     ]
   },
   {
-    "id": 262,
+    "id": 278,
     "slug": "vale-a-pena-automatizar-um-processo",
     "title": "Como avaliar se vale a pena automatizar um processo da sua empresa",
     "excerpt": "Automatizar o processo errado, ou automatizar cedo demais, pode custar mais do que continuar fazendo manualmente.",
@@ -5926,7 +6320,7 @@
     ]
   },
   {
-    "id": 263,
+    "id": 279,
     "slug": "contrato-social-o-que-nao-pode-faltar",
     "title": "Contrato social: o que não pode faltar no documento",
     "subtitle": "Cláusulas que protegem os sócios, definem a operação e evitam conflitos futuros",
@@ -5951,7 +6345,7 @@
     ]
   },
   {
-    "id": 264,
+    "id": 280,
     "slug": "perito-judicial-como-abrir-empresa",
     "title": "Perito judicial: como abrir empresa para emitir laudos e receber honorários periciais",
     "excerpt": "Peritos judiciais que atuam nos tribunais precisam de CNPJ para receber honorários periciais — e a estrutura certa pode reduzir a tributação de 27,5% para 6%.",
@@ -5975,7 +6369,7 @@
     ]
   },
   {
-    "id": 265,
+    "id": 281,
     "slug": "politica-de-descontos-sem-destruir-margem",
     "title": "Política de descontos e promoções sem destruir a margem do negócio",
     "excerpt": "Dar desconto sem critério é, na prática, abrir mão de parte do lucro sem nem saber quanto está abrindo mão.",
@@ -5996,7 +6390,7 @@
     ]
   },
   {
-    "id": 266,
+    "id": 282,
     "slug": "tradutor-interprete-como-abrir-empresa",
     "title": "Tradutor e intérprete: como abrir empresa e emitir nota fiscal de tradução técnica",
     "excerpt": "Tradutores e intérpretes que atendem clientes corporativos, jurídicos e governamentais precisam de CNPJ para emitir NFS-e — e a isenção de ISS para tradução de idiomas pode reduzir a carga em até 3%.",
@@ -6020,7 +6414,7 @@
     ]
   },
   {
-    "id": 267,
+    "id": 283,
     "slug": "documentos-que-o-contador-deve-entregar-na-saida",
     "title": "Documentos que o contador deve entregar na saída",
     "subtitle": "O que é seu por direito e como garantir que nada fique para trás na troca de escritório",
@@ -6045,7 +6439,7 @@
     ]
   },
   {
-    "id": 268,
+    "id": 284,
     "slug": "parcelamento-de-debitos-tributarios",
     "title": "Parcelamento de débitos tributários: como funciona e quando vale a pena aderir",
     "excerpt": "Parcelar uma dívida fiscal pode regularizar a empresa rapidamente — mas exige disciplina para não acumular nova dívida em paralelo.",
@@ -6066,7 +6460,7 @@
     ]
   },
   {
-    "id": 269,
+    "id": 285,
     "slug": "musico-profissional-como-abrir-empresa",
     "title": "Músico profissional: como abrir empresa para shows, produções e licenciamento",
     "excerpt": "Músicos e produtores musicais que recebem cachet de shows, royalties de streaming e fees de produção pagam imposto muito acima do necessário sem CNPJ — e a empresa resolve os três de uma vez.",
@@ -6090,7 +6484,7 @@
     ]
   },
   {
-    "id": 270,
+    "id": 286,
     "slug": "gestao-de-qualidade-no-atendimento-ao-cliente",
     "title": "Gestão de qualidade no atendimento ao cliente: o diferencial que pequenas empresas podem explorar",
     "excerpt": "Empresas pequenas não competem em preço com as grandes — mas podem competir, e ganhar, em atendimento.",
@@ -6111,7 +6505,7 @@
     ]
   },
   {
-    "id": 271,
+    "id": 287,
     "slug": "prazo-real-para-abrir-empresa",
     "title": "Prazo real para abrir empresa: o que ninguém avisa antes",
     "subtitle": "Do protocolo ao primeiro documento fiscal: quanto tempo leva cada etapa e onde você vai esperar",
@@ -6136,7 +6530,7 @@
     ]
   },
   {
-    "id": 272,
+    "id": 288,
     "slug": "engenheiro-de-software-como-abrir-empresa",
     "title": "Engenheiro de software: como abrir empresa e estruturar contratos de desenvolvimento",
     "excerpt": "Engenheiros de software (backend, fullstack, arquiteto de sistemas) que prestam serviços via PJ precisam de CNPJ — e o Fator R é o principal mecanismo de economia tributária no Simples Nacional.",
@@ -6160,7 +6554,7 @@
     ]
   },
   {
-    "id": 273,
+    "id": 289,
     "slug": "como-abrir-uma-filial-ou-segunda-unidade",
     "title": "Como abrir uma filial ou segunda unidade sem comprometer a primeira",
     "excerpt": "Expandir antes da hora pode drenar o caixa da unidade que já funciona, comprometendo as duas ao mesmo tempo.",
@@ -6181,7 +6575,7 @@
     ]
   },
   {
-    "id": 274,
+    "id": 290,
     "slug": "dentista-pode-ser-mei",
     "title": "Dentista pode ser MEI? Por que não e qual é a alternativa",
     "excerpt": "Dentistas não podem ser MEI — o CFO veda. Veja como abrir empresa e reduzir a carga tributária.",
@@ -6207,7 +6601,7 @@
     ]
   },
   {
-    "id": 275,
+    "id": 291,
     "slug": "o-que-e-due-diligence",
     "title": "O que é Due Diligence: o que significa e quando ela é necessária",
     "excerpt": "Antes de comprar, vender ou investir numa empresa, essa investigação detalhada evita assumir um problema escondido.",
@@ -6228,7 +6622,7 @@
     ]
   },
   {
-    "id": 276,
+    "id": 292,
     "slug": "desenvolvedor-mobile-como-abrir-empresa",
     "title": "Desenvolvedor mobile: como abrir empresa e tributar apps iOS e Android",
     "excerpt": "Desenvolvedores mobile (Flutter, React Native, Swift, Kotlin) que prestam serviços para startups e empresas precisam de CNPJ — e o Fator R pode garantir alíquota de 6% sobre os honorários.",
@@ -6252,7 +6646,7 @@
     ]
   },
   {
-    "id": 277,
+    "id": 293,
     "slug": "gestao-de-tempo-do-empreendedor-delegacao",
     "title": "Gestão de tempo do empreendedor: por que delegar é mais difícil do que parece",
     "excerpt": "Fazer tudo sozinho parece mais rápido no curto prazo — e é exatamente isso que impede o negócio de crescer.",
@@ -6273,7 +6667,7 @@
     ]
   },
   {
-    "id": 278,
+    "id": 294,
     "slug": "analista-de-dados-como-abrir-empresa",
     "title": "Analista de dados: como abrir empresa e tributar serviços de BI, data science e analytics",
     "excerpt": "Analistas de dados e cientistas de dados freelancers que prestam serviços para empresas precisam de CNPJ — e com Fator R, a alíquota no Simples pode cair de 15,5% para 6%.",
@@ -6297,7 +6691,7 @@
     ]
   },
   {
-    "id": 279,
+    "id": 295,
     "slug": "perguntas-para-fazer-antes-de-contratar-contador",
     "title": "Perguntas para fazer antes de contratar contador",
     "subtitle": "As questões que revelam se o escritório realmente entende o seu negócio",
@@ -6322,7 +6716,7 @@
     ]
   },
   {
-    "id": 280,
+    "id": 296,
     "slug": "imunidade-e-isencao-tributaria-diferenca",
     "title": "Imunidade e isenção tributária: qual a diferença entre esses dois conceitos",
     "excerpt": "Os termos são usados como sinônimos no dia a dia, mas têm origem e implicações jurídicas bem diferentes.",
@@ -6343,7 +6737,7 @@
     ]
   },
   {
-    "id": 281,
+    "id": 297,
     "slug": "economista-como-abrir-empresa",
     "title": "Economista: como abrir empresa de consultoria e qual regime tributário escolher",
     "excerpt": "Economistas que prestam consultoria de política econômica, planejamento estratégico ou análise de mercado precisam de CNPJ — e o CORECON exige registro ativo para emissão de laudos e pareceres.",
@@ -6367,7 +6761,7 @@
     ]
   },
   {
-    "id": 282,
+    "id": 298,
     "slug": "indicadores-de-produtividade-da-equipe",
     "title": "Indicadores de produtividade da equipe: o que medir sem criar um ambiente de vigilância",
     "excerpt": "Medir produtividade não precisa significar microgerenciamento — o objetivo é identificar gargalo, não fiscalizar pessoa.",
@@ -6388,7 +6782,7 @@
     ]
   },
   {
-    "id": 283,
+    "id": 299,
     "slug": "capital-social-quanto-definir",
     "title": "Capital social: quanto definir na abertura da empresa",
     "subtitle": "O número que aparece no contrato social tem mais impacto do que parece",
@@ -6413,7 +6807,7 @@
     ]
   },
   {
-    "id": 284,
+    "id": 300,
     "slug": "o-que-e-das",
     "title": "O que é DAS: o que significa e como funciona na prática",
     "excerpt": "É a guia única que reúne, em um só pagamento, os principais tributos das empresas do Simples Nacional.",
@@ -6434,7 +6828,7 @@
     ]
   },
   {
-    "id": 285,
+    "id": 301,
     "slug": "farmaceutico-como-abrir-empresa",
     "title": "Farmacêutico: como abrir empresa de consultoria clínica e atenção farmacêutica",
     "excerpt": "Farmacêuticos que prestam serviços clínicos, consultoria regulatória ou treinamento corporativo precisam de CNPJ — e o Fator R pode garantir alíquota de 6% no Simples Nacional.",
@@ -6458,7 +6852,7 @@
     ]
   },
   {
-    "id": 286,
+    "id": 302,
     "slug": "como-montar-orcamento-anual-simples",
     "title": "Como montar um orçamento anual simples para sua empresa",
     "excerpt": "Sem um orçamento de referência, toda decisão de gasto é tomada no escuro, mês a mês.",
@@ -6479,7 +6873,7 @@
     ]
   },
   {
-    "id": 287,
+    "id": 303,
     "slug": "o-que-verificar-antes-de-contratar-nova-contabilidade",
     "title": "O que verificar antes de contratar nova contabilidade",
     "subtitle": "Os critérios que separam um escritório que entrega do que promete e não executa",
@@ -6504,7 +6898,7 @@
     ]
   },
   {
-    "id": 288,
+    "id": 304,
     "slug": "enfermeiro-como-abrir-empresa",
     "title": "Enfermeiro: como abrir empresa, registrar no COREN e pagar menos imposto",
     "excerpt": "Enfermeiros que prestam serviços de home care, treinamento corporativo ou consultoria de saúde precisam de CNPJ — e o Fator R pode reduzir a alíquota de 15,5% para 6% no Simples Nacional.",
@@ -6528,7 +6922,7 @@
     ]
   },
   {
-    "id": 289,
+    "id": 305,
     "slug": "icms-por-dentro-e-por-fora",
     "title": "ICMS por dentro: o que significa esse cálculo e por que ele confunde tanto gente",
     "excerpt": "O ICMS é calculado de uma forma pouco intuitiva — entender essa lógica evita erro de precificação.",
@@ -6549,7 +6943,7 @@
     ]
   },
   {
-    "id": 290,
+    "id": 306,
     "slug": "social-media-manager-trocar-de-contador",
     "title": "Social media manager: como migrar de contador quando o negócio cresce além do MEI",
     "excerpt": "SMMs que crescem de 3 para 10 clientes frequentemente continuam no MEI por inércia — até descobrir que ultrapassaram o limite há meses e têm imposto atrasado para regularizar.",
@@ -6573,7 +6967,7 @@
     ]
   },
   {
-    "id": 291,
+    "id": 307,
     "slug": "gestao-de-estoque-para-pequenas-empresas",
     "title": "Gestão de estoque para pequenas empresas: o equilíbrio entre faltar e sobrar",
     "excerpt": "Estoque parado é dinheiro parado — mas estoque insuficiente é venda perdida. O equilíbrio exige controle, não sorte.",
@@ -6594,7 +6988,7 @@
     ]
   },
   {
-    "id": 292,
+    "id": 308,
     "slug": "regime-tributario-na-abertura-de-empresa",
     "title": "Regime tributário na abertura de empresa: Simples, Presumido ou Real",
     "subtitle": "A escolha que você faz uma vez por ano — e que define quanto de imposto vai pagar",
@@ -6619,7 +7013,7 @@
     ]
   },
   {
-    "id": 293,
+    "id": 309,
     "slug": "loja-virtual-trocar-de-contador",
     "title": "Loja virtual: quando o contador não entende ICMS de e-commerce e DIFAL",
     "excerpt": "Donos de lojas virtuais que vendem para múltiplos estados e nunca ouviram o contador falar em DIFAL ou protocolo ICMS provavelmente têm um passivo fiscal acumulando silenciosamente.",
@@ -6643,7 +7037,7 @@
     ]
   },
   {
-    "id": 294,
+    "id": 310,
     "slug": "prazo-para-trocar-de-contador",
     "title": "Prazo para trocar de contador: quando fazer e o que muda por época do ano",
     "subtitle": "Qualquer mês funciona — mas há momentos mais tranquilos e momentos que custam mais caro",
@@ -6668,7 +7062,7 @@
     ]
   },
   {
-    "id": 295,
+    "id": 311,
     "slug": "fotografo-profissional-trocar-de-contador",
     "title": "Fotógrafo profissional: como migrar de contador e separar sessão de licenciamento na nota",
     "excerpt": "Fotógrafos que cobram por sessão, edição e licenciamento de imagens em contratos separados raramente encontram um contador que saiba diferenciar ISS de cessão de direitos autorais.",
@@ -6692,7 +7086,7 @@
     ]
   },
   {
-    "id": 296,
+    "id": 312,
     "slug": "o-que-e-csll",
     "title": "O que é CSLL: o que significa e como funciona na prática",
     "excerpt": "Esse tributo costuma andar junto do Imposto de Renda da empresa, mas tem regras e alíquota próprias.",
@@ -6714,7 +7108,7 @@
     ]
   },
   {
-    "id": 297,
+    "id": 313,
     "slug": "malha-fina-como-evitar-cair-nela",
     "title": "Malha fina: como evitar cair nela e o que fazer se isso já aconteceu",
     "excerpt": "Cair na malha fina não significa necessariamente que você fez algo errado — mas resolver rápido evita complicação maior.",
@@ -6735,7 +7129,7 @@
     ]
   },
   {
-    "id": 298,
+    "id": 314,
     "slug": "copywriter-trocar-de-contador",
     "title": "Copywriter: como migrar de contador e garantir que direitos autorais sejam tratados corretamente",
     "excerpt": "Copywriters que cobram por copy + cessão de direitos têm dois tipos de receita no mesmo contrato — e a maioria dos contadores trata os dois da mesma forma, pagando ISS onde não deveria.",
@@ -6759,7 +7153,7 @@
     ]
   },
   {
-    "id": 299,
+    "id": 315,
     "slug": "como-escolher-cnae-certo-e-por-que-errar-sai-caro",
     "title": "Como escolher o CNAE certo e por que errar sai caro",
     "subtitle": "O código que define sua carga tributária, seu alvará e sua elegibilidade ao Simples",
@@ -6784,7 +7178,7 @@
     ]
   },
   {
-    "id": 300,
+    "id": 316,
     "slug": "influenciador-digital-trocar-de-contador",
     "title": "Influenciador digital: como identificar se seu contador sabe tratar barter e gift corretamente",
     "excerpt": "Influenciadores que recebem produtos como gift, fazem parcerias de permuta e cobram publis em formatos diferentes raramente encontram orientação fiscal adequada em escritórios generalistas.",
@@ -6808,7 +7202,7 @@
     ]
   },
   {
-    "id": 301,
+    "id": 317,
     "slug": "creditos-tributarios-que-a-empresa-pode-recuperar",
     "title": "Créditos tributários que a empresa pode recuperar e provavelmente não sabe",
     "excerpt": "Muitas empresas pagam mais imposto do que deveriam por desconhecer créditos a que têm direito.",
@@ -6829,7 +7223,7 @@
     ]
   },
   {
-    "id": 302,
+    "id": 318,
     "slug": "sinais-de-que-e-hora-de-trocar-de-contabilidade",
     "title": "Sinais de que é hora de trocar de contabilidade",
     "subtitle": "Quando a insatisfação com o contador deixa de ser preferência e vira risco para a empresa",
@@ -6854,7 +7248,7 @@
     ]
   },
   {
-    "id": 303,
+    "id": 319,
     "slug": "publisher-trocar-de-contador",
     "title": "Publisher: quando o contador não sabe diferenciar AdSense de conteúdo patrocinado",
     "excerpt": "Publishers com múltiplas fontes de receita (AdSense, publis, afiliados, newsletters pagas) têm a maior complexidade fiscal entre criadores digitais — e raramente encontram isso resolvido em escritórios generalistas.",
@@ -6878,7 +7272,7 @@
     ]
   },
   {
-    "id": 304,
+    "id": 320,
     "slug": "ibs-e-cbs-explicados-na-pratica",
     "title": "IBS e CBS explicados na prática: o que esses dois novos tributos significam",
     "excerpt": "Os dois tributos centrais da reforma tributária substituem cinco impostos diferentes — entenda a lógica por trás dessa unificação.",
@@ -6900,7 +7294,7 @@
     ]
   },
   {
-    "id": 305,
+    "id": 321,
     "slug": "slu-ou-ltda-qual-escolher-antes-de-protocolar",
     "title": "SLU ou LTDA: qual escolher antes de protocolar",
     "subtitle": "A diferença vai além do número de sócios — e impacta responsabilidade, crédito e crescimento",
@@ -6925,7 +7319,7 @@
     ]
   },
   {
-    "id": 306,
+    "id": 322,
     "slug": "expert-mentor-trocar-de-contador",
     "title": "Expert e mentor: por que o contador do seu infoproduto não serve para sua mentoria",
     "excerpt": "Experts que migraram de cursos online para mentorias de alto ticket têm receitas com contrato, parcelamento e ticket médio muito maior — e o contador que servia para o infoprodutor pode não servir para o mentor.",
@@ -6949,7 +7343,7 @@
     ]
   },
   {
-    "id": 307,
+    "id": 323,
     "slug": "streamer-trocar-de-contador",
     "title": "Streamer: como encontrar contador que entende receitas em dólar e brand deals internacionais",
     "excerpt": "Streamers com receitas da Twitch (USD) e brand deals de empresas internacionais raramente encontram orientação adequada em contadores generalistas — e a diferença está na forma de declarar a moeda estrangeira.",
@@ -6973,7 +7367,7 @@
     ]
   },
   {
-    "id": 308,
+    "id": 324,
     "slug": "reforma-tributaria-o-que-muda-para-pequenas-empresas",
     "title": "Reforma tributária: o que muda na prática para pequenas e médias empresas",
     "excerpt": "A transição para o novo sistema será gradual, mas entender a lógica geral desde já evita surpresa mais adiante.",
@@ -6995,7 +7389,7 @@
     ]
   },
   {
-    "id": 309,
+    "id": 325,
     "slug": "checklist-para-trocar-de-contabilidade",
     "title": "Checklist para trocar de contabilidade",
     "subtitle": "Tudo que você precisa verificar, pedir e confirmar antes, durante e depois da migração",
@@ -7020,7 +7414,7 @@
     ]
   },
   {
-    "id": 310,
+    "id": 326,
     "slug": "youtuber-trocar-de-contador",
     "title": "Youtuber: quando o contador não sabe tratar AdSense como exportação de serviços",
     "excerpt": "Youtubers que recebem AdSense da Google Ireland e nunca ouviram o contador falar em exportação de serviços ou isenção de ISS estão provavelmente pagando tributos que não são devidos.",
@@ -7044,7 +7438,7 @@
     ]
   },
   {
-    "id": 311,
+    "id": 327,
     "slug": "retencoes-na-fonte-o-que-sua-empresa-pode-ter-que-reter",
     "title": "Retenções na fonte: o que sua empresa pode ter que reter ao pagar terceiros",
     "excerpt": "Pagar um prestador de serviço sem reter o imposto devido pode transformar a sua empresa na responsável pelo débito.",
@@ -7066,7 +7460,7 @@
     ]
   },
   {
-    "id": 312,
+    "id": 328,
     "slug": "quanto-custa-abrir-empresa-2026",
     "title": "Quanto custa abrir empresa em 2026",
     "subtitle": "Os valores reais — taxas, honorários e custos ocultos que ninguém lista",
@@ -7091,7 +7485,7 @@
     ]
   },
   {
-    "id": 313,
+    "id": 329,
     "slug": "dropshipper-trocar-de-contador",
     "title": "Dropshipper: como identificar se seu contador entende NF-e triangular e ICMS interestadual",
     "excerpt": "Dropshippers que operam com fornecedores em estados diferentes dos clientes têm obrigações de ICMS interestadual que contadores sem experiência em e-commerce raramente dominam.",
@@ -7115,7 +7509,7 @@
     ]
   },
   {
-    "id": 314,
+    "id": 330,
     "slug": "o-que-e-lucro-real",
     "title": "O que é Lucro Real: o que significa e como funciona na prática",
     "excerpt": "Esse regime tributa exatamente o lucro contábil apurado pela empresa — exigindo controle mais detalhado em troca.",
@@ -7137,7 +7531,7 @@
     ]
   },
   {
-    "id": 315,
+    "id": 331,
     "slug": "difal-diferencial-de-aliquota-explicado",
     "title": "DIFAL: o que é o diferencial de alíquota e quando ele se aplica à sua empresa",
     "excerpt": "Vender para outro estado pode gerar uma cobrança adicional de ICMS que muita empresa esquece de calcular.",
@@ -7159,7 +7553,7 @@
     ]
   },
   {
-    "id": 316,
+    "id": 332,
     "slug": "afiliado-digital-trocar-de-contador",
     "title": "Afiliado digital: quando o contador generalista começa a custar mais do que você paga de imposto",
     "excerpt": "Afiliados com comissões em múltiplas plataformas (Hotmart, Amazon, Braip) raramente encontram orientação adequada em escritórios generalistas — e o erro mais comum é declarar tudo como receita de serviço.",
@@ -7183,7 +7577,7 @@
     ]
   },
   {
-    "id": 317,
+    "id": 333,
     "slug": "como-trocar-de-contador-sem-dor-de-cabeca",
     "title": "Como trocar de contador sem dor de cabeça",
     "subtitle": "O processo passo a passo para migrar de contabilidade sem deixar obrigações em aberto",
@@ -7208,7 +7602,7 @@
     ]
   },
   {
-    "id": 318,
+    "id": 334,
     "slug": "o-que-e-ncm",
     "title": "O que é NCM: o que significa e por que esse código aparece em toda nota fiscal",
     "excerpt": "Esse código define, na prática, qual tributação se aplica ao produto — errar ele pode significar pagar o imposto errado.",
@@ -7229,7 +7623,7 @@
     ]
   },
   {
-    "id": 319,
+    "id": 335,
     "slug": "infoprodutor-trocar-de-contador",
     "title": "Infoprodutor: 4 sinais de que seu contador não entende o mercado digital",
     "excerpt": "Infoprodutores que operam na Hotmart, Kiwify ou Eduzz têm obrigações fiscais específicas que contadores generalistas raramente conhecem — e a diferença se traduz em imposto pago a mais.",
@@ -7253,7 +7647,7 @@
     ]
   },
   {
-    "id": 320,
+    "id": 336,
     "slug": "gestao-de-inadimplencia-de-clientes",
     "title": "Gestão de inadimplência de clientes: como reduzir sem perder a venda",
     "excerpt": "Vender bem e não receber é o mesmo que não ter vendido — só que com o custo do produto ou serviço já gasto.",
@@ -7274,7 +7668,7 @@
     ]
   },
   {
-    "id": 321,
+    "id": 337,
     "slug": "checklist-completo-para-abrir-empresa",
     "title": "Checklist completo para abrir empresa em 2025",
     "subtitle": "Cada etapa, na ordem certa, sem surpresa no meio do caminho",
@@ -7299,7 +7693,7 @@
     ]
   },
   {
-    "id": 322,
+    "id": 338,
     "slug": "social-media-manager-como-abrir-empresa",
     "title": "Social media manager: como abrir empresa e estruturar contratos de gestão orgânica",
     "excerpt": "Social media managers que gerenciam perfis de marcas e constroem comunidades precisam de CNPJ para emitir NFS-e de retainer — e o Simples Nacional Anexo III garante alíquota de 6% desde o início.",
@@ -7323,7 +7717,7 @@
     ]
   },
   {
-    "id": 323,
+    "id": 339,
     "slug": "credito-empresarial-linhas-de-financiamento",
     "title": "Crédito empresarial: as linhas de financiamento que toda pequena empresa deveria conhecer",
     "excerpt": "Nem todo crédito é igual — linhas específicas para pequena empresa costumam ter taxas bem melhores que crédito genérico.",
@@ -7345,7 +7739,7 @@
     ]
   },
   {
-    "id": 324,
+    "id": 340,
     "slug": "podcaster-como-abrir-empresa",
     "title": "Podcaster: como abrir empresa e monetizar programa com sponsors e assinaturas",
     "excerpt": "Podcasters que faturam com sponsorships, Patreon e conteúdo exclusivo precisam de CNPJ para firmar contratos com marcas e declarar receitas de plataformas internacionais corretamente.",
@@ -7369,7 +7763,7 @@
     ]
   },
   {
-    "id": 325,
+    "id": 341,
     "slug": "o-que-e-microempresa-e-epp",
     "title": "O que é Microempresa (ME) e EPP: o que significa e qual a diferença entre elas",
     "excerpt": "Essas classificações definem benefícios fiscais e regulatórios importantes — e dependem só do faturamento anual.",
@@ -7391,7 +7785,7 @@
     ]
   },
   {
-    "id": 326,
+    "id": 342,
     "slug": "loja-virtual-como-abrir-empresa",
     "title": "Loja virtual: como abrir empresa, emitir NF-e e escolher regime tributário para e-commerce",
     "excerpt": "Donos de loja virtual com estoque próprio precisam de CNPJ para emitir NF-e de cada venda — e o Simples Nacional Anexo I (4%) é o regime mais vantajoso para a maioria dos e-commerces no início.",
@@ -7415,7 +7809,7 @@
     ]
   },
   {
-    "id": 327,
+    "id": 343,
     "slug": "como-calcular-o-pro-labore-ideal",
     "title": "Como calcular o pró-labore ideal: nem tão baixo, nem tão alto",
     "excerpt": "Pró-labore baixo demais reduz benefícios previdenciários; alto demais aumenta encargo sem necessidade.",
@@ -7437,7 +7831,7 @@
     ]
   },
   {
-    "id": 328,
+    "id": 344,
     "slug": "fotografo-profissional-como-abrir-empresa",
     "title": "Fotógrafo profissional: como abrir empresa, emitir NFS-e e tributar sessões e licenciamento",
     "excerpt": "Fotógrafos que prestam serviços para empresas, agências e marcas precisam de CNPJ para emitir NFS-e — e a receita de licenciamento de imagens tem tratamento fiscal diferente da sessão fotográfica.",
@@ -7461,7 +7855,7 @@
     ]
   },
   {
-    "id": 329,
+    "id": 345,
     "slug": "ferramentas-de-gestao-financeira-pequena-empresa",
     "title": "Ferramentas de gestão financeira para pequena empresa: planilha, app ou sistema completo?",
     "excerpt": "A ferramenta certa depende do estágio do negócio — usar um ERP complexo demais cedo pode ser tão ruim quanto usar planilha demais tarde.",
@@ -7482,7 +7876,7 @@
     ]
   },
   {
-    "id": 330,
+    "id": 346,
     "slug": "copywriter-como-abrir-empresa",
     "title": "Copywriter: como abrir empresa e precificar textos com segurança fiscal",
     "excerpt": "Copywriters e redatores digitais que trabalham com agências e infoprodutores precisam de CNPJ para emitir NFS-e — e o Simples Nacional Anexo III pode garantir alíquota de 6% sobre os honorários.",
@@ -7506,7 +7900,7 @@
     ]
   },
   {
-    "id": 331,
+    "id": 347,
     "slug": "o-que-e-lucro-presumido",
     "title": "O que é Lucro Presumido: o que significa e como funciona na prática",
     "excerpt": "Esse regime tributa com base numa margem de lucro presumida por lei — não no lucro real que a empresa teve.",
@@ -7528,7 +7922,7 @@
     ]
   },
   {
-    "id": 332,
+    "id": 348,
     "slug": "gestao-de-socios-divisao-de-lucros",
     "title": "Gestão de sócios e divisão de lucros: como evitar a fonte mais comum de conflito",
     "excerpt": "Dividir lucro de forma proporcional ao capital nem sempre é justo quando a dedicação dos sócios é desigual.",
@@ -7550,7 +7944,7 @@
     ]
   },
   {
-    "id": 333,
+    "id": 349,
     "slug": "influenciador-digital-como-abrir-empresa",
     "title": "Influenciador digital: como abrir empresa e emitir nota fiscal de publis e parcerias",
     "excerpt": "Influenciadores no Instagram, TikTok e Pinterest que recebem publis e produtos precisam de CNPJ para emitir NFS-e, contratar marcas com segurança jurídica e pagar menos imposto.",
@@ -7574,7 +7968,7 @@
     ]
   },
   {
-    "id": 334,
+    "id": 350,
     "slug": "publisher-como-abrir-empresa",
     "title": "Publisher e blogueiro: como abrir empresa e monetizar site com AdSense e publis",
     "excerpt": "Publishers e blogueiros monetizados com AdSense, conteúdo patrocinado e links de afiliados precisam de CNPJ para gerenciar múltiplas fontes de receita e pagar menos imposto.",
@@ -7598,7 +7992,7 @@
     ]
   },
   {
-    "id": 335,
+    "id": 351,
     "slug": "plano-de-cargos-simples-pequena-empresa",
     "title": "Plano de cargos simples para pequena empresa: como estruturar sem burocracia",
     "excerpt": "Não precisa de um RH robusto para ter clareza sobre funções, responsabilidades e critérios de crescimento na equipe.",
@@ -7619,7 +8013,7 @@
     ]
   },
   {
-    "id": 336,
+    "id": 352,
     "slug": "cnpj-para-desenvolvedor",
     "title": "CNPJ para desenvolvedor: como abrir empresa de TI e pagar menos imposto",
     "subtitle": "Dev PJ: estrutura certa, CNAE correto e quanto você vai pagar de imposto",
@@ -7647,7 +8041,7 @@
     ]
   },
   {
-    "id": 337,
+    "id": 353,
     "slug": "expert-mentor-como-abrir-empresa",
     "title": "Expert e mentor: como abrir empresa e estruturar mentorias individuais e em grupo",
     "excerpt": "Experts e mentores que cobram de R$ 5.000 a R$ 50.000 por programas de mentoria precisam de CNPJ para emitir honorários e proteger a relação contratual com mentees.",
@@ -7671,7 +8065,7 @@
     ]
   },
   {
-    "id": 338,
+    "id": 354,
     "slug": "como-demitir-corretamente",
     "title": "Como demitir corretamente: o que toda empresa precisa fazer certo",
     "excerpt": "Uma demissão malconduzida custa mais caro do que o aviso prévio — em processo trabalhista e em clima organizacional.",
@@ -7692,7 +8086,7 @@
     ]
   },
   {
-    "id": 339,
+    "id": 355,
     "slug": "streamer-como-abrir-empresa",
     "title": "Streamer: como abrir empresa e declarar receitas de Twitch, YouTube Gaming e brand deals",
     "excerpt": "Streamers que recebem subs, bits e brand deals em dólar precisam de CNPJ para declarar corretamente — e o regime tributário certo pode reduzir a carga fiscal em até 70% sobre o faturamento.",
@@ -7716,7 +8110,7 @@
     ]
   },
   {
-    "id": 340,
+    "id": 356,
     "slug": "o-que-e-irpj",
     "title": "O que é IRPJ: o que significa e como funciona na prática",
     "excerpt": "É o imposto de renda da empresa — calculado de forma bem diferente do imposto de renda da pessoa física.",
@@ -7738,7 +8132,7 @@
     ]
   },
   {
-    "id": 341,
+    "id": 357,
     "slug": "youtuber-como-abrir-empresa",
     "title": "Youtuber: como abrir empresa e declarar AdSense, sponsorships e merchandise",
     "excerpt": "Youtubers que faturam acima de R$ 6.750/mês em AdSense, publis e produtos precisam de CNPJ — e cada fonte de receita tem tratamento fiscal diferente que o contador precisa saber separar.",
@@ -7762,7 +8156,7 @@
     ]
   },
   {
-    "id": 342,
+    "id": 358,
     "slug": "sucessao-familiar-pequenas-empresas",
     "title": "Sucessão familiar em pequenas empresas: como planejar antes que seja tarde",
     "excerpt": "A maioria das empresas familiares brasileiras não sobrevive à segunda geração — e o motivo raramente é falta de competência.",
@@ -7783,7 +8177,7 @@
     ]
   },
   {
-    "id": 343,
+    "id": 359,
     "slug": "dropshipper-como-abrir-empresa",
     "title": "Dropshipping: como abrir empresa, emitir nota fiscal e escolher regime tributário",
     "excerpt": "Dropshippers precisam de CNPJ para emitir nota fiscal de saída — e o regime tributário certo (Simples Anexo I para comércio) pode garantir alíquota inicial de 4% sobre o faturamento.",
@@ -7807,7 +8201,7 @@
     ]
   },
   {
-    "id": 344,
+    "id": 360,
     "slug": "franquia-ou-negocio-proprio",
     "title": "Franquia ou negócio próprio: como decidir com base em mais do que intuição",
     "excerpt": "A franquia reduz risco de modelo de negócio, mas troca flexibilidade por um conjunto de regras a seguir.",
@@ -7829,7 +8223,7 @@
     ]
   },
   {
-    "id": 345,
+    "id": 361,
     "slug": "afiliado-digital-como-abrir-empresa",
     "title": "Afiliado digital: como abrir empresa e declarar comissões de marketing de afiliados",
     "excerpt": "Afiliados que faturam acima de R$ 6.750/mês precisam de CNPJ — e entender como declarar comissões de Hotmart, Amazon, Braip e outros programas é o ponto que mais gera erro fiscal.",
@@ -7853,7 +8247,7 @@
     ]
   },
   {
-    "id": 346,
+    "id": 362,
     "slug": "o-que-e-cnpj",
     "title": "O que é CNPJ: o que significa e como funciona na prática",
     "subtitle": "O documento que dá identidade jurídica à sua empresa",
@@ -7876,7 +8270,7 @@
     ]
   },
   {
-    "id": 347,
+    "id": 363,
     "slug": "infoprodutor-como-abrir-empresa",
     "title": "Infoprodutor: como abrir empresa e receber da Hotmart, Kiwify e Eduzz com nota fiscal",
     "excerpt": "Infoprodutores que faturam acima de R$ 81.000/ano precisam de CNPJ — e entender como funciona a nota fiscal com plataformas como Hotmart, Kiwify e Eduzz é o ponto que mais gera dúvida.",
@@ -7900,7 +8294,7 @@
     ]
   },
   {
-    "id": 348,
+    "id": 364,
     "slug": "nutricionista-pode-ser-mei",
     "title": "Nutricionista pode ser MEI? Não — e esta é a alternativa certa",
     "excerpt": "Nutricionistas não podem ser MEI por serem profissão regulamentada pelo CFN.",
@@ -7925,7 +8319,7 @@
     ]
   },
   {
-    "id": 349,
+    "id": 365,
     "slug": "indicadores-financeiros-essenciais-pequena-empresa",
     "title": "Indicadores financeiros essenciais que toda pequena empresa deveria acompanhar",
     "excerpt": "Não precisa de dezenas de métricas — cinco números bem acompanhados já mudam a qualidade da gestão.",
@@ -7947,7 +8341,7 @@
     ]
   },
   {
-    "id": 350,
+    "id": 366,
     "slug": "coach-executivo-trocar-de-contador",
     "title": "Coach executivo com empresa: como trocar de contador e migrar sem perder histórico",
     "excerpt": "Coaches executivos que cresceram em faturamento mas nunca revisaram o regime tributário com o contador provavelmente estão pagando mais imposto do que precisam — e nem sabem disso.",
@@ -7971,7 +8365,7 @@
     ]
   },
   {
-    "id": 351,
+    "id": 367,
     "slug": "produtor-audiovisual-trocar-de-contador",
     "title": "Produtor audiovisual: quando o contador não entende receita digital e streaming",
     "excerpt": "Produtores audiovisuais com receitas de plataformas internacionais (YouTube, Vimeo, Netflix) têm obrigações fiscais específicas que a maioria dos contadores generalistas não conhece.",
@@ -7995,7 +8389,7 @@
     ]
   },
   {
-    "id": 352,
+    "id": 368,
     "slug": "assinatura-eletronica-validade-juridica",
     "title": "Assinatura eletrônica: quando ela tem validade jurídica de verdade",
     "excerpt": "Nem toda assinatura digital é igual perante a lei — entender a diferença evita contratos frágeis demais para serem exigidos.",
@@ -8016,7 +8410,7 @@
     ]
   },
   {
-    "id": 353,
+    "id": 369,
     "slug": "consultor-de-rh-trocar-de-contador",
     "title": "Consultor de RH: como identificar se seu escritório contábil está no piloto automático",
     "excerpt": "Consultores de RH que recebem guias certas mas nunca receberam uma análise tributária proativa têm contabilidade operacional — e estão pagando pelo serviço mínimo em um momento que pede mais.",
@@ -8040,7 +8434,7 @@
     ]
   },
   {
-    "id": 354,
+    "id": 370,
     "slug": "imobiliaria-trocar-de-contador",
     "title": "Imobiliária: por que o regime tributário errado custa mais que a comissão perdida",
     "excerpt": "Imobiliárias enquadradas no regime tributário errado podem pagar 5 a 8 pontos percentuais a mais sobre o faturamento — uma diferença que supera facilmente o valor de uma comissão perdida em uma negociação.",
@@ -8064,7 +8458,7 @@
     ]
   },
   {
-    "id": 355,
+    "id": 371,
     "slug": "tributos-sobre-folha-de-pagamento",
     "title": "Tributos sobre folha de pagamento: o que incide e quanto realmente pesa",
     "excerpt": "Contratar custa mais do que o salário nominal sugere — entenda cada tributo que compõe esse custo adicional.",
@@ -8086,7 +8480,7 @@
     ]
   },
   {
-    "id": 356,
+    "id": 372,
     "slug": "consultor-de-ti-trocar-de-contador",
     "title": "Consultor de TI: quando o contador generalista começa a custar caro",
     "excerpt": "Consultores de TI que faturam acima de R$ 15.000/mês e ainda pagam Fator R errado ou usam o CNAE incorreto estão perdendo dinheiro por falta de especialização do escritório contábil.",
@@ -8110,7 +8504,7 @@
     ]
   },
   {
-    "id": 357,
+    "id": 373,
     "slug": "acordo-de-socios-clausulas-que-evitam-briga",
     "title": "Acordo de sócios: as cláusulas que evitam briga entre sócios no futuro",
     "excerpt": "A maioria das brigas societárias começa porque ninguém definiu, no começo, o que fazer quando alguém quer saída.",
@@ -8132,7 +8526,7 @@
     ]
   },
   {
-    "id": 358,
+    "id": 374,
     "slug": "designer-grafico-trocar-de-contador",
     "title": "Designer com CNPJ: como migrar de contador sem perder DAS em atraso",
     "excerpt": "Designers gráficos e de UI/UX que trocam de contador no meio do ano precisam garantir que nenhuma guia fique sem responsável durante a transição — um erro simples que pode gerar multa.",
@@ -8156,7 +8550,7 @@
     ]
   },
   {
-    "id": 359,
+    "id": 375,
     "slug": "gestor-de-trafego-trocar-de-contador",
     "title": "Gestor de tráfego: 5 sinais de que seu contador não conhece o mercado digital",
     "excerpt": "Gestores de tráfego que emitem NFS-e de serviços digitais mas nunca receberam orientação sobre ISS, CNAE de publicidade ou regime tributário provavelmente têm o contador errado.",
@@ -8180,7 +8574,7 @@
     ]
   },
   {
-    "id": 360,
+    "id": 376,
     "slug": "mudanca-de-regime-tributario-quando-vale-a-pena",
     "title": "Mudança de regime tributário: quando vale a pena e como fazer",
     "excerpt": "Sair do Simples Nacional nem sempre é sinal de problema — em alguns casos, é sinal de que a empresa cresceu bem.",
@@ -8203,7 +8597,7 @@
     ]
   },
   {
-    "id": 361,
+    "id": 377,
     "slug": "engenheiro-pode-ser-mei",
     "title": "Engenheiro pode ser MEI? A verdade sobre a vedação e as alternativas",
     "excerpt": "Engenheiro não pode ser MEI — e o CREA não permite. Veja como formalizar corretamente.",
@@ -8229,7 +8623,7 @@
     ]
   },
   {
-    "id": 362,
+    "id": 378,
     "slug": "planejador-financeiro-trocar-de-contador",
     "title": "Planejador financeiro com CNPJ: como encontrar contador que entende Fator R",
     "excerpt": "Planejadores financeiros CFP que pagam Anexo V sem planejamento do pró-labore perdem entre R$ 800 e R$ 2.000/mês em imposto — e raramente sabem disso porque o contador nunca explicou.",
@@ -8253,7 +8647,7 @@
     ]
   },
   {
-    "id": 363,
+    "id": 379,
     "slug": "gestor-de-patrimonio-trocar-de-contador",
     "title": "Gestor de patrimônio: por que o contador comum não atende sua empresa",
     "excerpt": "Wealth managers e AAIs têm receitas compostas por honorários, performance fees e comissões de produto — cada uma com tributação diferente que o contador generalista raramente sabe separar.",
@@ -8277,7 +8671,7 @@
     ]
   },
   {
-    "id": 364,
+    "id": 380,
     "slug": "planejamento-tributario-fim-de-ano",
     "title": "Planejamento tributário de fim de ano: o que revisar antes de virar o ano",
     "excerpt": "Várias decisões tributárias só podem ser tomadas no início do ano-calendário — perder esse prazo significa esperar 12 meses.",
@@ -8298,7 +8692,7 @@
     ]
   },
   {
-    "id": 365,
+    "id": 381,
     "slug": "capital-de-giro-o-que-e",
     "title": "Capital de giro: o que é, como calcular e por que sua empresa precisa dele",
     "excerpt": "É o dinheiro que sustenta a operação entre o momento de pagar fornecedores e o momento de receber dos clientes.",
@@ -8320,7 +8714,7 @@
     ]
   },
   {
-    "id": 366,
+    "id": 382,
     "slug": "coach-executivo-como-abrir-empresa",
     "title": "Coach executivo e consultor: como abrir empresa sem pagar imposto em excesso",
     "excerpt": "Coaches executivos e consultores de negócios que atendem empresas e executivos precisam de CNPJ para emitir honorários — e o regime tributário certo pode reduzir a carga de 27,5% para menos de 10%.",
@@ -8344,7 +8738,7 @@
     ]
   },
   {
-    "id": 367,
+    "id": 383,
     "slug": "direito-do-consumidor-pequena-empresa",
     "title": "Direito do consumidor: o que toda pequena empresa precisa saber",
     "excerpt": "Desconhecer essas regras não isenta a empresa de cumpri-las — e o desconhecimento custa caro em caso de reclamação.",
@@ -8366,7 +8760,7 @@
     ]
   },
   {
-    "id": 368,
+    "id": 384,
     "slug": "especialista-em-seo-como-abrir-empresa",
     "title": "Especialista em SEO: como abrir empresa e emitir NFS-e de marketing digital",
     "excerpt": "Especialistas em SEO que prestam serviços para agências e empresas precisam de CNPJ para emitir nota fiscal — e o Simples Nacional com CNAE correto pode garantir alíquota de 6% desde o início.",
@@ -8390,7 +8784,7 @@
     ]
   },
   {
-    "id": 369,
+    "id": 385,
     "slug": "negociacao-com-fornecedores-taticas",
     "title": "Negociação com fornecedores: táticas que realmente funcionam para pequenos negócios",
     "excerpt": "Negociar não é só pedir desconto — é entender o que o fornecedor valoriza além do preço.",
@@ -8411,7 +8805,7 @@
     ]
   },
   {
-    "id": 370,
+    "id": 386,
     "slug": "como-abrir-empresa-para-advogados",
     "title": "Como abrir empresa para advogados: Sociedade Individual de Advocacia passo a passo",
     "subtitle": "Da OAB ao CNPJ: o guia completo para advogados que querem ser PJ",
@@ -8439,7 +8833,7 @@
     ]
   },
   {
-    "id": 371,
+    "id": 387,
     "slug": "produtor-audiovisual-como-abrir-empresa",
     "title": "Produtor audiovisual e editor de vídeo: como abrir empresa e estruturar contratos",
     "excerpt": "Produtores audiovisuais e editores de vídeo que prestam serviços para marcas, agências e plataformas precisam de CNPJ para emitir NFS-e e proteger direitos autorais em contrato.",
@@ -8463,7 +8857,7 @@
     ]
   },
   {
-    "id": 372,
+    "id": 388,
     "slug": "obrigacoes-acessorias-calendario-fiscal",
     "title": "Obrigações acessórias mensais: o calendário fiscal que toda pequena empresa precisa seguir",
     "excerpt": "Perder um prazo de obrigação acessória pode gerar multa mesmo quando todo o imposto foi pago corretamente.",
@@ -8485,7 +8879,7 @@
     ]
   },
   {
-    "id": 373,
+    "id": 389,
     "slug": "advogado-pode-ser-mei",
     "title": "Advogado pode ser MEI? Por que a OAB veda e o que fazer",
     "excerpt": "Advogado não pode ser MEI — e a vedação vem tanto da lei do MEI quanto do Estatuto da OAB.",
@@ -8511,7 +8905,7 @@
     ]
   },
   {
-    "id": 374,
+    "id": 390,
     "slug": "clt-ou-terceirizacao-como-decidir",
     "title": "CLT ou terceirização: como decidir com base em custo real, não em achismo",
     "excerpt": "A resposta certa depende menos de preferência e mais da natureza da atividade e do volume de trabalho envolvido.",
@@ -8533,7 +8927,7 @@
     ]
   },
   {
-    "id": 375,
+    "id": 391,
     "slug": "consultor-de-rh-como-abrir-empresa",
     "title": "Consultor de RH: como formalizar empresa e otimizar a carga tributária",
     "excerpt": "Consultores de RH que atuam em recrutamento, treinamento ou BPO de pessoas precisam de CNPJ para contratos corporativos — e o regime tributário correto pode reduzir imposto em 40%.",
@@ -8557,7 +8951,7 @@
     ]
   },
   {
-    "id": 376,
+    "id": 392,
     "slug": "propriedade-intelectual-pequenas-empresas",
     "title": "Propriedade intelectual para pequenas empresas: o que proteger primeiro",
     "excerpt": "Marca, criação, processo — nem tudo se protege da mesma forma, e proteger a coisa errada é desperdício de tempo e dinheiro.",
@@ -8579,7 +8973,7 @@
     ]
   },
   {
-    "id": 377,
+    "id": 393,
     "slug": "imobiliaria-como-abrir-empresa",
     "title": "Como abrir uma imobiliária: CRECI jurídico, tipo societário e tributação",
     "excerpt": "Abrir uma imobiliária exige CRECI pessoa jurídica, alvará municipal e escolha entre Simples Nacional e Lucro Presumido — e a tributação correta pode representar diferença de até R$ 3.000/mês em impostos.",
@@ -8603,7 +8997,7 @@
     ]
   },
   {
-    "id": 378,
+    "id": 394,
     "slug": "primeiro-funcionario-o-que-muda",
     "title": "Contratação do primeiro funcionário: o que muda de fato na empresa",
     "excerpt": "Contratar a primeira pessoa é um salto de complexidade — não só financeiro, mas operacional e legal.",
@@ -8625,7 +9019,7 @@
     ]
   },
   {
-    "id": 379,
+    "id": 395,
     "slug": "nota-fiscal-eletronica-passo-a-passo",
     "title": "Nota fiscal eletrônica: passo a passo para emitir sem erro",
     "excerpt": "Um erro recorrente na emissão de notas pode gerar inconsistência fiscal que só aparece meses depois, na hora errada.",
@@ -8647,7 +9041,7 @@
     ]
   },
   {
-    "id": 380,
+    "id": 396,
     "slug": "consultor-de-ti-como-abrir-empresa",
     "title": "Consultor de TI: como abrir empresa e pagar menos imposto em tecnologia",
     "excerpt": "Consultores de TI (infra, cloud, cibersegurança, DevOps) que prestam serviços para empresas precisam de CNPJ — com Fator R, a alíquota no Simples pode cair de 15,5% para 6%.",
@@ -8671,7 +9065,7 @@
     ]
   },
   {
-    "id": 381,
+    "id": 397,
     "slug": "como-montar-dre-simples",
     "title": "Como montar uma DRE simples (sem precisar ser contador para entender)",
     "subtitle": "O relatório que mostra, em poucas linhas, se a sua empresa está dando lucro de verdade",
@@ -8695,7 +9089,7 @@
     ]
   },
   {
-    "id": 382,
+    "id": 398,
     "slug": "fisioterapeuta-pode-ser-mei",
     "title": "Fisioterapeuta pode ser MEI? A resposta e as alternativas",
     "excerpt": "Fisioterapeutas não podem ser MEI. Veja qual é a estrutura certa e como pagar menos imposto.",
@@ -8720,7 +9114,7 @@
     ]
   },
   {
-    "id": 383,
+    "id": 399,
     "slug": "designer-grafico-como-abrir-empresa",
     "title": "Designer gráfico: como abrir empresa, emitir NFS-e e escolher regime tributário",
     "excerpt": "Designers gráficos e de UI/UX que prestam serviços para agências e empresas precisam de CNPJ para emitir nota fiscal — e o Simples Nacional oferece alíquotas entre 6% e 19% dependendo do CNAE.",
@@ -8744,7 +9138,7 @@
     ]
   },
   {
-    "id": 384,
+    "id": 400,
     "slug": "distrato-como-encerrar-contrato",
     "title": "Distrato: como encerrar um contrato sem dor de cabeça depois",
     "excerpt": "A forma como um contrato termina importa tanto quanto a forma como ele começou.",
@@ -8765,7 +9159,7 @@
     ]
   },
   {
-    "id": 385,
+    "id": 401,
     "slug": "reserva-de-emergencia-empresarial",
     "title": "Reserva de emergência empresarial: quanto guardar e onde deixar esse dinheiro",
     "excerpt": "Empresas sem reserva de caixa dependem de sorte para atravessar um mês ruim — e mês ruim, eventualmente, acontece.",
@@ -8787,7 +9181,7 @@
     ]
   },
   {
-    "id": 386,
+    "id": 402,
     "slug": "cnpj-para-medico",
     "title": "CNPJ para médico: guia completo para abrir empresa médica em 2025",
     "subtitle": "CNAE, Fator R, SLU vs LTDA e quanto o médico PJ realmente paga de imposto",
@@ -8815,7 +9209,7 @@
     ]
   },
   {
-    "id": 387,
+    "id": 403,
     "slug": "gestor-de-trafego-como-abrir-empresa",
     "title": "Gestor de tráfego: como abrir empresa e emitir nota fiscal de mídia paga",
     "excerpt": "Gestores de tráfego pago que faturam acima de R$ 6.750/mês já superaram o limite do MEI — e precisam de CNPJ no Simples Nacional para emitir NFS-e e trabalhar com múltiplos clientes.",
@@ -8839,7 +9233,7 @@
     ]
   },
   {
-    "id": 388,
+    "id": 404,
     "slug": "substituicao-tributaria-por-segmento",
     "title": "Substituição tributária por segmento: o que muda para o seu tipo de negócio",
     "excerpt": "Nem todo produto está sujeito à substituição tributária — e entender se o seu está evita erro de precificação.",
@@ -8860,7 +9254,7 @@
     ]
   },
   {
-    "id": 389,
+    "id": 405,
     "slug": "planejador-financeiro-como-abrir-empresa",
     "title": "Planejador financeiro: por que ter CNPJ e qual regime tributário escolher",
     "excerpt": "Planejadores financeiros CFP que atendem clientes PF e PJ precisam de empresa para emitir honorários com segurança jurídica — e o regime tributário certo pode reduzir a carga em até 60%.",
@@ -8884,7 +9278,7 @@
     ]
   },
   {
-    "id": 390,
+    "id": 406,
     "slug": "medico-pode-ser-mei",
     "title": "Médico pode ser MEI? Por que a resposta é não (e o que fazer)",
     "subtitle": "A alternativa certa para médicos que querem se formalizar como PJ",
@@ -8911,7 +9305,7 @@
     ]
   },
   {
-    "id": 391,
+    "id": 407,
     "slug": "separar-financas-pj-e-pf",
     "title": "Separar finanças PJ e PF: por que isso evita a maior parte dos problemas",
     "excerpt": "Misturar conta da empresa com conta pessoal é o hábito mais comum — e mais caro — do pequeno empresário brasileiro.",
@@ -8933,7 +9327,7 @@
     ]
   },
   {
-    "id": 392,
+    "id": 408,
     "slug": "clausula-de-nao-concorrencia",
     "title": "Cláusula de não-concorrência: quando ela vale e quando não vale nada",
     "excerpt": "Incluir essa cláusula sem os requisitos certos pode dar a falsa sensação de proteção que, na prática, não existe.",
@@ -8954,7 +9348,7 @@
     ]
   },
   {
-    "id": 393,
+    "id": 409,
     "slug": "gestor-de-patrimonio-como-abrir-empresa",
     "title": "Gestor de patrimônio: como abrir empresa e atender às exigências regulatórias",
     "excerpt": "Wealth managers e AAIs que estruturam seus serviços como PJ precisam de CNPJ adequado, enquadramento CVM e regime tributário compatível com receitas de consultoria e performance.",
@@ -8978,7 +9372,7 @@
     ]
   },
   {
-    "id": 394,
+    "id": 410,
     "slug": "clt-ou-pj-2025",
     "title": "CLT ou PJ em 2025: qual vale mais a pena? A conta completa",
     "subtitle": "Comparação real considerando todos os benefícios, riscos e imposto de cada regime",
@@ -9005,7 +9399,7 @@
     ]
   },
   {
-    "id": 395,
+    "id": 411,
     "slug": "ponto-de-equilibrio-quanto-vender",
     "title": "Ponto de equilíbrio: quanto você precisa vender para não ter prejuízo",
     "excerpt": "Antes de pensar em lucro, toda empresa precisa saber qual é o piso mínimo de faturamento do mês.",
@@ -9028,7 +9422,7 @@
     ]
   },
   {
-    "id": 396,
+    "id": 412,
     "slug": "fator-r-como-calcular-e-por-que-importa",
     "title": "Fator R explicado: como calcular e por que ele muda sua alíquota do Simples",
     "excerpt": "Para empresas de serviço, o Fator R pode ser a diferença entre pagar Anexo III ou Anexo V — e isso pesa no bolso.",
@@ -9051,7 +9445,7 @@
     ]
   },
   {
-    "id": 397,
+    "id": 413,
     "slug": "cnpj-para-psicologo",
     "title": "CNPJ para psicólogo: como abrir empresa e pagar menos imposto",
     "subtitle": "Guia completo: CNAE, regime tributário, Fator R e documentos necessários",
@@ -9079,7 +9473,7 @@
     ]
   },
   {
-    "id": 398,
+    "id": 414,
     "slug": "margem-de-contribuicao-numero-essencial",
     "title": "Margem de contribuição: o número que toda empresa pequena devia acompanhar",
     "excerpt": "Esse indicador mostra, produto por produto, o que realmente sobra para pagar as contas fixas da empresa.",
@@ -9101,7 +9495,7 @@
     ]
   },
   {
-    "id": 399,
+    "id": 415,
     "slug": "contrato-de-prestacao-de-servico-clausulas",
     "title": "Contrato de prestação de serviço: as cláusulas que você não pode esquecer",
     "excerpt": "Um contrato malfeito só revela seus problemas no momento em que algo dá errado — e nesse momento já é tarde.",
@@ -9123,7 +9517,7 @@
     ]
   },
   {
-    "id": 400,
+    "id": 416,
     "slug": "psicologo-pode-ser-mei",
     "title": "Psicólogo pode ser MEI? A resposta direta (e o que fazer em vez disso)",
     "subtitle": "Por que a atividade de psicologia é vedada no MEI e qual é a alternativa certa",
@@ -9150,7 +9544,7 @@
     ]
   },
   {
-    "id": 401,
+    "id": 417,
     "slug": "como-precificar-sem-perder-margem",
     "title": "Como precificar seu produto ou serviço sem perder margem no processo",
     "excerpt": "Precificar olhando só para o concorrente é a forma mais rápida de trabalhar no vermelho sem perceber.",
@@ -9173,7 +9567,7 @@
     ]
   },
   {
-    "id": 402,
+    "id": 418,
     "slug": "simples-nacional-sublimites-na-pratica",
     "title": "Simples Nacional: como funcionam os sublimites na prática",
     "excerpt": "Passar de R$ 3,6 milhões de faturamento anual não tira a empresa do Simples — mas muda como o ICMS e o ISS são cobrados.",
@@ -9195,7 +9589,7 @@
     ]
   },
   {
-    "id": 403,
+    "id": 419,
     "slug": "quanto-custa-abrir-empresa",
     "title": "Quanto custa abrir empresa no Brasil em 2025",
     "subtitle": "MEI, SLU e LTDA: custos de abertura, manutenção mensal e o que varia por estado",
@@ -9221,7 +9615,7 @@
     ]
   },
   {
-    "id": 404,
+    "id": 420,
     "slug": "fluxo-de-caixa-controle-simples-que-funciona",
     "title": "Fluxo de caixa: como montar um controle simples que realmente funciona",
     "subtitle": "Sem planilha complicada — só o essencial para você nunca ser pego de surpresa",
@@ -9245,7 +9639,7 @@
     ]
   },
   {
-    "id": 405,
+    "id": 421,
     "slug": "como-abrir-empresa-passo-a-passo",
     "title": "Como abrir empresa: guia passo a passo completo em 2025",
     "subtitle": "Do CNAE ao alvará — tudo que você precisa fazer na ordem certa",
@@ -9273,7 +9667,7 @@
     ]
   },
   {
-    "id": 406,
+    "id": 422,
     "slug": "simples-nacional-2025-tabela-aliquotas",
     "title": "Simples Nacional 2025: tabela completa de alíquotas e como calcular a sua",
     "subtitle": "Os 6 Anexos, as faixas de faturamento e a fórmula para saber exatamente quanto você vai pagar",
